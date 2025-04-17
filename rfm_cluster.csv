@@ -1,0 +1,2822 @@
+Recency,Frequency,Monetary,Member_number,Category,Cluster,Customer_Segment,cluster
+3790,8,73.4,1000,Dairy,0,Loyal Dairy Buyers,0
+3789,4,75.2,1001,Dairy,0,Loyal Dairy Buyers,0
+3825,4,37.45,1002,Dairy,0,Loyal Dairy Buyers,0
+3388,13,134.29,1003,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3553,11,86.7,1004,Fresh Food,1,Regular Fresh Food Customers,0
+3495,7,33.22,1005,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3685,13,153.9,1006,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3697,11,201.5,1008,Fresh Food,4,Occasional Fresh Food Buyers,0
+3458,6,62.46,1009,Fresh Food,3,New Fresh Food Customers,0
+3385,11,113.22,1010,Fresh Food,1,Regular Fresh Food Customers,0
+3868,6,32.3,1011,Fresh Food,0,Loyal Fresh Food Buyers,0
+3633,8,101.95,1012,Fresh Food,4,Occasional Fresh Food Buyers,0
+3605,10,76.95,1013,Fresh Food,4,Occasional Fresh Food Buyers,0
+3477,4,47.4,1014,Dairy,3,New Dairy Customers,0
+3462,15,140.0,1015,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3475,14,146.7,1016,Fresh Food,1,Regular Fresh Food Customers,0
+3419,14,139.24,1017,Fresh Food,1,Regular Fresh Food Customers,0
+3631,16,113.56,1018,Fresh Food,4,Occasional Fresh Food Buyers,0
+3392,9,66.01,1019,Fresh Food,1,Regular Fresh Food Customers,0
+3401,15,148.4,1020,Dairy,1,Regular Dairy Customers,0
+3509,5,35.25,1021,Dairy,3,New Dairy Customers,0
+3388,12,96.8,1022,Dairy,1,Regular Dairy Customers,0
+3392,12,73.2,1023,Fresh Food,1,Regular Fresh Food Customers,0
+3462,9,95.3,1024,Fresh Food,1,Regular Fresh Food Customers,0
+3563,4,23.9,1025,Beverages,3,New Beverages Customers,0
+3424,32,279.4,1026,Fresh Food,2,Lost Fresh Food Customers,0
+3478,8,32.2,1027,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3393,12,95.12,1028,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3430,17,101.85,1029,Fresh Food,1,Regular Fresh Food Customers,0
+3425,5,32.54,1031,Fresh Food,3,New Fresh Food Customers,0
+3587,12,65.76,1032,Dairy,4,Occasional Dairy Buyers,0
+3857,9,165.35,1033,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3535,5,36.4,1034,Fresh Food,3,New Fresh Food Customers,0
+3381,9,112.0,1035,Dairy,1,Regular Dairy Customers,0
+3477,8,48.11,1036,Beverages,3,New Beverages Customers,0
+3411,13,116.9,1037,Fresh Food,1,Regular Fresh Food Customers,0
+3509,8,53.0,1038,Dairy,3,New Dairy Customers,0
+3720,14,84.0,1039,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3601,12,137.7,1040,Fresh Food,4,Occasional Fresh Food Buyers,0
+3518,9,36.54,1041,Fresh Food,3,New Fresh Food Customers,0
+3584,12,81.65,1042,Fresh Food,4,Occasional Fresh Food Buyers,0
+3559,10,146.1,1043,Dairy,1,Regular Dairy Customers,0
+3389,24,223.85,1044,Fresh Food,2,Lost Fresh Food Customers,0
+3455,10,82.66,1045,Fresh Food,1,Regular Fresh Food Customers,0
+3410,12,73.2,1046,Dairy,1,Regular Dairy Customers,0
+3573,9,83.65,1047,Dairy,4,Occasional Dairy Buyers,0
+3388,11,55.2,1048,Dairy,1,Regular Dairy Customers,0
+3722,6,18.0,1049,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3404,8,58.0,1050,Dairy,1,Regular Dairy Customers,0
+3607,15,170.9,1051,Fresh Food,4,Occasional Fresh Food Buyers,0
+3453,6,59.04,1052,Fresh Food,3,New Fresh Food Customers,0
+3542,14,168.41,1053,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3631,5,53.6,1054,Fresh Food,0,Loyal Fresh Food Buyers,0
+3720,10,103.0,1055,Beverages,4,Occasional Beverages Buyers,0
+3415,10,45.9,1056,Fresh Food,1,Regular Fresh Food Customers,0
+3431,12,108.0,1057,Fresh Food,1,Regular Fresh Food Customers,0
+3515,3,25.3,1058,Fresh Food,3,New Fresh Food Customers,0
+3630,8,66.7,1059,Fresh Food,4,Occasional Fresh Food Buyers,0
+3643,10,70.0,1061,Beverages,4,Occasional Beverages Buyers,0
+3702,5,32.7,1062,Dairy,0,Loyal Dairy Buyers,0
+3438,16,161.3,1063,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3450,11,69.4,1064,Fresh Food,1,Regular Fresh Food Customers,0
+3432,16,95.3,1065,Fresh Food,1,Regular Fresh Food Customers,0
+3579,16,159.3,1066,Fresh Food,4,Occasional Fresh Food Buyers,0
+3980,6,34.44,1067,Fresh Food,0,Loyal Fresh Food Buyers,0
+3470,6,38.2,1068,Dairy,3,New Dairy Customers,0
+3717,2,8.6,1069,Fresh Food,0,Loyal Fresh Food Buyers,0
+3468,11,111.27,1070,Fresh Food,1,Regular Fresh Food Customers,0
+3814,7,35.8,1071,Beverages,0,Loyal Beverages Buyers,0
+3456,15,151.14,1072,Fresh Food,1,Regular Fresh Food Customers,0
+3388,11,39.6,1073,Fresh Food,1,Regular Fresh Food Customers,0
+3612,12,108.5,1074,Household & Hygiene,4,Occasional Household & Hygiene Buyers,0
+3672,2,20.55,1075,Fresh Food,0,Loyal Fresh Food Buyers,0
+3449,9,110.4,1076,Fresh Food,1,Regular Fresh Food Customers,0
+3721,5,72.06,1077,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3414,12,56.4,1078,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3411,18,107.5,1079,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3468,6,53.1,1080,Beverages,3,New Beverages Customers,0
+3441,10,51.9,1081,Dairy,1,Regular Dairy Customers,0
+3532,8,81.5,1082,Fresh Food,4,Occasional Fresh Food Buyers,0
+3686,8,63.51,1083,Dairy,0,Loyal Dairy Buyers,0
+3950,4,19.0,1084,Fresh Food,0,Loyal Fresh Food Buyers,0
+3492,8,44.6,1085,Fresh Food,3,New Fresh Food Customers,0
+3432,6,33.3,1086,Fresh Food,3,New Fresh Food Customers,0
+3420,7,61.4,1087,Fresh Food,3,New Fresh Food Customers,0
+3501,4,12.1,1088,Fresh Food,3,New Fresh Food Customers,0
+3431,13,146.28,1089,Dairy,1,Regular Dairy Customers,0
+3543,5,68.2,1090,Dairy,3,New Dairy Customers,0
+3462,14,180.0,1092,Fresh Food,2,Lost Fresh Food Customers,0
+3800,4,20.6,1093,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3645,10,82.15,1094,Fresh Food,4,Occasional Fresh Food Buyers,0
+3950,3,38.6,1095,Fresh Food,0,Loyal Fresh Food Buyers,0
+3566,6,60.9,1096,Fresh Food,3,New Fresh Food Customers,0
+3990,2,49.0,1097,Dairy,0,Loyal Dairy Buyers,0
+3419,12,95.22,1098,Fresh Food,1,Regular Fresh Food Customers,0
+3520,11,111.23,1099,Fresh Food,1,Regular Fresh Food Customers,0
+3519,15,109.9,1100,Dairy,1,Regular Dairy Customers,0
+3503,12,90.0,1101,Dairy,1,Regular Dairy Customers,0
+3754,11,76.2,1102,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3525,16,169.96,1103,Fresh Food,4,Occasional Fresh Food Buyers,0
+3473,7,69.4,1104,Fresh Food,3,New Fresh Food Customers,0
+3717,8,62.8,1105,Fresh Food,0,Loyal Fresh Food Buyers,0
+3992,4,93.3,1107,Fresh Food,0,Loyal Fresh Food Buyers,0
+3679,18,221.86,1108,Dairy,2,Lost Dairy Customers,0
+3636,12,81.6,1109,Fresh Food,4,Occasional Fresh Food Buyers,0
+3378,6,22.7,1110,Dairy,3,New Dairy Customers,0
+3675,9,31.0,1111,Dairy,0,Loyal Dairy Buyers,0
+3566,19,156.0,1112,Specialty & Seasonal,4,Occasional Specialty & Seasonal Buyers,0
+3536,7,49.3,1113,Dairy,3,New Dairy Customers,0
+3737,10,148.6,1114,Fresh Food,4,Occasional Fresh Food Buyers,0
+3396,5,16.8,1115,Fresh Food,3,New Fresh Food Customers,0
+3571,6,72.9,1116,Fresh Food,3,New Fresh Food Customers,0
+3426,9,53.6,1117,Dairy,1,Regular Dairy Customers,0
+3542,10,62.25,1118,Dairy,1,Regular Dairy Customers,0
+3599,9,93.0,1119,Dairy,4,Occasional Dairy Buyers,0
+3470,11,176.94,1120,Fresh Food,1,Regular Fresh Food Customers,0
+3496,11,78.9,1121,Beverages,1,Regular Beverages Customers,0
+3759,4,17.09,1122,Fresh Food,0,Loyal Fresh Food Buyers,0
+3668,11,97.7,1123,Dairy,4,Occasional Dairy Buyers,0
+3792,8,40.4,1124,Beverages,0,Loyal Beverages Buyers,0
+3523,9,44.2,1125,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3440,11,120.56,1126,Dairy,1,Regular Dairy Customers,0
+3529,11,56.8,1127,Fresh Food,1,Regular Fresh Food Customers,0
+3544,8,80.06,1128,Fresh Food,4,Occasional Fresh Food Buyers,0
+3463,12,126.96,1129,Dairy,1,Regular Dairy Customers,0
+3840,4,19.92,1130,Fresh Food,0,Loyal Fresh Food Buyers,0
+3414,25,155.6,1132,Dairy,2,Lost Dairy Customers,0
+3493,12,65.3,1133,Dairy,1,Regular Dairy Customers,0
+3398,15,117.75,1134,Dairy,1,Regular Dairy Customers,0
+3400,9,122.4,1135,Dairy,1,Regular Dairy Customers,0
+3413,7,40.95,1136,Fresh Food,3,New Fresh Food Customers,0
+3437,11,83.4,1137,Fresh Food,1,Regular Fresh Food Customers,0
+3573,10,94.45,1138,Dairy,4,Occasional Dairy Buyers,0
+3496,18,187.5,1139,Fresh Food,2,Lost Fresh Food Customers,0
+3681,5,59.8,1140,Fresh Food,0,Loyal Fresh Food Buyers,0
+3519,4,40.1,1141,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3846,7,30.8,1142,Fresh Food,0,Loyal Fresh Food Buyers,0
+3677,13,102.52,1143,Dairy,4,Occasional Dairy Buyers,0
+3522,13,108.8,1144,Fresh Food,1,Regular Fresh Food Customers,0
+3832,6,43.85,1145,Fresh Food,0,Loyal Fresh Food Buyers,0
+3388,11,177.1,1146,Dairy,1,Regular Dairy Customers,0
+3636,4,41.15,1147,Frozen & Processed Food,0,Loyal Frozen & Processed Food Buyers,0
+3755,5,21.1,1148,Fresh Food,0,Loyal Fresh Food Buyers,0
+3568,7,73.6,1149,Dairy,3,New Dairy Customers,0
+3744,7,45.6,1150,Fresh Food,0,Loyal Fresh Food Buyers,0
+3401,24,241.86,1151,Fresh Food,2,Lost Fresh Food Customers,0
+3458,11,69.9,1152,Dairy,1,Regular Dairy Customers,0
+3498,20,128.25,1153,Fresh Food,2,Lost Fresh Food Customers,0
+3514,6,37.75,1154,Fresh Food,3,New Fresh Food Customers,0
+3410,10,74.75,1155,Dairy,1,Regular Dairy Customers,0
+3458,6,39.1,1156,Fresh Food,3,New Fresh Food Customers,0
+3428,10,101.67,1157,Dairy,1,Regular Dairy Customers,0
+3701,5,27.3,1158,Dairy,0,Loyal Dairy Buyers,0
+3469,27,361.45,1159,Fresh Food,2,Lost Fresh Food Customers,0
+3586,15,127.91,1160,Fresh Food,4,Occasional Fresh Food Buyers,0
+3551,8,58.76,1161,Dairy,3,New Dairy Customers,0
+3460,14,103.4,1162,Beverages,1,Regular Beverages Customers,0
+3920,2,13.8,1163,Fresh Food,0,Loyal Fresh Food Buyers,0
+3885,2,22.8,1164,Dairy,0,Loyal Dairy Buyers,0
+3954,4,33.0,1165,Fresh Food,0,Loyal Fresh Food Buyers,0
+3459,10,94.9,1166,Fresh Food,1,Regular Fresh Food Customers,0
+3600,14,117.65,1167,Fresh Food,4,Occasional Fresh Food Buyers,0
+3471,13,169.45,1168,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3564,2,64.2,1169,Beverages,3,New Beverages Customers,0
+3472,12,108.6,1170,Fresh Food,1,Regular Fresh Food Customers,0
+3676,8,54.3,1171,Beverages,0,Loyal Beverages Buyers,0
+3644,8,74.2,1173,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3531,8,95.8,1174,Fresh Food,4,Occasional Fresh Food Buyers,0
+3466,14,156.4,1175,Fresh Food,1,Regular Fresh Food Customers,0
+3474,18,271.95,1176,Fresh Food,2,Lost Fresh Food Customers,0
+3409,13,74.3,1177,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3441,12,88.4,1178,Fresh Food,1,Regular Fresh Food Customers,0
+3870,2,5.3,1179,Fresh Food,0,Loyal Fresh Food Buyers,0
+3723,4,30.6,1180,Dairy,0,Loyal Dairy Buyers,0
+3412,14,128.8,1181,Fresh Food,1,Regular Fresh Food Customers,0
+3421,2,24.2,1182,Dairy,3,New Dairy Customers,0
+3406,8,91.05,1183,Fresh Food,1,Regular Fresh Food Customers,0
+3559,13,80.6,1184,Fresh Food,4,Occasional Fresh Food Buyers,0
+3635,6,19.2,1185,Fresh Food,0,Loyal Fresh Food Buyers,0
+3526,6,28.2,1186,Dairy,3,New Dairy Customers,0
+3390,6,83.42,1187,Fresh Food,3,New Fresh Food Customers,0
+3380,19,170.95,1188,Beverages,2,Lost Beverages Customers,0
+3624,10,82.5,1189,Fresh Food,4,Occasional Fresh Food Buyers,0
+3674,13,108.1,1190,Fresh Food,4,Occasional Fresh Food Buyers,0
+3571,5,27.7,1191,Fresh Food,3,New Fresh Food Customers,0
+3592,4,45.66,1192,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3386,22,210.51,1193,Fresh Food,2,Lost Fresh Food Customers,0
+3594,17,186.6,1194,Beverages,2,Lost Beverages Customers,0
+3405,15,109.2,1195,Dairy,1,Regular Dairy Customers,0
+3616,14,155.7,1196,Fresh Food,4,Occasional Fresh Food Buyers,0
+3502,9,86.05,1197,Fresh Food,1,Regular Fresh Food Customers,0
+3384,20,164.2,1198,Fresh Food,2,Lost Fresh Food Customers,0
+3444,13,113.35,1199,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3708,13,104.36,1200,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3702,9,89.6,1201,Beverages,4,Occasional Beverages Buyers,0
+3402,12,100.9,1202,Dairy,1,Regular Dairy Customers,0
+3407,12,81.54,1204,Fresh Food,1,Regular Fresh Food Customers,0
+3451,9,78.9,1205,Dairy,1,Regular Dairy Customers,0
+3586,12,87.82,1206,Fresh Food,4,Occasional Fresh Food Buyers,0
+3484,10,74.9,1207,Dairy,1,Regular Dairy Customers,0
+3654,15,141.8,1208,Fresh Food,4,Occasional Fresh Food Buyers,0
+3607,8,98.56,1209,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3591,11,68.15,1211,Dairy,4,Occasional Dairy Buyers,0
+3666,2,4.4,1212,Fresh Food,0,Loyal Fresh Food Buyers,0
+3593,4,55.1,1213,Fresh Food,3,New Fresh Food Customers,0
+3454,8,73.4,1214,Fresh Food,3,New Fresh Food Customers,0
+3568,16,205.0,1215,Fresh Food,2,Lost Fresh Food Customers,0
+3461,20,131.17,1216,Fresh Food,2,Lost Fresh Food Customers,0
+3540,6,34.3,1217,Dairy,3,New Dairy Customers,0
+3718,12,135.7,1218,Fresh Food,4,Occasional Fresh Food Buyers,0
+3390,12,105.85,1219,Beverages,1,Regular Beverages Customers,0
+3509,9,85.35,1220,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3607,8,64.9,1221,Beverages,4,Occasional Beverages Buyers,0
+3815,7,33.3,1222,Beverages,0,Loyal Beverages Buyers,0
+3940,6,26.15,1223,Fresh Food,0,Loyal Fresh Food Buyers,0
+3439,8,62.75,1224,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3562,13,65.5,1225,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3434,10,108.95,1226,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3559,2,39.9,1227,Dairy,3,New Dairy Customers,0
+3730,8,59.2,1228,Beverages,0,Loyal Beverages Buyers,0
+3474,14,93.85,1229,Fresh Food,1,Regular Fresh Food Customers,0
+3469,9,86.3,1230,Beverages,1,Regular Beverages Customers,0
+3427,14,151.6,1231,Fresh Food,1,Regular Fresh Food Customers,0
+3479,6,81.9,1232,Beverages,3,New Beverages Customers,0
+3469,22,222.4,1233,Dairy,2,Lost Dairy Customers,0
+3418,30,240.2,1234,Beverages,2,Lost Beverages Customers,0
+3494,13,142.0,1235,Dairy,1,Regular Dairy Customers,0
+3411,14,89.0,1236,Specialty & Seasonal,1,Regular Specialty & Seasonal Customers,0
+3737,11,79.34,1237,Fresh Food,4,Occasional Fresh Food Buyers,0
+3528,4,33.32,1238,Fresh Food,3,New Fresh Food Customers,0
+3731,7,58.7,1239,Dairy,0,Loyal Dairy Buyers,0
+3724,7,89.46,1240,Fresh Food,0,Loyal Fresh Food Buyers,0
+3520,6,42.84,1241,Pantry Staples,3,New Pantry Staples Customers,0
+3778,8,90.6,1242,Fresh Food,0,Loyal Fresh Food Buyers,0
+3731,4,35.5,1243,Beverages,0,Loyal Beverages Buyers,0
+3442,2,53.7,1244,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3611,3,57.6,1245,Fresh Food,3,New Fresh Food Customers,0
+3724,7,38.42,1246,Dairy,0,Loyal Dairy Buyers,0
+3665,13,131.4,1247,Fresh Food,4,Occasional Fresh Food Buyers,0
+3392,4,26.2,1248,Fresh Food,3,New Fresh Food Customers,0
+3404,6,99.9,1249,Beverages,1,Regular Beverages Customers,0
+3392,8,84.2,1250,Fresh Food,1,Regular Fresh Food Customers,0
+3591,12,83.12,1251,Beverages,4,Occasional Beverages Buyers,0
+3434,16,137.84,1252,Fresh Food,1,Regular Fresh Food Customers,0
+3489,11,94.2,1253,Dairy,1,Regular Dairy Customers,0
+3479,12,97.85,1254,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3658,2,12.4,1255,Beverages,0,Loyal Beverages Buyers,0
+3389,19,140.56,1256,Fresh Food,2,Lost Fresh Food Customers,0
+3476,22,202.0,1257,Dairy,2,Lost Dairy Customers,0
+3380,10,47.9,1258,Beverages,1,Regular Beverages Customers,0
+3944,2,5.35,1259,Fresh Food,0,Loyal Fresh Food Buyers,0
+3682,2,5.92,1260,Fresh Food,0,Loyal Fresh Food Buyers,0
+3463,20,166.8,1261,Dairy,2,Lost Dairy Customers,0
+3428,7,69.07,1262,Fresh Food,3,New Fresh Food Customers,0
+3480,10,107.3,1263,Fresh Food,1,Regular Fresh Food Customers,0
+3384,9,39.35,1264,Fresh Food,3,New Fresh Food Customers,0
+4078,2,6.0,1265,Fresh Food,0,Loyal Fresh Food Buyers,0
+3896,6,122.6,1266,Fresh Food,0,Loyal Fresh Food Buyers,0
+3560,2,6.4,1267,Dairy,3,New Dairy Customers,0
+3471,7,102.34,1268,Pantry Staples,1,Regular Pantry Staples Customers,0
+3460,13,93.54,1269,Fresh Food,1,Regular Fresh Food Customers,0
+3562,11,121.62,1270,Fresh Food,1,Regular Fresh Food Customers,0
+3379,12,64.07,1272,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3659,16,137.68,1273,Dairy,4,Occasional Dairy Buyers,0
+3437,17,117.2,1274,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3607,9,74.5,1275,Fresh Food,4,Occasional Fresh Food Buyers,0
+3693,5,38.54,1276,Dairy,0,Loyal Dairy Buyers,0
+3413,10,67.3,1277,Dairy,1,Regular Dairy Customers,0
+3388,14,128.42,1278,Fresh Food,1,Regular Fresh Food Customers,0
+3583,6,83.16,1279,Fresh Food,0,Loyal Fresh Food Buyers,0
+3726,6,33.7,1280,Dairy,0,Loyal Dairy Buyers,0
+3612,6,82.3,1281,Fresh Food,0,Loyal Fresh Food Buyers,0
+3765,10,110.9,1282,Beverages,0,Loyal Beverages Buyers,0
+3575,13,121.2,1283,Dairy,4,Occasional Dairy Buyers,0
+4061,4,24.8,1284,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3746,6,52.3,1285,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3512,6,41.6,1286,Fresh Food,3,New Fresh Food Customers,0
+3636,15,110.58,1287,Fresh Food,4,Occasional Fresh Food Buyers,0
+3409,9,57.3,1288,Dairy,1,Regular Dairy Customers,0
+3400,10,78.0,1289,Fresh Food,1,Regular Fresh Food Customers,0
+3689,7,69.7,1290,Fresh Food,0,Loyal Fresh Food Buyers,0
+3546,4,30.3,1291,Fresh Food,3,New Fresh Food Customers,0
+3798,4,17.4,1292,Dairy,0,Loyal Dairy Buyers,0
+3410,13,82.22,1293,Dairy,1,Regular Dairy Customers,0
+3393,13,97.8,1294,Fresh Food,1,Regular Fresh Food Customers,0
+4046,5,27.0,1295,Fresh Food,0,Loyal Fresh Food Buyers,0
+3538,5,30.2,1296,Fresh Food,3,New Fresh Food Customers,0
+3462,11,120.84,1297,Fresh Food,1,Regular Fresh Food Customers,0
+3515,13,105.8,1298,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3400,11,121.2,1299,Dairy,1,Regular Dairy Customers,0
+3967,10,110.0,1300,Fresh Food,0,Loyal Fresh Food Buyers,0
+3410,18,134.4,1301,Fresh Food,2,Lost Fresh Food Customers,0
+3751,10,115.02,1302,Fresh Food,0,Loyal Fresh Food Buyers,0
+3754,4,26.3,1303,Dairy,0,Loyal Dairy Buyers,0
+3592,9,37.1,1304,Fresh Food,3,New Fresh Food Customers,0
+3391,25,230.0,1305,Fresh Food,2,Lost Fresh Food Customers,0
+3391,10,51.5,1306,Dairy,1,Regular Dairy Customers,0
+3482,15,191.9,1307,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3715,4,33.3,1308,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3397,18,158.91,1309,Dairy,2,Lost Dairy Customers,0
+3544,16,116.32,1310,Snacks,4,Occasional Snacks Buyers,0
+3957,4,10.5,1311,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3736,6,62.64,1312,Fresh Food,0,Loyal Fresh Food Buyers,0
+3617,6,53.09,1313,Fresh Food,0,Loyal Fresh Food Buyers,0
+3620,9,50.7,1314,Beverages,0,Loyal Beverages Buyers,0
+3875,6,15.3,1315,Fresh Food,0,Loyal Fresh Food Buyers,0
+3537,12,89.7,1316,Dairy,1,Regular Dairy Customers,0
+3499,14,129.0,1317,Fresh Food,1,Regular Fresh Food Customers,0
+3476,19,149.35,1318,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3393,9,111.16,1319,Fresh Food,1,Regular Fresh Food Customers,0
+3502,13,101.62,1320,Fresh Food,1,Regular Fresh Food Customers,0
+3693,6,73.3,1321,Beverages,0,Loyal Beverages Buyers,0
+3466,8,57.5,1322,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3415,14,105.75,1323,Dairy,1,Regular Dairy Customers,0
+3444,11,156.6,1324,Dairy,1,Regular Dairy Customers,0
+3491,15,106.3,1325,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3570,17,158.6,1326,Fresh Food,4,Occasional Fresh Food Buyers,0
+3512,13,71.5,1327,Fresh Food,1,Regular Fresh Food Customers,0
+3427,8,53.8,1328,Fresh Food,3,New Fresh Food Customers,0
+3452,8,143.5,1329,Fresh Food,1,Regular Fresh Food Customers,0
+3487,19,178.26,1330,Dairy,2,Lost Dairy Customers,0
+3500,6,56.6,1331,Fresh Food,3,New Fresh Food Customers,0
+3496,6,19.6,1332,Dairy,3,New Dairy Customers,0
+3873,2,10.1,1333,Fresh Food,0,Loyal Fresh Food Buyers,0
+3568,14,154.3,1334,Fresh Food,4,Occasional Fresh Food Buyers,0
+3399,11,138.6,1335,Fresh Food,1,Regular Fresh Food Customers,0
+3594,8,93.0,1336,Fresh Food,4,Occasional Fresh Food Buyers,0
+3636,5,35.0,1337,Household & Hygiene,0,Loyal Household & Hygiene Buyers,0
+3637,4,49.0,1338,Dairy,0,Loyal Dairy Buyers,0
+3480,6,78.5,1339,Fresh Food,3,New Fresh Food Customers,0
+3460,16,177.75,1340,Dairy,2,Lost Dairy Customers,0
+3605,19,165.02,1341,Fresh Food,4,Occasional Fresh Food Buyers,0
+3464,12,147.29,1342,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3740,6,32.6,1343,Fresh Food,0,Loyal Fresh Food Buyers,0
+3403,12,83.0,1344,Beverages,1,Regular Beverages Customers,0
+4037,2,8.1,1345,Fresh Food,0,Loyal Fresh Food Buyers,0
+3784,8,60.62,1346,Fresh Food,0,Loyal Fresh Food Buyers,0
+3425,16,166.19,1347,Fresh Food,2,Lost Fresh Food Customers,0
+3509,14,51.56,1348,Fresh Food,1,Regular Fresh Food Customers,0
+3403,15,100.4,1349,Dairy,1,Regular Dairy Customers,0
+3393,7,50.8,1350,Dairy,3,New Dairy Customers,0
+3635,14,98.1,1351,Fresh Food,4,Occasional Fresh Food Buyers,0
+3416,29,221.0,1352,Fresh Food,2,Lost Fresh Food Customers,0
+3786,5,107.6,1353,Fresh Food,0,Loyal Fresh Food Buyers,0
+3874,11,79.85,1354,Beverages,0,Loyal Beverages Buyers,0
+3465,6,51.94,1355,Dairy,3,New Dairy Customers,0
+3734,7,26.2,1356,Dairy,0,Loyal Dairy Buyers,0
+3699,11,139.3,1357,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3661,12,154.15,1358,Dairy,4,Occasional Dairy Buyers,0
+3389,10,111.3,1359,Fresh Food,1,Regular Fresh Food Customers,0
+3493,10,66.83,1360,Fresh Food,1,Regular Fresh Food Customers,0
+3407,13,142.1,1361,Dairy,1,Regular Dairy Customers,0
+3454,11,81.3,1362,Dairy,1,Regular Dairy Customers,0
+3401,17,110.96,1363,Dairy,1,Regular Dairy Customers,0
+3673,10,76.3,1364,Fresh Food,4,Occasional Fresh Food Buyers,0
+3490,21,189.93,1365,Fresh Food,2,Lost Fresh Food Customers,0
+3417,11,78.0,1366,Fresh Food,1,Regular Fresh Food Customers,0
+3996,6,48.4,1367,Dairy,0,Loyal Dairy Buyers,0
+3670,6,69.7,1368,Fresh Food,0,Loyal Fresh Food Buyers,0
+3395,14,86.65,1369,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3952,2,21.0,1370,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3522,14,133.9,1371,Fresh Food,1,Regular Fresh Food Customers,0
+3433,9,81.6,1372,Dairy,1,Regular Dairy Customers,0
+3800,2,11.4,1373,Dairy,0,Loyal Dairy Buyers,0
+3508,9,93.8,1374,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3472,9,64.5,1375,Fresh Food,3,New Fresh Food Customers,0
+3416,21,150.3,1376,Fresh Food,2,Lost Fresh Food Customers,0
+3427,10,60.0,1377,Dairy,1,Regular Dairy Customers,0
+3895,4,34.8,1378,Fresh Food,0,Loyal Fresh Food Buyers,0
+3836,6,68.1,1379,Fresh Food,0,Loyal Fresh Food Buyers,0
+3691,3,7.5,1380,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3491,17,203.5,1381,Beverages,2,Lost Beverages Customers,0
+3565,9,46.15,1382,Fresh Food,3,New Fresh Food Customers,0
+3509,17,85.45,1383,Fresh Food,1,Regular Fresh Food Customers,0
+3562,4,33.96,1384,Beverages,3,New Beverages Customers,0
+3722,12,98.4,1385,Fresh Food,4,Occasional Fresh Food Buyers,0
+3442,12,77.57,1386,Fresh Food,1,Regular Fresh Food Customers,0
+3396,14,137.0,1387,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3381,30,316.81,1388,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3481,7,86.5,1389,Fresh Food,3,New Fresh Food Customers,0
+3470,12,157.05,1390,Dairy,1,Regular Dairy Customers,0
+3414,11,86.6,1391,Dairy,1,Regular Dairy Customers,0
+3423,15,134.7,1392,Dairy,1,Regular Dairy Customers,0
+3691,4,51.6,1393,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3438,10,92.34,1394,Beverages,1,Regular Beverages Customers,0
+3572,25,223.29,1395,Fresh Food,2,Lost Fresh Food Customers,0
+3558,15,73.92,1396,Fresh Food,1,Regular Fresh Food Customers,0
+4052,2,13.4,1397,Dairy,0,Loyal Dairy Buyers,0
+3423,21,241.7,1398,Fresh Food,2,Lost Fresh Food Customers,0
+3574,8,56.43,1399,Fresh Food,3,New Fresh Food Customers,0
+3805,8,87.6,1400,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3491,9,79.8,1401,Beverages,1,Regular Beverages Customers,0
+3380,21,204.0,1402,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3379,17,74.9,1403,Fresh Food,1,Regular Fresh Food Customers,0
+3553,8,85.6,1404,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3530,6,49.7,1405,Dairy,3,New Dairy Customers,0
+3836,7,30.65,1406,Fresh Food,0,Loyal Fresh Food Buyers,0
+3519,11,129.16,1407,Fresh Food,1,Regular Fresh Food Customers,0
+3387,15,114.69,1408,Fresh Food,1,Regular Fresh Food Customers,0
+3428,19,140.7,1409,Fresh Food,2,Lost Fresh Food Customers,0
+3738,4,45.7,1410,Beverages,0,Loyal Beverages Buyers,0
+4033,2,12.5,1411,Fresh Food,0,Loyal Fresh Food Buyers,0
+3760,6,23.0,1412,Fresh Food,0,Loyal Fresh Food Buyers,0
+3507,6,55.7,1413,Beverages,3,New Beverages Customers,0
+3477,13,100.7,1414,Dairy,1,Regular Dairy Customers,0
+3390,9,70.7,1415,Fresh Food,1,Regular Fresh Food Customers,0
+3465,5,38.3,1416,Fresh Food,3,New Fresh Food Customers,0
+3658,5,67.78,1417,Dairy,0,Loyal Dairy Buyers,0
+3382,6,19.2,1418,Dairy,3,New Dairy Customers,0
+3542,8,76.7,1419,Dairy,3,New Dairy Customers,0
+3381,11,124.3,1420,Fresh Food,1,Regular Fresh Food Customers,0
+3459,9,150.2,1421,Beverages,1,Regular Beverages Customers,0
+3462,12,86.8,1422,Dairy,1,Regular Dairy Customers,0
+3670,8,29.8,1423,Pantry Staples,0,Loyal Pantry Staples Buyers,0
+3476,13,104.8,1424,Fresh Food,1,Regular Fresh Food Customers,0
+3608,11,64.3,1425,Fresh Food,4,Occasional Fresh Food Buyers,0
+3517,9,57.3,1426,Fresh Food,3,New Fresh Food Customers,0
+3725,8,57.1,1427,Fresh Food,0,Loyal Fresh Food Buyers,0
+3560,6,26.4,1428,Dairy,0,Loyal Dairy Buyers,0
+3702,2,11.0,1429,Dairy,0,Loyal Dairy Buyers,0
+3428,14,126.8,1430,Fresh Food,1,Regular Fresh Food Customers,0
+3404,10,37.85,1431,Dairy,1,Regular Dairy Customers,0
+3587,7,26.9,1432,Fresh Food,0,Loyal Fresh Food Buyers,0
+3862,5,111.45,1433,Dairy,0,Loyal Dairy Buyers,0
+3729,10,40.05,1434,Fresh Food,0,Loyal Fresh Food Buyers,0
+3479,13,46.7,1435,Beverages,1,Regular Beverages Customers,0
+3414,6,74.76,1436,Beverages,3,New Beverages Customers,0
+4086,3,6.9,1437,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3441,8,75.5,1438,Dairy,3,New Dairy Customers,0
+3518,14,136.75,1439,Dairy,1,Regular Dairy Customers,0
+3604,7,46.45,1440,Fresh Food,0,Loyal Fresh Food Buyers,0
+3552,4,18.1,1442,Fresh Food,3,New Fresh Food Customers,0
+3511,7,69.5,1443,Fresh Food,3,New Fresh Food Customers,0
+3386,10,62.42,1444,Fresh Food,1,Regular Fresh Food Customers,0
+3390,6,19.92,1445,Fresh Food,3,New Fresh Food Customers,0
+3428,20,209.84,1446,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3523,5,20.7,1447,Fresh Food,3,New Fresh Food Customers,0
+3496,16,121.4,1448,Fresh Food,2,Lost Fresh Food Customers,0
+3533,11,83.7,1449,Fresh Food,1,Regular Fresh Food Customers,0
+3406,8,99.36,1450,Beverages,1,Regular Beverages Customers,0
+3889,2,4.9,1451,Fresh Food,0,Loyal Fresh Food Buyers,0
+3416,15,159.22,1452,Fresh Food,1,Regular Fresh Food Customers,0
+3402,9,85.55,1453,Fresh Food,1,Regular Fresh Food Customers,0
+3490,4,23.0,1454,Fresh Food,3,New Fresh Food Customers,0
+3637,14,97.62,1455,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3703,2,63.9,1456,Dairy,0,Loyal Dairy Buyers,0
+3516,11,127.7,1457,Dairy,1,Regular Dairy Customers,0
+3408,11,76.9,1458,Fresh Food,1,Regular Fresh Food Customers,0
+3381,8,56.9,1459,Dairy,1,Regular Dairy Customers,0
+3378,13,125.6,1460,Fresh Food,1,Regular Fresh Food Customers,0
+3381,9,61.25,1461,Beverages,1,Regular Beverages Customers,0
+3546,8,105.1,1462,Beverages,4,Occasional Beverages Buyers,0
+3470,14,121.8,1463,Fresh Food,1,Regular Fresh Food Customers,0
+3547,21,202.74,1464,Fresh Food,2,Lost Fresh Food Customers,0
+3497,26,208.22,1465,Fresh Food,2,Lost Fresh Food Customers,0
+3393,12,80.3,1466,Fresh Food,1,Regular Fresh Food Customers,0
+3436,10,79.9,1467,Fresh Food,1,Regular Fresh Food Customers,0
+3539,12,96.28,1468,Fresh Food,1,Regular Fresh Food Customers,0
+3530,8,48.3,1469,Beverages,3,New Beverages Customers,0
+3396,27,256.25,1470,Fresh Food,2,Lost Fresh Food Customers,0
+3558,12,100.5,1471,Dairy,1,Regular Dairy Customers,0
+3588,14,99.7,1472,Dairy,4,Occasional Dairy Buyers,0
+3402,6,34.77,1473,Dairy,3,New Dairy Customers,0
+3394,10,70.2,1474,Fresh Food,1,Regular Fresh Food Customers,0
+3887,8,49.3,1475,Fresh Food,0,Loyal Fresh Food Buyers,0
+3557,15,130.06,1476,Dairy,4,Occasional Dairy Buyers,0
+3403,27,223.95,1477,Fresh Food,2,Lost Fresh Food Customers,0
+3422,11,97.54,1478,Dairy,1,Regular Dairy Customers,0
+3453,4,21.1,1479,Fresh Food,3,New Fresh Food Customers,0
+3519,5,53.1,1480,Fresh Food,3,New Fresh Food Customers,0
+3450,7,65.3,1481,Fresh Food,3,New Fresh Food Customers,0
+3500,11,77.54,1482,Beverages,1,Regular Beverages Customers,0
+3871,4,57.5,1483,Fresh Food,0,Loyal Fresh Food Buyers,0
+3555,12,90.75,1484,Fresh Food,1,Regular Fresh Food Customers,0
+3750,7,70.4,1485,Fresh Food,0,Loyal Fresh Food Buyers,0
+3430,14,123.52,1486,Fresh Food,1,Regular Fresh Food Customers,0
+3428,13,95.5,1487,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3431,7,59.3,1488,Fresh Food,3,New Fresh Food Customers,0
+3455,8,35.6,1489,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3534,7,43.2,1490,Dairy,3,New Dairy Customers,0
+3423,4,20.6,1491,Fresh Food,3,New Fresh Food Customers,0
+3678,17,132.7,1492,Dairy,4,Occasional Dairy Buyers,0
+3852,6,28.2,1493,Dairy,0,Loyal Dairy Buyers,0
+3414,8,71.0,1494,Dairy,1,Regular Dairy Customers,0
+3517,10,85.85,1495,Fresh Food,1,Regular Fresh Food Customers,0
+3713,9,74.6,1496,Fresh Food,4,Occasional Fresh Food Buyers,0
+3420,12,43.35,1497,Beverages,1,Regular Beverages Customers,0
+3615,5,37.8,1498,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3414,12,148.6,1499,Dairy,1,Regular Dairy Customers,0
+3383,10,63.45,1500,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3506,16,201.92,1501,Dairy,2,Lost Dairy Customers,0
+3385,16,163.14,1502,Dairy,2,Lost Dairy Customers,0
+3448,6,83.6,1503,Fresh Food,3,New Fresh Food Customers,0
+3737,13,119.52,1504,Dairy,4,Occasional Dairy Buyers,0
+3541,14,73.23,1505,Fresh Food,1,Regular Fresh Food Customers,0
+3385,15,194.4,1506,Pet Care,2,Lost Pet Care Customers,0
+3502,10,95.8,1507,Dairy,1,Regular Dairy Customers,0
+3446,6,58.4,1508,Fresh Food,3,New Fresh Food Customers,0
+3518,2,10.6,1509,Fresh Food,3,New Fresh Food Customers,0
+3807,6,72.7,1510,Fresh Food,0,Loyal Fresh Food Buyers,0
+3412,24,165.52,1511,Beverages,2,Lost Beverages Customers,0
+3511,9,74.85,1512,Dairy,1,Regular Dairy Customers,0
+3789,10,111.2,1513,Beverages,0,Loyal Beverages Buyers,0
+3379,14,98.55,1514,Dairy,1,Regular Dairy Customers,0
+3547,10,87.8,1515,Fresh Food,1,Regular Fresh Food Customers,0
+3471,12,75.74,1516,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3711,3,44.92,1517,Fresh Food,0,Loyal Fresh Food Buyers,0
+3904,2,22.4,1518,Fresh Food,0,Loyal Fresh Food Buyers,0
+3460,19,167.3,1519,Dairy,2,Lost Dairy Customers,0
+3545,7,91.1,1520,Fresh Food,4,Occasional Fresh Food Buyers,0
+3506,11,86.4,1521,Dairy,1,Regular Dairy Customers,0
+3544,8,76.1,1522,Dairy,3,New Dairy Customers,0
+3595,2,39.4,1523,Fresh Food,3,New Fresh Food Customers,0
+3739,16,157.4,1524,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3397,11,98.44,1525,Beverages,1,Regular Beverages Customers,0
+3670,4,74.2,1526,Dairy,0,Loyal Dairy Buyers,0
+3748,4,52.3,1527,Fresh Food,0,Loyal Fresh Food Buyers,0
+3444,8,29.45,1528,Fresh Food,3,New Fresh Food Customers,0
+3407,18,155.76,1529,Fresh Food,2,Lost Fresh Food Customers,0
+3644,6,92.3,1530,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3421,12,124.0,1531,Fresh Food,1,Regular Fresh Food Customers,0
+3394,12,99.85,1532,Dairy,1,Regular Dairy Customers,0
+3424,12,143.8,1533,Fresh Food,1,Regular Fresh Food Customers,0
+3657,5,67.5,1534,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3627,20,153.97,1535,Fresh Food,4,Occasional Fresh Food Buyers,0
+3669,10,35.4,1536,Fresh Food,0,Loyal Fresh Food Buyers,0
+3443,5,53.1,1537,Beverages,3,New Beverages Customers,0
+3589,13,84.25,1538,Fresh Food,4,Occasional Fresh Food Buyers,0
+3380,5,42.8,1539,Fresh Food,3,New Fresh Food Customers,0
+3623,18,97.64,1540,Fresh Food,4,Occasional Fresh Food Buyers,0
+3763,3,4.8,1542,Fresh Food,0,Loyal Fresh Food Buyers,0
+3821,6,41.32,1544,Fresh Food,0,Loyal Fresh Food Buyers,0
+3601,8,49.3,1545,Frozen & Processed Food,3,New Frozen & Processed Food Customers,0
+3719,17,134.45,1546,Beverages,4,Occasional Beverages Buyers,0
+3515,15,125.25,1547,Dairy,1,Regular Dairy Customers,0
+3427,3,59.1,1548,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3416,15,160.1,1549,Beverages,1,Regular Beverages Customers,0
+3392,19,158.9,1550,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3447,19,197.0,1551,Fresh Food,2,Lost Fresh Food Customers,0
+3397,17,145.44,1552,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3928,4,31.86,1553,Fresh Food,0,Loyal Fresh Food Buyers,0
+3479,14,103.1,1554,Fresh Food,1,Regular Fresh Food Customers,0
+3865,6,33.35,1555,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3716,8,60.7,1556,Fresh Food,0,Loyal Fresh Food Buyers,0
+3783,4,19.3,1557,Fresh Food,0,Loyal Fresh Food Buyers,0
+3480,8,43.4,1558,Fresh Food,3,New Fresh Food Customers,0
+3504,5,22.6,1559,Fresh Food,3,New Fresh Food Customers,0
+3448,7,75.04,1560,Snacks,3,New Snacks Customers,0
+3744,7,38.35,1561,Dairy,0,Loyal Dairy Buyers,0
+3591,18,149.25,1562,Fresh Food,4,Occasional Fresh Food Buyers,0
+3507,17,75.45,1563,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3566,2,9.0,1564,Fresh Food,3,New Fresh Food Customers,0
+3958,4,27.2,1565,Fresh Food,0,Loyal Fresh Food Buyers,0
+3606,8,72.0,1566,Fresh Food,4,Occasional Fresh Food Buyers,0
+3600,16,126.85,1567,Fresh Food,4,Occasional Fresh Food Buyers,0
+3405,16,163.9,1568,Fresh Food,2,Lost Fresh Food Customers,0
+3749,7,43.56,1569,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3394,8,53.55,1570,Fresh Food,3,New Fresh Food Customers,0
+3837,4,25.2,1571,Beverages,0,Loyal Beverages Buyers,0
+3468,11,65.7,1572,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3459,9,65.5,1573,Fresh Food,3,New Fresh Food Customers,0
+3512,4,61.8,1574,Fresh Food,3,New Fresh Food Customers,0
+3420,30,239.96,1575,Dairy,2,Lost Dairy Customers,0
+3438,8,42.2,1577,Fresh Food,3,New Fresh Food Customers,0
+3771,2,18.0,1578,Fresh Food,0,Loyal Fresh Food Buyers,0
+3402,19,178.54,1579,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3696,7,77.24,1580,Fresh Food,0,Loyal Fresh Food Buyers,0
+3472,7,30.5,1581,Fresh Food,3,New Fresh Food Customers,0
+3476,24,254.8,1582,Household & Hygiene,2,Lost Household & Hygiene Customers,0
+3411,16,102.2,1583,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3630,5,36.9,1584,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3482,6,67.2,1585,Fresh Food,3,New Fresh Food Customers,0
+3488,10,78.0,1586,Fresh Food,1,Regular Fresh Food Customers,0
+3846,4,12.9,1587,Dairy,0,Loyal Dairy Buyers,0
+3824,5,83.4,1588,Fresh Food,0,Loyal Fresh Food Buyers,0
+3426,8,61.1,1589,Fresh Food,1,Regular Fresh Food Customers,0
+3630,1,2.4,1590,Fresh Food,0,Loyal Fresh Food Buyers,0
+3682,12,96.1,1591,Dairy,4,Occasional Dairy Buyers,0
+3651,7,43.6,1592,Fresh Food,0,Loyal Fresh Food Buyers,0
+3407,12,86.55,1593,Fresh Food,1,Regular Fresh Food Customers,0
+3966,7,43.9,1594,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3564,18,135.1,1595,Fresh Food,2,Lost Fresh Food Customers,0
+3427,7,100.6,1596,Dairy,1,Regular Dairy Customers,0
+3430,13,152.7,1597,Dairy,1,Regular Dairy Customers,0
+3410,9,85.2,1598,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3416,16,193.71,1599,Fresh Food,2,Lost Fresh Food Customers,0
+3382,13,116.69,1601,Dairy,1,Regular Dairy Customers,0
+3401,12,77.15,1602,Fresh Food,1,Regular Fresh Food Customers,0
+3413,18,141.7,1603,Dairy,2,Lost Dairy Customers,0
+3560,5,45.76,1604,Fresh Food,3,New Fresh Food Customers,0
+3392,10,105.1,1605,Beverages,1,Regular Beverages Customers,0
+3601,6,57.2,1606,Fresh Food,0,Loyal Fresh Food Buyers,0
+3453,7,26.9,1607,Fresh Food,3,New Fresh Food Customers,0
+3400,16,172.97,1608,Fresh Food,2,Lost Fresh Food Customers,0
+3853,4,86.2,1609,Beverages,0,Loyal Beverages Buyers,0
+3621,8,71.9,1610,Dairy,4,Occasional Dairy Buyers,0
+3768,6,33.4,1611,Fresh Food,0,Loyal Fresh Food Buyers,0
+3448,27,208.82,1612,Frozen & Processed Food,2,Lost Frozen & Processed Food Customers,0
+3479,8,62.9,1613,Dairy,3,New Dairy Customers,0
+3639,4,84.66,1614,Dairy,0,Loyal Dairy Buyers,0
+3394,16,110.55,1615,Dairy,1,Regular Dairy Customers,0
+3575,5,38.29,1616,Dairy,3,New Dairy Customers,0
+3772,2,4.2,1617,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3475,11,62.1,1618,Dairy,1,Regular Dairy Customers,0
+3623,6,47.1,1619,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3534,8,56.3,1620,Dairy,3,New Dairy Customers,0
+3412,12,121.8,1621,Fresh Food,1,Regular Fresh Food Customers,0
+3398,8,36.1,1622,Beverages,3,New Beverages Customers,0
+3861,6,41.7,1623,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3484,6,17.0,1624,Beverages,3,New Beverages Customers,0
+3431,14,129.9,1625,Fresh Food,1,Regular Fresh Food Customers,0
+3385,6,33.6,1626,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3410,11,99.05,1627,Fresh Food,1,Regular Fresh Food Customers,0
+3757,6,57.39,1628,Dairy,0,Loyal Dairy Buyers,0
+3519,8,70.1,1629,Fresh Food,3,New Fresh Food Customers,0
+3620,6,72.0,1630,Fresh Food,0,Loyal Fresh Food Buyers,0
+3407,11,49.2,1631,Fresh Food,1,Regular Fresh Food Customers,0
+3519,8,82.7,1632,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3731,3,7.5,1633,Dairy,0,Loyal Dairy Buyers,0
+3462,12,60.4,1634,Dairy,1,Regular Dairy Customers,0
+3753,4,27.0,1635,Dairy,0,Loyal Dairy Buyers,0
+3485,16,140.6,1636,Fresh Food,2,Lost Fresh Food Customers,0
+3622,15,85.4,1638,Dairy,4,Occasional Dairy Buyers,0
+3434,17,185.5,1639,Fresh Food,2,Lost Fresh Food Customers,0
+3434,10,104.3,1640,Dairy,1,Regular Dairy Customers,0
+3460,10,125.6,1641,Fresh Food,1,Regular Fresh Food Customers,0
+3436,11,101.4,1642,Beverages,1,Regular Beverages Customers,0
+3414,19,161.76,1643,Dairy,2,Lost Dairy Customers,0
+3557,8,74.3,1644,Fresh Food,3,New Fresh Food Customers,0
+3497,11,76.0,1645,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3919,4,78.7,1646,Dairy,0,Loyal Dairy Buyers,0
+3718,8,61.8,1647,Dairy,0,Loyal Dairy Buyers,0
+3410,10,60.55,1648,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3423,9,114.88,1649,Fresh Food,1,Regular Fresh Food Customers,0
+3879,11,104.69,1650,Beverages,0,Loyal Beverages Buyers,0
+3595,9,69.3,1651,Fresh Food,4,Occasional Fresh Food Buyers,0
+3478,9,73.0,1652,Fresh Food,1,Regular Fresh Food Customers,0
+3420,6,39.8,1653,Fresh Food,3,New Fresh Food Customers,0
+3422,6,72.94,1654,Dairy,3,New Dairy Customers,0
+3466,23,260.9,1655,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3451,17,123.56,1656,Dairy,2,Lost Dairy Customers,0
+3694,6,79.5,1657,Frozen & Processed Food,0,Loyal Frozen & Processed Food Buyers,0
+3510,11,46.45,1658,Fresh Food,1,Regular Fresh Food Customers,0
+3455,4,19.5,1659,Fresh Food,3,New Fresh Food Customers,0
+3486,14,107.2,1660,Fresh Food,1,Regular Fresh Food Customers,0
+3473,13,67.54,1661,Fresh Food,1,Regular Fresh Food Customers,0
+3512,10,159.3,1662,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3668,2,36.7,1663,Fresh Food,0,Loyal Fresh Food Buyers,0
+3555,15,117.4,1664,Dairy,4,Occasional Dairy Buyers,0
+3476,16,192.1,1665,Dairy,2,Lost Dairy Customers,0
+4105,2,8.4,1666,Fresh Food,0,Loyal Fresh Food Buyers,0
+3579,20,170.72,1667,Fresh Food,4,Occasional Fresh Food Buyers,0
+3592,14,98.0,1668,Fresh Food,4,Occasional Fresh Food Buyers,0
+3930,2,14.9,1669,Fresh Food,0,Loyal Fresh Food Buyers,0
+3520,6,41.3,1670,Fresh Food,3,New Fresh Food Customers,0
+3435,10,157.5,1672,Dairy,1,Regular Dairy Customers,0
+3622,6,81.2,1673,Fresh Food,0,Loyal Fresh Food Buyers,0
+4080,4,33.4,1674,Fresh Food,0,Loyal Fresh Food Buyers,0
+3393,10,108.4,1676,Fresh Food,1,Regular Fresh Food Customers,0
+3410,5,50.4,1677,Fresh Food,3,New Fresh Food Customers,0
+3475,18,236.3,1678,Fresh Food,2,Lost Fresh Food Customers,0
+3428,11,107.11,1679,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3641,4,18.0,1680,Beverages,0,Loyal Beverages Buyers,0
+3650,10,68.9,1681,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3539,6,29.3,1682,Fresh Food,3,New Fresh Food Customers,0
+3653,3,29.14,1683,Fresh Food,0,Loyal Fresh Food Buyers,0
+3590,2,7.4,1684,Dairy,3,New Dairy Customers,0
+3382,21,262.2,1685,Beverages,2,Lost Beverages Customers,0
+3747,6,37.73,1686,Fresh Food,0,Loyal Fresh Food Buyers,0
+3429,21,220.0,1687,Fresh Food,2,Lost Fresh Food Customers,0
+3480,4,37.2,1688,Fresh Food,3,New Fresh Food Customers,0
+3559,4,53.8,1689,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3471,12,61.5,1690,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3520,17,312.46,1692,Fresh Food,2,Lost Fresh Food Customers,0
+3603,8,69.5,1693,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3623,15,144.6,1694,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3593,15,167.15,1695,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3500,12,131.3,1696,Fresh Food,1,Regular Fresh Food Customers,0
+4015,2,20.4,1697,Fresh Food,0,Loyal Fresh Food Buyers,0
+3569,7,65.1,1698,Fresh Food,3,New Fresh Food Customers,0
+3485,8,62.95,1699,Fresh Food,3,New Fresh Food Customers,0
+3708,11,96.37,1700,Fresh Food,4,Occasional Fresh Food Buyers,0
+3459,2,24.7,1701,Beverages,3,New Beverages Customers,0
+3491,8,48.2,1702,Dairy,3,New Dairy Customers,0
+3620,10,82.1,1703,Fresh Food,4,Occasional Fresh Food Buyers,0
+3415,10,97.9,1705,Dairy,1,Regular Dairy Customers,0
+3392,10,127.8,1706,Beverages,1,Regular Beverages Customers,0
+3419,20,212.9,1707,Fresh Food,2,Lost Fresh Food Customers,0
+3534,2,8.0,1708,Fresh Food,3,New Fresh Food Customers,0
+3522,23,135.4,1709,Fresh Food,2,Lost Fresh Food Customers,0
+3627,15,99.18,1710,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3390,9,82.35,1711,Fresh Food,1,Regular Fresh Food Customers,0
+3698,10,53.54,1712,Dairy,4,Occasional Dairy Buyers,0
+3408,12,156.25,1714,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3511,7,75.2,1715,Dairy,3,New Dairy Customers,0
+3715,5,23.1,1716,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3741,7,52.1,1717,Fresh Food,0,Loyal Fresh Food Buyers,0
+3530,12,132.63,1718,Fresh Food,1,Regular Fresh Food Customers,0
+3546,5,37.5,1719,Dairy,3,New Dairy Customers,0
+3504,7,133.7,1720,Fresh Food,1,Regular Fresh Food Customers,0
+3404,16,237.2,1721,Beverages,2,Lost Beverages Customers,0
+3957,2,14.5,1722,Dairy,0,Loyal Dairy Buyers,0
+3441,7,27.96,1723,Fresh Food,3,New Fresh Food Customers,0
+3432,10,83.3,1724,Fresh Food,1,Regular Fresh Food Customers,0
+3973,4,25.14,1725,Fresh Food,0,Loyal Fresh Food Buyers,0
+3590,10,86.2,1726,Fresh Food,4,Occasional Fresh Food Buyers,0
+3927,9,37.59,1727,Fresh Food,0,Loyal Fresh Food Buyers,0
+3381,21,218.15,1728,Beverages,2,Lost Beverages Customers,0
+3458,6,66.2,1729,Fresh Food,3,New Fresh Food Customers,0
+3590,13,88.5,1730,Fresh Food,4,Occasional Fresh Food Buyers,0
+3582,9,70.7,1731,Fresh Food,4,Occasional Fresh Food Buyers,0
+3652,2,7.8,1732,Fresh Food,0,Loyal Fresh Food Buyers,0
+3425,13,133.95,1733,Dairy,1,Regular Dairy Customers,0
+3451,10,132.96,1734,Fresh Food,1,Regular Fresh Food Customers,0
+3658,7,71.3,1735,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3567,16,155.6,1736,Dairy,4,Occasional Dairy Buyers,0
+3496,9,36.6,1737,Fresh Food,3,New Fresh Food Customers,0
+3590,23,209.6,1738,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3378,8,80.5,1739,Fresh Food,1,Regular Fresh Food Customers,0
+3782,2,38.1,1740,Fresh Food,0,Loyal Fresh Food Buyers,0
+3445,15,92.9,1741,Fresh Food,1,Regular Fresh Food Customers,0
+3470,18,236.4,1742,Fresh Food,2,Lost Fresh Food Customers,0
+3616,12,74.0,1743,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3452,12,69.0,1744,Beverages,1,Regular Beverages Customers,0
+3487,5,50.7,1745,Fresh Food,3,New Fresh Food Customers,0
+3508,8,29.2,1746,Fresh Food,3,New Fresh Food Customers,0
+3489,21,161.7,1747,Fresh Food,2,Lost Fresh Food Customers,0
+3467,13,78.15,1748,Dairy,1,Regular Dairy Customers,0
+3824,8,22.35,1749,Fresh Food,0,Loyal Fresh Food Buyers,0
+3758,8,59.2,1750,Fresh Food,0,Loyal Fresh Food Buyers,0
+3808,11,96.62,1751,Dairy,0,Loyal Dairy Buyers,0
+3724,9,71.6,1752,Fresh Food,4,Occasional Fresh Food Buyers,0
+3500,11,77.85,1753,Fresh Food,1,Regular Fresh Food Customers,0
+4011,10,98.5,1754,Fresh Food,0,Loyal Fresh Food Buyers,0
+3558,11,63.2,1755,Dairy,4,Occasional Dairy Buyers,0
+3617,6,14.8,1756,Fresh Food,0,Loyal Fresh Food Buyers,0
+3642,6,69.35,1757,Fresh Food,0,Loyal Fresh Food Buyers,0
+3378,17,171.4,1758,Dairy,2,Lost Dairy Customers,0
+3688,20,305.72,1759,Fresh Food,2,Lost Fresh Food Customers,0
+3765,3,33.8,1760,Beverages,0,Loyal Beverages Buyers,0
+3422,15,106.6,1761,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3448,17,152.42,1762,Fresh Food,2,Lost Fresh Food Customers,0
+3489,8,101.8,1763,Fresh Food,4,Occasional Fresh Food Buyers,0
+3458,24,116.3,1764,Dairy,2,Lost Dairy Customers,0
+3386,10,98.8,1765,Pantry Staples,1,Regular Pantry Staples Customers,0
+3416,5,42.2,1766,Beverages,3,New Beverages Customers,0
+3779,2,24.2,1767,Fresh Food,0,Loyal Fresh Food Buyers,0
+3390,4,23.48,1768,Fresh Food,3,New Fresh Food Customers,0
+3817,5,63.3,1769,Dairy,0,Loyal Dairy Buyers,0
+3401,9,64.2,1770,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3379,10,129.9,1771,Fresh Food,1,Regular Fresh Food Customers,0
+3860,2,13.4,1772,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3438,8,49.22,1773,Fresh Food,3,New Fresh Food Customers,0
+4075,2,26.8,1774,Fresh Food,0,Loyal Fresh Food Buyers,0
+3389,10,71.9,1775,Fresh Food,1,Regular Fresh Food Customers,0
+3569,11,71.2,1776,Dairy,4,Occasional Dairy Buyers,0
+3736,9,52.2,1777,Fresh Food,0,Loyal Fresh Food Buyers,0
+3436,11,86.65,1778,Fresh Food,1,Regular Fresh Food Customers,0
+3516,4,52.3,1779,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3382,10,177.32,1780,Dairy,1,Regular Dairy Customers,0
+3460,19,148.52,1781,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3379,12,143.12,1782,Fresh Food,1,Regular Fresh Food Customers,0
+3480,11,56.45,1783,Fresh Food,1,Regular Fresh Food Customers,0
+3428,7,49.8,1784,Fresh Food,3,New Fresh Food Customers,0
+3438,8,180.3,1785,Fresh Food,1,Regular Fresh Food Customers,0
+3523,15,117.9,1786,Beverages,4,Occasional Beverages Buyers,0
+3388,2,9.0,1787,Fresh Food,3,New Fresh Food Customers,0
+3532,4,67.8,1788,Fresh Food,3,New Fresh Food Customers,0
+3394,9,55.3,1789,Fresh Food,1,Regular Fresh Food Customers,0
+3601,2,18.8,1790,Fresh Food,3,New Fresh Food Customers,0
+3468,4,31.9,1791,Fresh Food,3,New Fresh Food Customers,0
+3476,6,58.36,1792,Fresh Food,3,New Fresh Food Customers,0
+3415,13,167.0,1793,Fresh Food,2,Lost Fresh Food Customers,0
+3423,4,21.4,1794,Beverages,3,New Beverages Customers,0
+3414,11,133.35,1795,Fresh Food,1,Regular Fresh Food Customers,0
+3656,9,121.6,1796,Dairy,4,Occasional Dairy Buyers,0
+3483,29,277.4,1797,Fresh Food,2,Lost Fresh Food Customers,0
+3583,2,19.5,1798,Fresh Food,3,New Fresh Food Customers,0
+3786,5,26.9,1799,Fresh Food,0,Loyal Fresh Food Buyers,0
+3703,11,144.02,1800,Dairy,4,Occasional Dairy Buyers,0
+3430,23,215.0,1801,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3634,15,177.8,1803,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3871,3,36.8,1804,Dairy,0,Loyal Dairy Buyers,0
+3700,4,46.9,1805,Fresh Food,0,Loyal Fresh Food Buyers,0
+3388,14,127.48,1806,Dairy,1,Regular Dairy Customers,0
+3406,12,70.55,1807,Fresh Food,1,Regular Fresh Food Customers,0
+3522,6,28.98,1808,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3919,7,113.0,1809,Dairy,0,Loyal Dairy Buyers,0
+3527,10,76.04,1810,Fresh Food,1,Regular Fresh Food Customers,0
+3434,8,86.8,1811,Beverages,1,Regular Beverages Customers,0
+4001,2,25.0,1812,Dairy,0,Loyal Dairy Buyers,0
+3385,15,98.22,1813,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3404,21,163.9,1814,Fresh Food,2,Lost Fresh Food Customers,0
+3398,14,117.1,1815,Fresh Food,1,Regular Fresh Food Customers,0
+3444,13,228.6,1816,Beverages,2,Lost Beverages Customers,0
+3388,8,77.25,1817,Dairy,1,Regular Dairy Customers,0
+3480,8,82.69,1818,Beverages,1,Regular Beverages Customers,0
+3496,16,105.0,1819,Fresh Food,1,Regular Fresh Food Customers,0
+3490,16,88.1,1820,Fresh Food,1,Regular Fresh Food Customers,0
+3437,7,57.4,1821,Fresh Food,3,New Fresh Food Customers,0
+3439,12,77.32,1822,Fresh Food,1,Regular Fresh Food Customers,0
+3642,6,75.5,1823,Dairy,0,Loyal Dairy Buyers,0
+3799,4,11.5,1824,Beverages,0,Loyal Beverages Buyers,0
+3380,13,100.7,1825,Fresh Food,1,Regular Fresh Food Customers,0
+3435,8,66.5,1826,Fresh Food,1,Regular Fresh Food Customers,0
+3955,4,28.65,1827,Dairy,0,Loyal Dairy Buyers,0
+3566,11,69.75,1828,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3457,10,85.7,1829,Fresh Food,1,Regular Fresh Food Customers,0
+3380,8,84.45,1830,Fresh Food,1,Regular Fresh Food Customers,0
+3419,14,116.0,1831,Dairy,1,Regular Dairy Customers,0
+3761,4,41.4,1832,Fresh Food,0,Loyal Fresh Food Buyers,0
+3725,4,31.1,1833,Dairy,0,Loyal Dairy Buyers,0
+3388,9,35.9,1834,Fresh Food,3,New Fresh Food Customers,0
+3722,2,11.1,1835,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3626,6,51.86,1836,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3559,5,54.15,1837,Fresh Food,3,New Fresh Food Customers,0
+3783,5,38.0,1838,Fresh Food,0,Loyal Fresh Food Buyers,0
+3396,11,101.1,1839,Fresh Food,1,Regular Fresh Food Customers,0
+3669,2,16.0,1840,Fresh Food,0,Loyal Fresh Food Buyers,0
+3516,3,36.3,1841,Fresh Food,3,New Fresh Food Customers,0
+3715,6,96.6,1842,Dairy,0,Loyal Dairy Buyers,0
+3903,7,19.7,1843,Fresh Food,0,Loyal Fresh Food Buyers,0
+3414,11,59.6,1844,Fresh Food,1,Regular Fresh Food Customers,0
+3641,12,72.72,1845,Fresh Food,4,Occasional Fresh Food Buyers,0
+3886,8,96.15,1846,Fresh Food,0,Loyal Fresh Food Buyers,0
+3514,7,76.7,1847,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3522,12,54.4,1848,Dairy,1,Regular Dairy Customers,0
+3482,9,60.3,1849,Dairy,3,New Dairy Customers,0
+3447,6,85.8,1850,Fresh Food,3,New Fresh Food Customers,0
+3553,11,94.35,1851,Fresh Food,1,Regular Fresh Food Customers,0
+3754,17,124.05,1852,Beverages,4,Occasional Beverages Buyers,0
+3668,8,53.2,1853,Fresh Food,0,Loyal Fresh Food Buyers,0
+3614,11,105.7,1854,Specialty & Seasonal,4,Occasional Specialty & Seasonal Buyers,0
+3404,15,95.8,1855,Fresh Food,1,Regular Fresh Food Customers,0
+3547,4,10.85,1856,Fresh Food,3,New Fresh Food Customers,0
+3714,11,61.79,1857,Fresh Food,4,Occasional Fresh Food Buyers,0
+3557,4,40.03,1858,Dairy,3,New Dairy Customers,0
+3408,9,67.1,1859,Fresh Food,1,Regular Fresh Food Customers,0
+3799,4,85.8,1860,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3578,13,90.39,1861,Fresh Food,4,Occasional Fresh Food Buyers,0
+3960,6,65.7,1862,Fresh Food,0,Loyal Fresh Food Buyers,0
+3397,21,252.6,1863,Dairy,2,Lost Dairy Customers,0
+3561,4,32.5,1864,Dairy,3,New Dairy Customers,0
+3458,11,60.3,1865,Fresh Food,1,Regular Fresh Food Customers,0
+3776,9,70.4,1866,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3382,6,46.7,1867,Dairy,3,New Dairy Customers,0
+3801,5,67.6,1868,Dairy,0,Loyal Dairy Buyers,0
+3419,11,63.16,1869,Fresh Food,1,Regular Fresh Food Customers,0
+3397,16,111.8,1870,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3430,7,34.15,1871,Fresh Food,3,New Fresh Food Customers,0
+3708,10,60.36,1872,Fresh Food,4,Occasional Fresh Food Buyers,0
+3477,9,164.0,1873,Fresh Food,1,Regular Fresh Food Customers,0
+3812,4,68.7,1874,Fresh Food,0,Loyal Fresh Food Buyers,0
+3660,14,82.5,1875,Beverages,4,Occasional Beverages Buyers,0
+3921,3,27.7,1876,Fresh Food,0,Loyal Fresh Food Buyers,0
+3663,17,88.5,1877,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3646,8,56.8,1878,Fresh Food,0,Loyal Fresh Food Buyers,0
+3486,9,58.5,1879,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3733,10,62.7,1880,Beverages,0,Loyal Beverages Buyers,0
+3583,4,55.2,1881,Beverages,3,New Beverages Customers,0
+3530,17,102.16,1882,Fresh Food,1,Regular Fresh Food Customers,0
+3566,7,88.8,1883,Dairy,4,Occasional Dairy Buyers,0
+3527,8,55.8,1884,Fresh Food,3,New Fresh Food Customers,0
+3431,11,74.2,1885,Dairy,1,Regular Dairy Customers,0
+3466,12,45.3,1886,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3710,12,79.35,1887,Dairy,4,Occasional Dairy Buyers,0
+3571,8,54.23,1888,Dairy,3,New Dairy Customers,0
+3710,13,130.9,1889,Fresh Food,4,Occasional Fresh Food Buyers,0
+3542,5,60.8,1890,Fresh Food,3,New Fresh Food Customers,0
+3434,18,162.74,1891,Dairy,2,Lost Dairy Customers,0
+3545,7,93.1,1892,Fresh Food,4,Occasional Fresh Food Buyers,0
+3572,10,80.24,1893,Fresh Food,4,Occasional Fresh Food Buyers,0
+3955,5,40.26,1894,Fresh Food,0,Loyal Fresh Food Buyers,0
+3459,15,125.34,1895,Dairy,1,Regular Dairy Customers,0
+3386,7,37.65,1896,Fresh Food,3,New Fresh Food Customers,0
+3413,15,149.36,1897,Fresh Food,1,Regular Fresh Food Customers,0
+3738,3,14.6,1898,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3586,7,29.5,1899,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3585,15,69.4,1900,Fresh Food,1,Regular Fresh Food Customers,0
+3406,11,60.8,1901,Fresh Food,1,Regular Fresh Food Customers,0
+3411,19,153.56,1902,Dairy,2,Lost Dairy Customers,0
+3577,10,76.4,1903,Fresh Food,4,Occasional Fresh Food Buyers,0
+3389,25,239.24,1904,Dairy,2,Lost Dairy Customers,0
+3422,20,153.36,1905,Fresh Food,2,Lost Fresh Food Customers,0
+3960,4,13.2,1907,Fresh Food,0,Loyal Fresh Food Buyers,0
+3519,12,140.2,1908,Beverages,1,Regular Beverages Customers,0
+3949,6,59.45,1909,Fresh Food,0,Loyal Fresh Food Buyers,0
+3777,6,31.7,1910,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3705,6,38.65,1911,Fresh Food,0,Loyal Fresh Food Buyers,0
+3452,2,12.64,1912,Beverages,3,New Beverages Customers,0
+3400,8,73.7,1913,Dairy,1,Regular Dairy Customers,0
+3378,7,33.6,1914,Fresh Food,3,New Fresh Food Customers,0
+3715,7,91.62,1915,Beverages,0,Loyal Beverages Buyers,0
+3601,10,87.9,1916,Dairy,4,Occasional Dairy Buyers,0
+3760,12,81.6,1917,Fresh Food,4,Occasional Fresh Food Buyers,0
+3382,9,77.7,1918,Fresh Food,1,Regular Fresh Food Customers,0
+3445,13,89.4,1919,Beverages,1,Regular Beverages Customers,0
+3589,5,28.21,1920,Dairy,3,New Dairy Customers,0
+3422,12,71.5,1921,Fresh Food,1,Regular Fresh Food Customers,0
+3413,19,133.3,1922,Fresh Food,2,Lost Fresh Food Customers,0
+3521,10,76.85,1923,Fresh Food,1,Regular Fresh Food Customers,0
+3625,7,70.96,1924,Fresh Food,0,Loyal Fresh Food Buyers,0
+3405,9,43.8,1925,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3566,12,95.9,1926,Fresh Food,1,Regular Fresh Food Customers,0
+3488,4,66.0,1927,Pantry Staples,3,New Pantry Staples Customers,0
+3687,11,49.4,1928,Beverages,4,Occasional Beverages Buyers,0
+3593,6,21.5,1929,Fresh Food,0,Loyal Fresh Food Buyers,0
+3603,17,95.1,1930,Fresh Food,4,Occasional Fresh Food Buyers,0
+4001,2,20.6,1931,Fresh Food,0,Loyal Fresh Food Buyers,0
+3455,2,10.2,1932,Fresh Food,3,New Fresh Food Customers,0
+3712,11,81.1,1933,Fresh Food,4,Occasional Fresh Food Buyers,0
+3518,24,303.61,1934,Fresh Food,2,Lost Fresh Food Customers,0
+3695,12,111.78,1935,Fresh Food,4,Occasional Fresh Food Buyers,0
+3429,3,15.6,1936,Fresh Food,3,New Fresh Food Customers,0
+3617,15,296.96,1937,Dairy,2,Lost Dairy Customers,0
+3914,6,58.7,1938,Fresh Food,0,Loyal Fresh Food Buyers,0
+3693,5,35.59,1939,Dairy,0,Loyal Dairy Buyers,0
+3473,14,187.8,1940,Dairy,2,Lost Dairy Customers,0
+3378,16,144.87,1941,Household & Hygiene,2,Lost Household & Hygiene Customers,0
+3547,5,18.6,1942,Fresh Food,3,New Fresh Food Customers,0
+3527,8,76.3,1943,Fresh Food,3,New Fresh Food Customers,0
+3873,2,15.4,1944,Dairy,0,Loyal Dairy Buyers,0
+3384,4,25.2,1945,Dairy,3,New Dairy Customers,0
+3517,17,141.6,1946,Dairy,2,Lost Dairy Customers,0
+3979,6,46.04,1947,Dairy,0,Loyal Dairy Buyers,0
+3701,4,30.35,1948,Fresh Food,0,Loyal Fresh Food Buyers,0
+3549,11,99.1,1949,Fresh Food,1,Regular Fresh Food Customers,0
+3381,7,59.3,1950,Fresh Food,3,New Fresh Food Customers,0
+3771,4,10.7,1951,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3917,5,27.3,1952,Fresh Food,0,Loyal Fresh Food Buyers,0
+3516,14,78.1,1953,Fresh Food,1,Regular Fresh Food Customers,0
+3516,11,65.44,1954,Fresh Food,1,Regular Fresh Food Customers,0
+3569,11,45.7,1955,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3479,6,27.9,1956,Dairy,3,New Dairy Customers,0
+3509,13,82.3,1957,Fresh Food,1,Regular Fresh Food Customers,0
+3427,17,256.0,1958,Fresh Food,2,Lost Fresh Food Customers,0
+3459,10,79.3,1959,Fresh Food,1,Regular Fresh Food Customers,0
+3407,7,40.0,1960,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3471,6,70.8,1961,Fresh Food,3,New Fresh Food Customers,0
+3564,6,28.8,1962,Fresh Food,0,Loyal Fresh Food Buyers,0
+3389,5,31.4,1963,Fresh Food,3,New Fresh Food Customers,0
+3503,8,61.3,1964,Fresh Food,3,New Fresh Food Customers,0
+3712,10,58.3,1965,Fresh Food,4,Occasional Fresh Food Buyers,0
+3423,9,96.4,1966,Dairy,1,Regular Dairy Customers,0
+3533,9,68.8,1967,Fresh Food,1,Regular Fresh Food Customers,0
+3750,5,54.2,1968,Dairy,0,Loyal Dairy Buyers,0
+3450,11,131.0,1969,Fresh Food,1,Regular Fresh Food Customers,0
+3718,14,51.25,1970,Dairy,4,Occasional Dairy Buyers,0
+3484,9,74.9,1971,Beverages,1,Regular Beverages Customers,0
+3582,15,178.2,1972,Beverages,4,Occasional Beverages Buyers,0
+3591,6,89.36,1973,Fresh Food,0,Loyal Fresh Food Buyers,0
+3759,10,101.4,1974,Fresh Food,0,Loyal Fresh Food Buyers,0
+3390,15,187.8,1975,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3586,4,24.55,1976,Fresh Food,3,New Fresh Food Customers,0
+3839,8,75.0,1977,Dairy,0,Loyal Dairy Buyers,0
+3600,10,73.5,1978,Fresh Food,4,Occasional Fresh Food Buyers,0
+3409,13,74.9,1979,Dairy,1,Regular Dairy Customers,0
+3481,16,80.44,1980,Fresh Food,1,Regular Fresh Food Customers,0
+3688,5,21.1,1981,Dairy,0,Loyal Dairy Buyers,0
+3731,12,76.3,1982,Dairy,4,Occasional Dairy Buyers,0
+3410,10,40.95,1983,Fresh Food,1,Regular Fresh Food Customers,0
+3484,14,123.49,1985,Dairy,1,Regular Dairy Customers,0
+3737,2,41.4,1987,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3470,19,120.62,1988,Fresh Food,2,Lost Fresh Food Customers,0
+3657,11,143.15,1989,Beverages,4,Occasional Beverages Buyers,0
+3420,23,163.8,1990,Fresh Food,2,Lost Fresh Food Customers,0
+3492,5,28.3,1991,Fresh Food,3,New Fresh Food Customers,0
+3398,19,234.0,1992,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3706,4,82.9,1993,Fresh Food,0,Loyal Fresh Food Buyers,0
+3393,32,221.55,1994,Beverages,2,Lost Beverages Customers,0
+3409,13,100.2,1995,Fresh Food,1,Regular Fresh Food Customers,0
+3557,5,22.05,1996,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3383,9,82.2,1997,Fresh Food,1,Regular Fresh Food Customers,0
+3563,18,123.6,1998,Fresh Food,2,Lost Fresh Food Customers,0
+3512,5,56.2,1999,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3515,4,33.4,2000,Beverages,3,New Beverages Customers,0
+3910,5,35.1,2001,Fresh Food,0,Loyal Fresh Food Buyers,0
+3534,8,72.4,2002,Fresh Food,3,New Fresh Food Customers,0
+3760,9,86.54,2003,Fresh Food,0,Loyal Fresh Food Buyers,0
+3556,7,45.4,2004,Fresh Food,3,New Fresh Food Customers,0
+3403,8,42.35,2005,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3529,11,98.82,2006,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3380,10,78.2,2007,Dairy,1,Regular Dairy Customers,0
+3740,4,16.4,2008,Fresh Food,0,Loyal Fresh Food Buyers,0
+3745,7,46.95,2009,Fresh Food,0,Loyal Fresh Food Buyers,0
+3402,12,72.0,2010,Beverages,1,Regular Beverages Customers,0
+3411,10,118.08,2011,Beverages,1,Regular Beverages Customers,0
+3572,7,54.1,2012,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3643,5,29.0,2013,Fresh Food,0,Loyal Fresh Food Buyers,0
+3578,15,143.85,2014,Dairy,4,Occasional Dairy Buyers,0
+3583,16,140.15,2015,Fresh Food,4,Occasional Fresh Food Buyers,0
+3725,5,30.0,2016,Fresh Food,0,Loyal Fresh Food Buyers,0
+3639,5,40.14,2017,Fresh Food,0,Loyal Fresh Food Buyers,0
+3454,6,40.2,2018,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3400,4,45.7,2019,Fresh Food,3,New Fresh Food Customers,0
+3499,17,148.01,2020,Fresh Food,2,Lost Fresh Food Customers,0
+3498,5,27.3,2021,Dairy,3,New Dairy Customers,0
+3673,8,84.3,2022,Dairy,4,Occasional Dairy Buyers,0
+4061,2,7.85,2023,Fresh Food,0,Loyal Fresh Food Buyers,0
+3841,15,128.03,2024,Dairy,0,Loyal Dairy Buyers,0
+3474,26,156.15,2025,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3845,10,92.95,2026,Fresh Food,0,Loyal Fresh Food Buyers,0
+3443,14,84.5,2027,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3550,4,36.2,2028,Beverages,3,New Beverages Customers,0
+3648,12,61.74,2029,Fresh Food,4,Occasional Fresh Food Buyers,0
+3746,6,18.4,2030,Beverages,0,Loyal Beverages Buyers,0
+3405,8,62.8,2031,Fresh Food,1,Regular Fresh Food Customers,0
+3452,11,94.5,2032,Fresh Food,1,Regular Fresh Food Customers,0
+3434,22,145.22,2033,Fresh Food,2,Lost Fresh Food Customers,0
+3384,6,39.0,2034,Fresh Food,3,New Fresh Food Customers,0
+3670,2,7.32,2035,Fresh Food,0,Loyal Fresh Food Buyers,0
+3463,17,105.45,2036,Dairy,1,Regular Dairy Customers,0
+3456,16,114.0,2037,Fresh Food,1,Regular Fresh Food Customers,0
+3508,7,48.3,2038,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3520,2,12.4,2039,Beverages,3,New Beverages Customers,0
+3495,4,11.4,2040,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3543,12,97.6,2041,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3599,12,95.1,2042,Fresh Food,4,Occasional Fresh Food Buyers,0
+3391,14,144.1,2043,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3404,7,123.86,2044,Dairy,1,Regular Dairy Customers,0
+3763,4,13.8,2045,Fresh Food,0,Loyal Fresh Food Buyers,0
+3587,18,92.15,2046,Beverages,4,Occasional Beverages Buyers,0
+4005,2,14.2,2047,Fresh Food,0,Loyal Fresh Food Buyers,0
+3976,8,75.54,2048,Fresh Food,0,Loyal Fresh Food Buyers,0
+3422,14,101.7,2049,Fresh Food,1,Regular Fresh Food Customers,0
+4023,4,13.85,2050,Dairy,0,Loyal Dairy Buyers,0
+3562,9,92.4,2051,Fresh Food,4,Occasional Fresh Food Buyers,0
+3385,16,113.7,2053,Fresh Food,1,Regular Fresh Food Customers,0
+3603,8,48.2,2054,Dairy,3,New Dairy Customers,0
+3573,12,114.1,2055,Fresh Food,1,Regular Fresh Food Customers,0
+3805,16,185.54,2056,Dairy,4,Occasional Dairy Buyers,0
+3763,14,141.4,2057,Fresh Food,4,Occasional Fresh Food Buyers,0
+3469,12,95.5,2058,Fresh Food,1,Regular Fresh Food Customers,0
+3379,7,41.0,2059,Fresh Food,3,New Fresh Food Customers,0
+3563,17,196.8,2060,Fresh Food,2,Lost Fresh Food Customers,0
+3385,24,243.5,2061,Fresh Food,2,Lost Fresh Food Customers,0
+3438,24,117.42,2062,Fresh Food,2,Lost Fresh Food Customers,0
+3758,9,65.1,2063,Fresh Food,0,Loyal Fresh Food Buyers,0
+3643,3,5.7,2064,Dairy,0,Loyal Dairy Buyers,0
+3829,4,45.8,2065,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3771,2,8.5,2066,Dairy,0,Loyal Dairy Buyers,0
+3770,10,74.8,2067,Beverages,4,Occasional Beverages Buyers,0
+3500,17,129.8,2068,Dairy,2,Lost Dairy Customers,0
+3900,6,69.65,2069,Fresh Food,0,Loyal Fresh Food Buyers,0
+3620,6,17.5,2070,Fresh Food,0,Loyal Fresh Food Buyers,0
+3770,4,33.2,2071,Dairy,0,Loyal Dairy Buyers,0
+3501,10,75.4,2072,Fresh Food,1,Regular Fresh Food Customers,0
+3383,8,107.8,2073,Fresh Food,1,Regular Fresh Food Customers,0
+3584,2,9.4,2074,Fresh Food,3,New Fresh Food Customers,0
+3535,6,34.22,2075,Fresh Food,3,New Fresh Food Customers,0
+3989,2,7.9,2076,Household & Hygiene,0,Loyal Household & Hygiene Buyers,0
+3506,18,103.7,2077,Dairy,1,Regular Dairy Customers,0
+3633,13,89.9,2078,Fresh Food,4,Occasional Fresh Food Buyers,0
+3631,16,113.66,2079,Fresh Food,4,Occasional Fresh Food Buyers,0
+3503,12,100.13,2080,Fresh Food,1,Regular Fresh Food Customers,0
+3422,17,117.4,2081,Fresh Food,1,Regular Fresh Food Customers,0
+3863,11,42.8,2082,Fresh Food,0,Loyal Fresh Food Buyers,0
+3598,6,37.9,2083,Fresh Food,0,Loyal Fresh Food Buyers,0
+3514,13,132.52,2084,Fresh Food,1,Regular Fresh Food Customers,0
+3422,8,61.4,2085,Fresh Food,1,Regular Fresh Food Customers,0
+3929,4,21.8,2086,Fresh Food,0,Loyal Fresh Food Buyers,0
+3384,5,30.75,2087,Fresh Food,3,New Fresh Food Customers,0
+3655,11,153.16,2088,Specialty & Seasonal,4,Occasional Specialty & Seasonal Buyers,0
+4082,3,79.5,2089,Dairy,0,Loyal Dairy Buyers,0
+3474,6,45.45,2091,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3414,4,31.5,2092,Fresh Food,3,New Fresh Food Customers,0
+3461,16,96.2,2093,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3569,11,84.12,2094,Dairy,1,Regular Dairy Customers,0
+3842,2,20.0,2095,Fresh Food,0,Loyal Fresh Food Buyers,0
+3528,6,51.0,2096,Fresh Food,3,New Fresh Food Customers,0
+3826,7,59.52,2097,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3830,9,80.4,2098,Beverages,0,Loyal Beverages Buyers,0
+3616,10,118.26,2100,Fresh Food,4,Occasional Fresh Food Buyers,0
+3430,9,83.7,2101,Fresh Food,1,Regular Fresh Food Customers,0
+3585,2,2.6,2102,Fresh Food,3,New Fresh Food Customers,0
+3744,4,12.1,2103,Frozen & Processed Food,0,Loyal Frozen & Processed Food Buyers,0
+3469,21,203.76,2104,Dairy,2,Lost Dairy Customers,0
+3411,18,177.1,2105,Fresh Food,2,Lost Fresh Food Customers,0
+3624,14,131.8,2106,Dairy,4,Occasional Dairy Buyers,0
+3434,7,85.7,2107,Beverages,1,Regular Beverages Customers,0
+3392,12,67.0,2108,Fresh Food,1,Regular Fresh Food Customers,0
+3559,6,43.2,2109,Fresh Food,3,New Fresh Food Customers,0
+3405,12,137.4,2110,Fresh Food,1,Regular Fresh Food Customers,0
+3817,3,81.8,2111,Fresh Food,0,Loyal Fresh Food Buyers,0
+3682,7,31.0,2112,Dairy,0,Loyal Dairy Buyers,0
+3536,2,14.6,2113,Dairy,3,New Dairy Customers,0
+3702,4,11.8,2114,Dairy,0,Loyal Dairy Buyers,0
+3415,14,146.2,2115,Fresh Food,1,Regular Fresh Food Customers,0
+3529,13,100.1,2116,Beverages,1,Regular Beverages Customers,0
+3816,4,28.6,2117,Fresh Food,0,Loyal Fresh Food Buyers,0
+3400,12,47.1,2118,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3662,2,10.5,2119,Fresh Food,0,Loyal Fresh Food Buyers,0
+3450,36,251.45,2120,Dairy,2,Lost Dairy Customers,0
+3395,14,131.7,2121,Beverages,1,Regular Beverages Customers,0
+3454,14,162.9,2122,Fresh Food,1,Regular Fresh Food Customers,0
+3523,7,66.1,2123,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3681,11,89.9,2125,Dairy,4,Occasional Dairy Buyers,0
+3413,10,132.8,2126,Fresh Food,1,Regular Fresh Food Customers,0
+3402,6,30.59,2127,Fresh Food,3,New Fresh Food Customers,0
+3415,17,117.04,2128,Fresh Food,1,Regular Fresh Food Customers,0
+3417,12,107.46,2129,Fresh Food,1,Regular Fresh Food Customers,0
+3711,13,90.6,2131,Fresh Food,4,Occasional Fresh Food Buyers,0
+3619,14,145.8,2132,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3553,6,46.7,2133,Fresh Food,3,New Fresh Food Customers,0
+3434,5,30.44,2134,Beverages,3,New Beverages Customers,0
+4047,3,19.8,2135,Dairy,0,Loyal Dairy Buyers,0
+3568,5,51.0,2136,Dairy,3,New Dairy Customers,0
+3384,2,33.9,2137,Dairy,3,New Dairy Customers,0
+3651,8,116.9,2138,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3411,17,212.4,2139,Fresh Food,2,Lost Fresh Food Customers,0
+3424,7,56.4,2140,Fresh Food,3,New Fresh Food Customers,0
+3523,12,111.2,2141,Dairy,1,Regular Dairy Customers,0
+3614,11,113.62,2142,Fresh Food,4,Occasional Fresh Food Buyers,0
+3397,13,92.6,2143,Fresh Food,1,Regular Fresh Food Customers,0
+3456,12,115.91,2144,Fresh Food,1,Regular Fresh Food Customers,0
+3412,15,147.2,2145,Beverages,1,Regular Beverages Customers,0
+3418,12,69.4,2146,Fresh Food,1,Regular Fresh Food Customers,0
+3380,11,49.4,2147,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3385,8,75.9,2148,Fresh Food,1,Regular Fresh Food Customers,0
+3469,4,33.0,2149,Dairy,3,New Dairy Customers,0
+3754,7,70.79,2151,Fresh Food,0,Loyal Fresh Food Buyers,0
+3386,15,104.8,2152,Beverages,1,Regular Beverages Customers,0
+3540,10,96.64,2153,Beverages,1,Regular Beverages Customers,0
+3699,4,12.0,2154,Dairy,0,Loyal Dairy Buyers,0
+3663,6,43.6,2155,Dairy,0,Loyal Dairy Buyers,0
+3945,5,36.1,2156,Fresh Food,0,Loyal Fresh Food Buyers,0
+3526,7,60.54,2157,Fresh Food,3,New Fresh Food Customers,0
+3431,12,60.7,2158,Dairy,1,Regular Dairy Customers,0
+3562,22,220.9,2159,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3525,10,68.22,2160,Dairy,1,Regular Dairy Customers,0
+3889,3,75.6,2161,Fresh Food,0,Loyal Fresh Food Buyers,0
+3669,10,112.76,2162,Dairy,4,Occasional Dairy Buyers,0
+3809,8,104.2,2164,Dairy,0,Loyal Dairy Buyers,0
+3408,15,78.66,2165,Beverages,1,Regular Beverages Customers,0
+3716,8,97.8,2166,Fresh Food,0,Loyal Fresh Food Buyers,0
+3523,12,100.8,2167,Fresh Food,1,Regular Fresh Food Customers,0
+3728,2,19.6,2168,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3652,5,26.0,2169,Fresh Food,0,Loyal Fresh Food Buyers,0
+3390,16,128.45,2170,Fresh Food,1,Regular Fresh Food Customers,0
+3808,2,39.5,2171,Fresh Food,0,Loyal Fresh Food Buyers,0
+3514,2,17.1,2172,Fresh Food,3,New Fresh Food Customers,0
+3380,7,50.6,2173,Fresh Food,3,New Fresh Food Customers,0
+3557,10,79.2,2174,Fresh Food,4,Occasional Fresh Food Buyers,0
+3563,13,76.5,2175,Dairy,4,Occasional Dairy Buyers,0
+3923,8,24.0,2176,Dairy,0,Loyal Dairy Buyers,0
+3411,2,5.9,2177,Dairy,3,New Dairy Customers,0
+3741,4,11.4,2178,Fresh Food,0,Loyal Fresh Food Buyers,0
+3479,9,77.6,2179,Dairy,1,Regular Dairy Customers,0
+3599,8,33.1,2180,Fresh Food,0,Loyal Fresh Food Buyers,0
+4105,2,8.9,2181,Beverages,0,Loyal Beverages Buyers,0
+3400,18,271.8,2183,Fresh Food,2,Lost Fresh Food Customers,0
+3503,22,221.4,2184,Fresh Food,2,Lost Fresh Food Customers,0
+3437,24,165.9,2185,Fresh Food,2,Lost Fresh Food Customers,0
+3572,21,205.44,2186,Fresh Food,2,Lost Fresh Food Customers,0
+3751,4,52.35,2187,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3640,5,42.1,2188,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3508,12,60.0,2190,Fresh Food,1,Regular Fresh Food Customers,0
+3571,4,51.9,2191,Dairy,3,New Dairy Customers,0
+3450,10,73.92,2192,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3433,17,71.1,2193,Fresh Food,1,Regular Fresh Food Customers,0
+3531,9,65.3,2194,Beverages,1,Regular Beverages Customers,0
+3698,11,57.25,2195,Fresh Food,4,Occasional Fresh Food Buyers,0
+3602,13,130.34,2196,Dairy,4,Occasional Dairy Buyers,0
+3497,9,49.92,2197,Fresh Food,3,New Fresh Food Customers,0
+3406,8,80.2,2198,Fresh Food,1,Regular Fresh Food Customers,0
+3400,16,96.4,2199,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3909,7,47.3,2200,Fresh Food,0,Loyal Fresh Food Buyers,0
+3647,10,49.35,2201,Fresh Food,0,Loyal Fresh Food Buyers,0
+3399,7,55.5,2202,Fresh Food,3,New Fresh Food Customers,0
+3444,22,143.55,2203,Fresh Food,2,Lost Fresh Food Customers,0
+3724,9,50.2,2204,Beverages,0,Loyal Beverages Buyers,0
+3432,16,132.27,2205,Fresh Food,1,Regular Fresh Food Customers,0
+3462,5,26.1,2206,Fresh Food,3,New Fresh Food Customers,0
+3607,2,6.9,2207,Fresh Food,0,Loyal Fresh Food Buyers,0
+3381,6,71.4,2208,Fresh Food,3,New Fresh Food Customers,0
+3570,4,16.65,2209,Fresh Food,3,New Fresh Food Customers,0
+3473,9,81.4,2210,Fresh Food,1,Regular Fresh Food Customers,0
+3443,8,109.0,2211,Dairy,1,Regular Dairy Customers,0
+3561,15,151.8,2212,Fresh Food,4,Occasional Fresh Food Buyers,0
+3803,7,68.6,2213,Dairy,0,Loyal Dairy Buyers,0
+3774,4,38.2,2214,Beverages,0,Loyal Beverages Buyers,0
+3777,7,55.69,2215,Dairy,0,Loyal Dairy Buyers,0
+3548,6,77.8,2216,Fresh Food,3,New Fresh Food Customers,0
+3444,6,103.7,2217,Fresh Food,1,Regular Fresh Food Customers,0
+3569,11,86.83,2218,Fresh Food,1,Regular Fresh Food Customers,0
+3559,9,46.4,2219,Fresh Food,3,New Fresh Food Customers,0
+3419,16,130.2,2220,Fresh Food,1,Regular Fresh Food Customers,0
+3549,7,69.3,2221,Fresh Food,3,New Fresh Food Customers,0
+3385,4,21.6,2222,Fresh Food,3,New Fresh Food Customers,0
+3382,29,334.15,2225,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3593,2,10.9,2226,Dairy,3,New Dairy Customers,0
+3528,4,39.9,2227,Fresh Food,3,New Fresh Food Customers,0
+3486,6,136.2,2228,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3613,7,25.3,2229,Fresh Food,0,Loyal Fresh Food Buyers,0
+3558,13,127.05,2230,Fresh Food,4,Occasional Fresh Food Buyers,0
+3533,10,85.63,2231,Fresh Food,1,Regular Fresh Food Customers,0
+3513,14,119.5,2232,Fresh Food,1,Regular Fresh Food Customers,0
+3601,12,124.7,2233,Fresh Food,4,Occasional Fresh Food Buyers,0
+3596,10,122.7,2234,Fresh Food,4,Occasional Fresh Food Buyers,0
+3683,11,166.1,2235,Fresh Food,4,Occasional Fresh Food Buyers,0
+3463,11,117.95,2236,Beverages,1,Regular Beverages Customers,0
+3627,2,7.1,2237,Beverages,0,Loyal Beverages Buyers,0
+3600,6,47.7,2238,Dairy,0,Loyal Dairy Buyers,0
+3717,8,44.4,2239,Dairy,0,Loyal Dairy Buyers,0
+3408,10,80.3,2240,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3567,6,37.34,2241,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3379,16,90.8,2242,Dairy,1,Regular Dairy Customers,0
+3463,11,48.5,2243,Fresh Food,1,Regular Fresh Food Customers,0
+3446,28,163.94,2244,Fresh Food,2,Lost Fresh Food Customers,0
+3441,16,71.67,2245,Fresh Food,1,Regular Fresh Food Customers,0
+3608,11,56.55,2246,Fresh Food,4,Occasional Fresh Food Buyers,0
+3560,8,84.66,2247,Beverages,4,Occasional Beverages Buyers,0
+3384,9,95.05,2248,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3644,6,29.4,2249,Beverages,0,Loyal Beverages Buyers,0
+3882,2,21.6,2250,Dairy,0,Loyal Dairy Buyers,0
+3419,13,90.5,2251,Fresh Food,1,Regular Fresh Food Customers,0
+3735,7,62.16,2252,Dairy,0,Loyal Dairy Buyers,0
+3562,6,32.11,2253,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3540,4,43.8,2254,Dairy,3,New Dairy Customers,0
+3421,5,34.0,2255,Fresh Food,3,New Fresh Food Customers,0
+4005,6,73.4,2256,Dairy,0,Loyal Dairy Buyers,0
+3383,14,91.8,2257,Fresh Food,1,Regular Fresh Food Customers,0
+3458,16,149.8,2258,Dairy,2,Lost Dairy Customers,0
+3399,11,96.36,2259,Fresh Food,1,Regular Fresh Food Customers,0
+3506,11,64.5,2260,Fresh Food,1,Regular Fresh Food Customers,0
+3409,13,132.62,2261,Fresh Food,1,Regular Fresh Food Customers,0
+3622,4,31.5,2262,Fresh Food,0,Loyal Fresh Food Buyers,0
+3618,14,78.53,2263,Fresh Food,4,Occasional Fresh Food Buyers,0
+3454,11,120.12,2264,Beverages,1,Regular Beverages Customers,0
+3690,13,112.6,2265,Dairy,4,Occasional Dairy Buyers,0
+3535,5,54.0,2266,Dairy,3,New Dairy Customers,0
+3536,7,38.12,2267,Fresh Food,3,New Fresh Food Customers,0
+3689,4,11.6,2269,Fresh Food,0,Loyal Fresh Food Buyers,0
+3619,9,91.0,2270,Fresh Food,4,Occasional Fresh Food Buyers,0
+3859,4,37.5,2271,Dairy,0,Loyal Dairy Buyers,0
+3657,2,22.2,2272,Dairy,0,Loyal Dairy Buyers,0
+3581,16,141.86,2273,Fresh Food,4,Occasional Fresh Food Buyers,0
+3513,9,69.1,2274,Fresh Food,1,Regular Fresh Food Customers,0
+3400,9,74.0,2275,Dairy,1,Regular Dairy Customers,0
+3393,5,43.52,2276,Dairy,3,New Dairy Customers,0
+3569,8,104.5,2277,Beverages,4,Occasional Beverages Buyers,0
+3612,10,94.44,2278,Beverages,4,Occasional Beverages Buyers,0
+3651,12,45.2,2279,Beverages,4,Occasional Beverages Buyers,0
+3469,2,5.2,2280,Fresh Food,3,New Fresh Food Customers,0
+3611,6,169.7,2281,Fresh Food,1,Regular Fresh Food Customers,0
+3586,14,135.8,2282,Fresh Food,4,Occasional Fresh Food Buyers,0
+3403,14,108.65,2283,Fresh Food,1,Regular Fresh Food Customers,0
+3914,8,97.8,2284,Fresh Food,0,Loyal Fresh Food Buyers,0
+3964,4,11.9,2285,Fresh Food,0,Loyal Fresh Food Buyers,0
+3455,6,45.2,2286,Fresh Food,3,New Fresh Food Customers,0
+3430,7,38.2,2287,Dairy,3,New Dairy Customers,0
+3516,19,113.35,2288,Fresh Food,2,Lost Fresh Food Customers,0
+3409,15,127.6,2289,Beverages,1,Regular Beverages Customers,0
+3406,6,103.8,2290,Fresh Food,1,Regular Fresh Food Customers,0
+3599,16,117.3,2291,Fresh Food,4,Occasional Fresh Food Buyers,0
+3583,9,81.7,2292,Fresh Food,4,Occasional Fresh Food Buyers,0
+3654,18,165.9,2293,Fresh Food,4,Occasional Fresh Food Buyers,0
+3901,5,41.82,2294,Fresh Food,0,Loyal Fresh Food Buyers,0
+3424,10,121.6,2295,Fresh Food,1,Regular Fresh Food Customers,0
+3539,22,240.5,2296,Fresh Food,2,Lost Fresh Food Customers,0
+3956,2,4.6,2297,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3379,13,84.5,2298,Fresh Food,1,Regular Fresh Food Customers,0
+3485,12,110.4,2299,Fresh Food,1,Regular Fresh Food Customers,0
+3444,15,86.75,2300,Fresh Food,1,Regular Fresh Food Customers,0
+3754,4,28.1,2301,Dairy,0,Loyal Dairy Buyers,0
+4049,2,32.8,2302,Dairy,0,Loyal Dairy Buyers,0
+3674,6,76.65,2303,Fresh Food,0,Loyal Fresh Food Buyers,0
+3379,15,161.84,2304,Dairy,2,Lost Dairy Customers,0
+3426,11,112.1,2305,Dairy,1,Regular Dairy Customers,0
+4051,2,23.8,2306,Household & Hygiene,0,Loyal Household & Hygiene Buyers,0
+3384,4,8.8,2307,Fresh Food,3,New Fresh Food Customers,0
+3503,5,64.2,2308,Dairy,3,New Dairy Customers,0
+3626,7,81.5,2309,Dairy,0,Loyal Dairy Buyers,0
+4100,3,10.3,2310,Fresh Food,0,Loyal Fresh Food Buyers,0
+3866,2,14.4,2311,Fresh Food,0,Loyal Fresh Food Buyers,0
+3729,9,52.2,2312,Fresh Food,0,Loyal Fresh Food Buyers,0
+3721,5,61.3,2313,Fresh Food,0,Loyal Fresh Food Buyers,0
+3427,17,171.9,2314,Dairy,2,Lost Dairy Customers,0
+3768,4,45.5,2315,Fresh Food,0,Loyal Fresh Food Buyers,0
+3790,10,59.75,2316,Fresh Food,0,Loyal Fresh Food Buyers,0
+3409,10,71.35,2318,Fresh Food,1,Regular Fresh Food Customers,0
+3563,11,78.33,2319,Dairy,1,Regular Dairy Customers,0
+3708,8,27.4,2320,Dairy,0,Loyal Dairy Buyers,0
+3612,7,52.12,2321,Fresh Food,0,Loyal Fresh Food Buyers,0
+3513,13,148.4,2322,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3407,11,108.04,2323,Dairy,1,Regular Dairy Customers,0
+3387,2,28.0,2324,Fresh Food,3,New Fresh Food Customers,0
+3431,19,150.14,2325,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3395,7,64.66,2326,Dairy,3,New Dairy Customers,0
+3511,4,17.9,2327,Fresh Food,3,New Fresh Food Customers,0
+3608,13,116.8,2328,Fresh Food,4,Occasional Fresh Food Buyers,0
+3691,6,48.9,2329,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3672,11,154.3,2330,Dairy,4,Occasional Dairy Buyers,0
+3542,15,69.26,2331,Fresh Food,1,Regular Fresh Food Customers,0
+3679,12,72.2,2332,Fresh Food,4,Occasional Fresh Food Buyers,0
+3514,21,181.52,2334,Beverages,2,Lost Beverages Customers,0
+4001,7,35.92,2335,Fresh Food,0,Loyal Fresh Food Buyers,0
+3401,4,27.94,2336,Fresh Food,3,New Fresh Food Customers,0
+3639,18,188.1,2337,Fresh Food,2,Lost Fresh Food Customers,0
+3446,6,51.2,2338,Dairy,3,New Dairy Customers,0
+3658,9,75.5,2339,Dairy,4,Occasional Dairy Buyers,0
+3433,6,16.7,2340,Dairy,3,New Dairy Customers,0
+3397,13,102.2,2341,Fresh Food,1,Regular Fresh Food Customers,0
+3440,14,142.24,2342,Fresh Food,1,Regular Fresh Food Customers,0
+3572,8,52.3,2343,Beverages,3,New Beverages Customers,0
+3716,4,7.8,2344,Fresh Food,0,Loyal Fresh Food Buyers,0
+3476,10,50.1,2345,Dairy,1,Regular Dairy Customers,0
+3446,13,135.0,2346,Dairy,1,Regular Dairy Customers,0
+3595,6,59.0,2347,Beverages,0,Loyal Beverages Buyers,0
+3423,14,203.8,2348,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3393,8,34.3,2349,Beverages,3,New Beverages Customers,0
+3670,4,12.4,2350,Fresh Food,0,Loyal Fresh Food Buyers,0
+3403,10,81.55,2351,Fresh Food,1,Regular Fresh Food Customers,0
+3684,6,60.7,2352,Fresh Food,0,Loyal Fresh Food Buyers,0
+3610,11,102.75,2353,Beverages,4,Occasional Beverages Buyers,0
+3899,2,9.8,2354,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3589,8,44.2,2355,Dairy,3,New Dairy Customers,0
+3514,11,61.54,2356,Fresh Food,1,Regular Fresh Food Customers,0
+3758,6,32.3,2357,Beverages,0,Loyal Beverages Buyers,0
+3444,8,50.8,2358,Fresh Food,3,New Fresh Food Customers,0
+3624,9,136.7,2359,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3667,8,71.0,2360,Fresh Food,4,Occasional Fresh Food Buyers,0
+3562,18,171.52,2361,Fresh Food,4,Occasional Fresh Food Buyers,0
+3636,16,86.8,2362,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3895,2,6.6,2363,Beverages,0,Loyal Beverages Buyers,0
+3648,4,24.5,2364,Fresh Food,0,Loyal Fresh Food Buyers,0
+3468,7,94.9,2365,Fresh Food,1,Regular Fresh Food Customers,0
+3581,5,23.52,2366,Fresh Food,3,New Fresh Food Customers,0
+3656,2,11.4,2368,Beverages,0,Loyal Beverages Buyers,0
+3709,14,167.22,2369,Fresh Food,4,Occasional Fresh Food Buyers,0
+3381,16,147.35,2370,Fresh Food,2,Lost Fresh Food Customers,0
+3505,11,74.9,2371,Fresh Food,1,Regular Fresh Food Customers,0
+3387,6,63.9,2372,Fresh Food,3,New Fresh Food Customers,0
+3640,6,38.3,2373,Specialty & Seasonal,0,Loyal Specialty & Seasonal Buyers,0
+3424,13,176.3,2374,Fresh Food,2,Lost Fresh Food Customers,0
+3446,8,86.9,2375,Fresh Food,1,Regular Fresh Food Customers,0
+4009,8,117.06,2376,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3468,6,46.7,2377,Fresh Food,3,New Fresh Food Customers,0
+3411,13,78.0,2378,Fresh Food,1,Regular Fresh Food Customers,0
+3838,2,28.2,2379,Fresh Food,0,Loyal Fresh Food Buyers,0
+3409,8,32.0,2380,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3384,17,131.56,2381,Fresh Food,2,Lost Fresh Food Customers,0
+3437,8,60.0,2383,Dairy,1,Regular Dairy Customers,0
+3392,4,12.1,2384,Fresh Food,3,New Fresh Food Customers,0
+3420,8,45.7,2386,Beverages,3,New Beverages Customers,0
+3489,13,81.5,2387,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3794,6,64.43,2388,Fresh Food,0,Loyal Fresh Food Buyers,0
+3517,10,43.9,2389,Dairy,3,New Dairy Customers,0
+3525,9,68.4,2390,Fresh Food,1,Regular Fresh Food Customers,0
+3414,16,123.5,2391,Fresh Food,1,Regular Fresh Food Customers,0
+3565,6,34.3,2392,Fresh Food,0,Loyal Fresh Food Buyers,0
+3423,25,191.48,2393,Fresh Food,2,Lost Fresh Food Customers,0
+3475,8,61.74,2394,Dairy,3,New Dairy Customers,0
+3926,4,40.2,2395,Fresh Food,0,Loyal Fresh Food Buyers,0
+3437,22,223.34,2396,Fresh Food,2,Lost Fresh Food Customers,0
+3764,6,17.1,2397,Fresh Food,0,Loyal Fresh Food Buyers,0
+3384,13,177.76,2398,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3424,11,82.2,2399,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3602,16,137.0,2400,Fresh Food,4,Occasional Fresh Food Buyers,0
+3465,9,102.14,2401,Fresh Food,1,Regular Fresh Food Customers,0
+3457,10,90.9,2402,Dairy,1,Regular Dairy Customers,0
+3622,12,148.8,2403,Dairy,4,Occasional Dairy Buyers,0
+3645,6,53.72,2404,Beverages,0,Loyal Beverages Buyers,0
+3394,10,33.7,2406,Fresh Food,1,Regular Fresh Food Customers,0
+3563,15,117.68,2407,Fresh Food,4,Occasional Fresh Food Buyers,0
+3909,3,35.9,2408,Fresh Food,0,Loyal Fresh Food Buyers,0
+3659,8,81.2,2410,Fresh Food,4,Occasional Fresh Food Buyers,0
+3615,12,68.8,2411,Fresh Food,4,Occasional Fresh Food Buyers,0
+3465,15,136.8,2412,Fresh Food,1,Regular Fresh Food Customers,0
+3896,7,15.8,2413,Fresh Food,0,Loyal Fresh Food Buyers,0
+3416,15,177.66,2414,Fresh Food,2,Lost Fresh Food Customers,0
+3417,23,207.32,2415,Beverages,2,Lost Beverages Customers,0
+3539,6,63.8,2416,Dairy,3,New Dairy Customers,0
+3385,12,74.4,2417,Specialty & Seasonal,1,Regular Specialty & Seasonal Customers,0
+3387,7,116.65,2419,Fresh Food,1,Regular Fresh Food Customers,0
+3420,15,135.6,2420,Beverages,1,Regular Beverages Customers,0
+3552,2,4.4,2421,Fresh Food,3,New Fresh Food Customers,0
+3443,14,113.8,2422,Fresh Food,1,Regular Fresh Food Customers,0
+3709,8,51.1,2423,Specialty & Seasonal,0,Loyal Specialty & Seasonal Buyers,0
+3557,7,28.45,2424,Fresh Food,0,Loyal Fresh Food Buyers,0
+3420,22,217.85,2425,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3477,10,50.9,2426,Fresh Food,1,Regular Fresh Food Customers,0
+3414,22,129.4,2427,Fresh Food,2,Lost Fresh Food Customers,0
+3652,8,137.5,2428,Dairy,4,Occasional Dairy Buyers,0
+3618,18,196.03,2429,Fresh Food,2,Lost Fresh Food Customers,0
+3540,17,128.95,2430,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3534,4,16.6,2431,Dairy,3,New Dairy Customers,0
+3855,11,45.52,2432,Dairy,0,Loyal Dairy Buyers,0
+3409,2,4.1,2433,Fresh Food,3,New Fresh Food Customers,0
+3433,18,125.28,2434,Beverages,2,Lost Beverages Customers,0
+3458,15,143.2,2435,Fresh Food,1,Regular Fresh Food Customers,0
+3428,18,144.4,2436,Beverages,2,Lost Beverages Customers,0
+3515,17,144.61,2437,Beverages,2,Lost Beverages Customers,0
+3553,14,156.6,2438,Fresh Food,4,Occasional Fresh Food Buyers,0
+3740,2,7.3,2439,Beverages,0,Loyal Beverages Buyers,0
+3423,14,147.94,2440,Fresh Food,1,Regular Fresh Food Customers,0
+3421,4,45.7,2441,Dairy,3,New Dairy Customers,0
+3501,7,52.5,2442,Fresh Food,3,New Fresh Food Customers,0
+3760,4,40.0,2443,Fresh Food,0,Loyal Fresh Food Buyers,0
+3558,12,59.8,2444,Fresh Food,4,Occasional Fresh Food Buyers,0
+3395,7,64.7,2445,Fresh Food,3,New Fresh Food Customers,0
+3397,22,158.74,2446,Fresh Food,2,Lost Fresh Food Customers,0
+3443,15,140.95,2447,Fresh Food,1,Regular Fresh Food Customers,0
+3395,13,76.2,2448,Fresh Food,1,Regular Fresh Food Customers,0
+3429,11,64.67,2449,Dairy,1,Regular Dairy Customers,0
+3544,8,32.9,2450,Fresh Food,3,New Fresh Food Customers,0
+3476,10,134.2,2451,Fresh Food,1,Regular Fresh Food Customers,0
+3429,15,115.55,2452,Fresh Food,1,Regular Fresh Food Customers,0
+3773,12,89.55,2453,Dairy,4,Occasional Dairy Buyers,0
+3697,9,54.7,2454,Fresh Food,0,Loyal Fresh Food Buyers,0
+3504,10,138.63,2455,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3470,12,92.62,2456,Beverages,1,Regular Beverages Customers,0
+3512,11,49.15,2457,Fresh Food,1,Regular Fresh Food Customers,0
+3486,15,98.35,2458,Fresh Food,1,Regular Fresh Food Customers,0
+3938,6,85.14,2459,Beverages,0,Loyal Beverages Buyers,0
+3501,17,223.5,2460,Beverages,2,Lost Beverages Customers,0
+3596,6,42.3,2461,Dairy,0,Loyal Dairy Buyers,0
+3873,2,39.3,2462,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3427,6,64.3,2463,Beverages,3,New Beverages Customers,0
+3498,15,221.5,2464,Fresh Food,2,Lost Fresh Food Customers,0
+4013,3,20.1,2465,Fresh Food,0,Loyal Fresh Food Buyers,0
+3475,12,85.5,2466,Fresh Food,1,Regular Fresh Food Customers,0
+3682,6,21.3,2467,Dairy,0,Loyal Dairy Buyers,0
+3718,14,124.0,2468,Dairy,4,Occasional Dairy Buyers,0
+3678,7,22.4,2469,Fresh Food,0,Loyal Fresh Food Buyers,0
+4030,4,44.9,2470,Beverages,0,Loyal Beverages Buyers,0
+3550,4,28.9,2471,Fresh Food,3,New Fresh Food Customers,0
+3458,22,244.34,2472,Dairy,2,Lost Dairy Customers,0
+3648,10,82.1,2473,Dairy,4,Occasional Dairy Buyers,0
+3408,11,150.4,2474,Beverages,1,Regular Beverages Customers,0
+3416,7,42.6,2475,Fresh Food,3,New Fresh Food Customers,0
+3410,18,148.09,2476,Fresh Food,2,Lost Fresh Food Customers,0
+3580,15,98.41,2477,Fresh Food,4,Occasional Fresh Food Buyers,0
+3529,20,121.6,2478,Household & Hygiene,2,Lost Household & Hygiene Customers,0
+3755,8,30.6,2479,Beverages,0,Loyal Beverages Buyers,0
+3537,9,60.7,2480,Fresh Food,3,New Fresh Food Customers,0
+3497,13,113.16,2481,Fresh Food,1,Regular Fresh Food Customers,0
+3590,6,37.05,2482,Fresh Food,0,Loyal Fresh Food Buyers,0
+3538,8,54.7,2483,Fresh Food,3,New Fresh Food Customers,0
+3820,3,21.2,2484,Fresh Food,0,Loyal Fresh Food Buyers,0
+3469,10,89.66,2485,Fresh Food,1,Regular Fresh Food Customers,0
+3541,11,131.63,2486,Dairy,1,Regular Dairy Customers,0
+3480,17,148.0,2487,Fresh Food,2,Lost Fresh Food Customers,0
+3559,12,84.92,2488,Fresh Food,1,Regular Fresh Food Customers,0
+3470,17,155.6,2489,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3745,8,37.9,2490,Fresh Food,0,Loyal Fresh Food Buyers,0
+3413,8,47.3,2492,Fresh Food,3,New Fresh Food Customers,0
+3557,8,40.3,2493,Dairy,3,New Dairy Customers,0
+4002,3,31.54,2494,Fresh Food,0,Loyal Fresh Food Buyers,0
+3394,4,18.6,2495,Fresh Food,3,New Fresh Food Customers,0
+3465,5,63.5,2496,Fresh Food,3,New Fresh Food Customers,0
+3452,8,22.85,2497,Dairy,3,New Dairy Customers,0
+3497,11,74.7,2499,Fresh Food,1,Regular Fresh Food Customers,0
+3397,14,140.2,2500,Fresh Food,1,Regular Fresh Food Customers,0
+3552,4,100.4,2501,Fresh Food,0,Loyal Fresh Food Buyers,0
+3649,9,112.4,2502,Fresh Food,4,Occasional Fresh Food Buyers,0
+3433,14,83.9,2503,Dairy,1,Regular Dairy Customers,0
+3614,11,70.96,2504,Dairy,4,Occasional Dairy Buyers,0
+3972,2,10.0,2505,Dairy,0,Loyal Dairy Buyers,0
+3610,7,53.3,2506,Beverages,0,Loyal Beverages Buyers,0
+3606,6,36.96,2507,Beverages,0,Loyal Beverages Buyers,0
+3378,13,174.6,2508,Beverages,2,Lost Beverages Customers,0
+3414,4,17.2,2509,Fresh Food,3,New Fresh Food Customers,0
+3383,20,176.2,2510,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3574,19,146.61,2511,Fresh Food,4,Occasional Fresh Food Buyers,0
+3405,15,106.2,2512,Beverages,1,Regular Beverages Customers,0
+3391,14,183.1,2513,Beverages,2,Lost Beverages Customers,0
+3540,4,50.4,2514,Fresh Food,3,New Fresh Food Customers,0
+3598,8,89.2,2515,Fresh Food,4,Occasional Fresh Food Buyers,0
+3525,11,73.62,2516,Dairy,1,Regular Dairy Customers,0
+3393,13,110.7,2517,Fresh Food,1,Regular Fresh Food Customers,0
+3434,13,80.0,2518,Dairy,1,Regular Dairy Customers,0
+3592,13,81.42,2519,Fresh Food,4,Occasional Fresh Food Buyers,0
+3497,8,98.65,2520,Fresh Food,4,Occasional Fresh Food Buyers,0
+3394,14,83.86,2521,Dairy,1,Regular Dairy Customers,0
+3435,23,268.8,2522,Beverages,2,Lost Beverages Customers,0
+3488,4,56.8,2523,Dairy,3,New Dairy Customers,0
+3391,17,100.1,2524,Fresh Food,1,Regular Fresh Food Customers,0
+3632,12,86.5,2525,Fresh Food,4,Occasional Fresh Food Buyers,0
+3395,6,120.3,2526,Beverages,1,Regular Beverages Customers,0
+3637,4,18.5,2527,Fresh Food,0,Loyal Fresh Food Buyers,0
+3417,11,84.85,2528,Fresh Food,1,Regular Fresh Food Customers,0
+3388,8,50.5,2530,Dairy,3,New Dairy Customers,0
+3807,5,24.5,2531,Fresh Food,0,Loyal Fresh Food Buyers,0
+3712,12,152.04,2532,Fresh Food,4,Occasional Fresh Food Buyers,0
+3604,15,119.0,2533,Fresh Food,4,Occasional Fresh Food Buyers,0
+3647,3,14.5,2534,Beverages,0,Loyal Beverages Buyers,0
+3792,2,18.9,2535,Fresh Food,0,Loyal Fresh Food Buyers,0
+4054,2,11.2,2536,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3411,14,158.66,2537,Fresh Food,1,Regular Fresh Food Customers,0
+3396,10,81.3,2538,Fresh Food,1,Regular Fresh Food Customers,0
+3848,4,10.6,2539,Fresh Food,0,Loyal Fresh Food Buyers,0
+3698,7,49.15,2540,Beverages,0,Loyal Beverages Buyers,0
+3472,14,65.44,2541,Beverages,1,Regular Beverages Customers,0
+3464,12,125.24,2542,Dairy,1,Regular Dairy Customers,0
+3624,10,88.1,2543,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3497,10,68.9,2544,Fresh Food,1,Regular Fresh Food Customers,0
+3798,7,60.9,2545,Fresh Food,0,Loyal Fresh Food Buyers,0
+3635,11,133.9,2546,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3827,4,48.1,2547,Fresh Food,0,Loyal Fresh Food Buyers,0
+3645,10,83.4,2548,Dairy,4,Occasional Dairy Buyers,0
+3573,15,116.0,2549,Fresh Food,4,Occasional Fresh Food Buyers,0
+3436,16,139.05,2550,Dairy,1,Regular Dairy Customers,0
+3380,10,48.4,2551,Fresh Food,1,Regular Fresh Food Customers,0
+3615,4,69.6,2552,Fresh Food,0,Loyal Fresh Food Buyers,0
+3975,2,14.4,2553,Fresh Food,0,Loyal Fresh Food Buyers,0
+3945,4,19.8,2555,Fresh Food,0,Loyal Fresh Food Buyers,0
+3920,4,83.3,2556,Fresh Food,0,Loyal Fresh Food Buyers,0
+3894,6,36.16,2557,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3639,13,170.5,2558,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3537,4,46.8,2559,Fresh Food,3,New Fresh Food Customers,0
+3852,2,6.8,2560,Fresh Food,0,Loyal Fresh Food Buyers,0
+3829,4,25.0,2561,Fresh Food,0,Loyal Fresh Food Buyers,0
+3379,16,184.44,2562,Fresh Food,2,Lost Fresh Food Customers,0
+3398,5,16.6,2563,Fresh Food,3,New Fresh Food Customers,0
+3395,21,228.33,2564,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3608,8,28.9,2565,Fresh Food,0,Loyal Fresh Food Buyers,0
+3386,13,115.3,2566,Dairy,1,Regular Dairy Customers,0
+3585,4,35.0,2567,Fresh Food,3,New Fresh Food Customers,0
+3774,9,85.4,2568,Fresh Food,0,Loyal Fresh Food Buyers,0
+3461,8,69.65,2569,Dairy,3,New Dairy Customers,0
+3381,6,32.3,2570,Fresh Food,3,New Fresh Food Customers,0
+3687,11,155.25,2571,Fresh Food,4,Occasional Fresh Food Buyers,0
+3479,15,96.59,2572,Beverages,1,Regular Beverages Customers,0
+3467,7,73.0,2573,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3396,11,73.5,2574,Fresh Food,1,Regular Fresh Food Customers,0
+3522,9,90.4,2575,Fresh Food,1,Regular Fresh Food Customers,0
+3680,5,72.2,2576,Beverages,0,Loyal Beverages Buyers,0
+3589,3,46.0,2577,Fresh Food,3,New Fresh Food Customers,0
+3570,17,177.2,2578,Fresh Food,4,Occasional Fresh Food Buyers,0
+3544,6,66.9,2579,Dairy,3,New Dairy Customers,0
+3453,21,213.56,2580,Fresh Food,2,Lost Fresh Food Customers,0
+3481,4,15.7,2581,Beverages,3,New Beverages Customers,0
+3429,11,112.8,2582,Fresh Food,1,Regular Fresh Food Customers,0
+3392,5,19.8,2583,Fresh Food,3,New Fresh Food Customers,0
+3695,5,124.6,2584,Dairy,4,Occasional Dairy Buyers,0
+3672,9,110.15,2585,Dairy,4,Occasional Dairy Buyers,0
+3470,20,253.55,2586,Fresh Food,2,Lost Fresh Food Customers,0
+3473,9,77.9,2587,Beverages,1,Regular Beverages Customers,0
+3570,7,34.16,2588,Dairy,0,Loyal Dairy Buyers,0
+3820,10,77.2,2589,Dairy,0,Loyal Dairy Buyers,0
+3411,12,91.74,2590,Fresh Food,1,Regular Fresh Food Customers,0
+3405,8,51.0,2591,Beverages,3,New Beverages Customers,0
+3418,19,158.5,2592,Fresh Food,2,Lost Fresh Food Customers,0
+3592,8,67.9,2593,Dairy,4,Occasional Dairy Buyers,0
+3476,8,73.96,2594,Dairy,3,New Dairy Customers,0
+3640,12,62.6,2595,Dairy,4,Occasional Dairy Buyers,0
+3390,13,87.8,2597,Fresh Food,1,Regular Fresh Food Customers,0
+3701,12,108.48,2598,Beverages,4,Occasional Beverages Buyers,0
+3756,9,137.55,2599,Fresh Food,4,Occasional Fresh Food Buyers,0
+3458,9,70.46,2600,Fresh Food,1,Regular Fresh Food Customers,0
+3594,13,92.2,2601,Fresh Food,4,Occasional Fresh Food Buyers,0
+3503,8,76.95,2602,Fresh Food,1,Regular Fresh Food Customers,0
+3517,11,50.34,2603,Dairy,1,Regular Dairy Customers,0
+3527,11,109.5,2604,Fresh Food,1,Regular Fresh Food Customers,0
+3445,6,50.49,2605,Fresh Food,3,New Fresh Food Customers,0
+3408,13,137.15,2606,Fresh Food,1,Regular Fresh Food Customers,0
+3919,6,71.2,2607,Beverages,0,Loyal Beverages Buyers,0
+3385,21,132.39,2608,Dairy,2,Lost Dairy Customers,0
+3414,9,86.12,2609,Beverages,1,Regular Beverages Customers,0
+3455,10,85.1,2610,Fresh Food,1,Regular Fresh Food Customers,0
+3457,19,158.98,2611,Fresh Food,2,Lost Fresh Food Customers,0
+3403,14,123.12,2612,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3517,13,161.3,2613,Dairy,1,Regular Dairy Customers,0
+3504,9,105.55,2614,Dairy,4,Occasional Dairy Buyers,0
+3501,8,88.6,2615,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3386,19,136.09,2616,Fresh Food,2,Lost Fresh Food Customers,0
+3446,15,143.66,2617,Dairy,1,Regular Dairy Customers,0
+3532,10,120.1,2618,Beverages,1,Regular Beverages Customers,0
+3601,12,62.4,2619,Dairy,4,Occasional Dairy Buyers,0
+3506,23,227.36,2620,Fresh Food,2,Lost Fresh Food Customers,0
+3451,12,149.1,2621,Fresh Food,1,Regular Fresh Food Customers,0
+3422,8,96.5,2622,Fresh Food,1,Regular Fresh Food Customers,0
+3391,10,47.7,2623,Dairy,1,Regular Dairy Customers,0
+3552,8,33.4,2624,Fresh Food,3,New Fresh Food Customers,0
+3801,5,55.1,2625,Fresh Food,0,Loyal Fresh Food Buyers,0
+3466,10,53.73,2626,Dairy,1,Regular Dairy Customers,0
+3500,11,67.45,2627,Beverages,1,Regular Beverages Customers,0
+3396,9,119.8,2628,Fresh Food,1,Regular Fresh Food Customers,0
+3633,3,8.4,2629,Dairy,0,Loyal Dairy Buyers,0
+3625,12,147.68,2630,Beverages,4,Occasional Beverages Buyers,0
+3575,12,83.5,2631,Fresh Food,4,Occasional Fresh Food Buyers,0
+3471,12,82.1,2632,Fresh Food,1,Regular Fresh Food Customers,0
+3492,11,62.8,2633,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3786,2,15.3,2634,Fresh Food,0,Loyal Fresh Food Buyers,0
+3565,4,27.75,2635,Fresh Food,3,New Fresh Food Customers,0
+3496,7,25.2,2636,Dairy,3,New Dairy Customers,0
+3443,21,191.84,2637,Dairy,2,Lost Dairy Customers,0
+3508,8,31.3,2638,Fresh Food,3,New Fresh Food Customers,0
+3553,4,26.85,2639,Fresh Food,3,New Fresh Food Customers,0
+3388,8,38.82,2640,Fresh Food,3,New Fresh Food Customers,0
+3711,8,93.6,2641,Beverages,0,Loyal Beverages Buyers,0
+3949,4,7.65,2642,Fresh Food,0,Loyal Fresh Food Buyers,0
+3611,7,18.7,2643,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3428,9,70.4,2644,Beverages,1,Regular Beverages Customers,0
+3592,10,70.1,2645,Beverages,4,Occasional Beverages Buyers,0
+3451,18,140.4,2646,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3594,8,33.9,2648,Fresh Food,0,Loyal Fresh Food Buyers,0
+3557,10,104.02,2649,Dairy,1,Regular Dairy Customers,0
+3894,6,28.2,2650,Fresh Food,0,Loyal Fresh Food Buyers,0
+3669,2,3.9,2651,Fresh Food,0,Loyal Fresh Food Buyers,0
+3397,6,76.8,2652,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3844,4,33.9,2653,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3596,6,49.5,2654,Fresh Food,0,Loyal Fresh Food Buyers,0
+3603,13,143.8,2655,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3426,13,102.35,2656,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3409,8,49.94,2657,Beverages,3,New Beverages Customers,0
+3534,8,71.25,2658,Dairy,3,New Dairy Customers,0
+3801,9,60.22,2659,Fresh Food,0,Loyal Fresh Food Buyers,0
+3402,21,209.02,2660,Fresh Food,2,Lost Fresh Food Customers,0
+3890,4,12.0,2661,Fresh Food,0,Loyal Fresh Food Buyers,0
+3494,5,21.0,2662,Fresh Food,3,New Fresh Food Customers,0
+3410,9,80.7,2663,Fresh Food,1,Regular Fresh Food Customers,0
+3411,12,72.1,2664,Fresh Food,1,Regular Fresh Food Customers,0
+3396,33,229.58,2665,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3378,10,35.2,2666,Dairy,1,Regular Dairy Customers,0
+3524,7,25.6,2667,Fresh Food,3,New Fresh Food Customers,0
+3968,2,65.2,2668,Dairy,0,Loyal Dairy Buyers,0
+3417,16,139.1,2669,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3508,4,60.86,2670,Fresh Food,3,New Fresh Food Customers,0
+3616,17,132.5,2671,Dairy,4,Occasional Dairy Buyers,0
+3400,12,89.3,2672,Fresh Food,1,Regular Fresh Food Customers,0
+3504,13,96.44,2673,Dairy,1,Regular Dairy Customers,0
+3429,13,112.9,2674,Fresh Food,1,Regular Fresh Food Customers,0
+3687,5,32.6,2675,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3456,11,87.7,2676,Fresh Food,1,Regular Fresh Food Customers,0
+3674,9,134.98,2677,Dairy,4,Occasional Dairy Buyers,0
+3605,6,56.1,2678,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3741,9,99.5,2679,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3509,27,222.36,2680,Fresh Food,2,Lost Fresh Food Customers,0
+3745,6,36.5,2681,Fresh Food,0,Loyal Fresh Food Buyers,0
+3720,6,61.3,2682,Fresh Food,0,Loyal Fresh Food Buyers,0
+3471,6,43.9,2683,Beverages,3,New Beverages Customers,0
+3406,10,80.7,2684,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3567,18,88.55,2685,Dairy,4,Occasional Dairy Buyers,0
+3495,13,101.4,2686,Dairy,1,Regular Dairy Customers,0
+3491,8,42.62,2687,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3416,15,64.76,2688,Dairy,1,Regular Dairy Customers,0
+3473,21,245.1,2689,Dairy,2,Lost Dairy Customers,0
+3510,11,71.4,2690,Fresh Food,1,Regular Fresh Food Customers,0
+3564,13,189.9,2691,Fresh Food,2,Lost Fresh Food Customers,0
+3428,12,70.8,2692,Dairy,1,Regular Dairy Customers,0
+3579,9,88.4,2693,Beverages,4,Occasional Beverages Buyers,0
+3430,9,160.12,2694,Fresh Food,1,Regular Fresh Food Customers,0
+3585,9,43.5,2695,Fresh Food,3,New Fresh Food Customers,0
+3462,16,239.91,2696,Dairy,2,Lost Dairy Customers,0
+3684,11,125.15,2697,Fresh Food,4,Occasional Fresh Food Buyers,0
+3729,3,55.4,2698,Dairy,0,Loyal Dairy Buyers,0
+3752,2,7.3,2699,Dairy,0,Loyal Dairy Buyers,0
+3472,8,58.72,2700,Dairy,3,New Dairy Customers,0
+3411,8,87.6,2701,Dairy,1,Regular Dairy Customers,0
+3391,12,144.7,2702,Fresh Food,1,Regular Fresh Food Customers,0
+3442,15,86.0,2703,Fresh Food,1,Regular Fresh Food Customers,0
+3543,17,214.9,2704,Beverages,2,Lost Beverages Customers,0
+4050,2,7.9,2705,Fresh Food,0,Loyal Fresh Food Buyers,0
+3405,12,89.9,2706,Fresh Food,1,Regular Fresh Food Customers,0
+3428,15,161.05,2707,Dairy,1,Regular Dairy Customers,0
+4052,2,3.7,2708,Beverages,0,Loyal Beverages Buyers,0
+3476,7,55.3,2709,Dairy,3,New Dairy Customers,0
+3708,18,135.34,2710,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3569,23,148.0,2711,Dairy,2,Lost Dairy Customers,0
+3577,9,63.5,2712,Fresh Food,4,Occasional Fresh Food Buyers,0
+3879,9,115.2,2713,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3611,13,119.9,2714,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3475,9,53.95,2715,Fresh Food,3,New Fresh Food Customers,0
+3695,2,25.8,2716,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3457,11,97.92,2717,Beverages,1,Regular Beverages Customers,0
+3441,13,104.1,2718,Fresh Food,1,Regular Fresh Food Customers,0
+3658,4,31.2,2719,Fresh Food,0,Loyal Fresh Food Buyers,0
+3896,4,35.1,2720,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3523,18,107.42,2721,Dairy,1,Regular Dairy Customers,0
+3412,11,122.4,2722,Fresh Food,1,Regular Fresh Food Customers,0
+3725,8,44.3,2723,Fresh Food,0,Loyal Fresh Food Buyers,0
+3585,2,9.0,2724,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3483,14,92.4,2725,Dairy,1,Regular Dairy Customers,0
+3495,6,67.36,2726,Dairy,3,New Dairy Customers,0
+3793,6,91.8,2727,Fresh Food,0,Loyal Fresh Food Buyers,0
+3703,6,35.8,2728,Dairy,0,Loyal Dairy Buyers,0
+3446,9,45.4,2729,Fresh Food,1,Regular Fresh Food Customers,0
+3454,4,64.4,2730,Fresh Food,3,New Fresh Food Customers,0
+3385,19,142.05,2731,Dairy,2,Lost Dairy Customers,0
+3570,9,116.32,2732,Fresh Food,4,Occasional Fresh Food Buyers,0
+3846,6,31.1,2733,Dairy,0,Loyal Dairy Buyers,0
+3502,7,86.6,2734,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3443,6,49.5,2735,Fresh Food,3,New Fresh Food Customers,0
+3512,10,76.0,2736,Fresh Food,1,Regular Fresh Food Customers,0
+3659,9,139.9,2737,Fresh Food,4,Occasional Fresh Food Buyers,0
+3615,5,51.2,2738,Fresh Food,0,Loyal Fresh Food Buyers,0
+3567,21,79.6,2739,Fresh Food,4,Occasional Fresh Food Buyers,0
+3425,20,150.65,2740,Dairy,2,Lost Dairy Customers,0
+3724,5,54.1,2741,Fresh Food,0,Loyal Fresh Food Buyers,0
+3540,13,121.64,2742,Beverages,4,Occasional Beverages Buyers,0
+3484,9,52.6,2743,Fresh Food,3,New Fresh Food Customers,0
+3390,9,57.7,2744,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3744,14,112.0,2745,Fresh Food,4,Occasional Fresh Food Buyers,0
+3391,14,118.6,2746,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3563,10,138.8,2747,Dairy,1,Regular Dairy Customers,0
+3900,6,32.5,2748,Beverages,0,Loyal Beverages Buyers,0
+3739,17,171.1,2749,Fresh Food,4,Occasional Fresh Food Buyers,0
+3474,19,221.47,2750,Fresh Food,2,Lost Fresh Food Customers,0
+3763,2,7.9,2751,Fresh Food,0,Loyal Fresh Food Buyers,0
+3699,2,5.4,2752,Fresh Food,0,Loyal Fresh Food Buyers,0
+4080,2,29.14,2753,Dairy,0,Loyal Dairy Buyers,0
+3990,2,27.24,2754,Dairy,0,Loyal Dairy Buyers,0
+3435,17,169.73,2755,Dairy,2,Lost Dairy Customers,0
+3576,9,49.4,2756,Beverages,3,New Beverages Customers,0
+3528,8,117.2,2757,Fresh Food,4,Occasional Fresh Food Buyers,0
+3451,23,214.05,2758,Dairy,2,Lost Dairy Customers,0
+3455,12,75.55,2759,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3544,15,170.96,2760,Fresh Food,4,Occasional Fresh Food Buyers,0
+3969,5,17.76,2761,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3483,21,120.05,2762,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3402,6,24.7,2763,Dairy,3,New Dairy Customers,0
+3610,5,63.6,2764,Dairy,0,Loyal Dairy Buyers,0
+3394,6,59.1,2765,Fresh Food,3,New Fresh Food Customers,0
+3851,9,75.0,2766,Fresh Food,0,Loyal Fresh Food Buyers,0
+3533,10,57.22,2767,Fresh Food,1,Regular Fresh Food Customers,0
+3542,17,136.38,2768,Fresh Food,2,Lost Fresh Food Customers,0
+3455,9,96.6,2769,Beverages,1,Regular Beverages Customers,0
+3452,9,131.8,2770,Beverages,1,Regular Beverages Customers,0
+3482,16,136.6,2771,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3480,2,17.4,2772,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3714,12,99.97,2773,Pantry Staples,4,Occasional Pantry Staples Buyers,0
+3405,11,158.1,2774,Dairy,1,Regular Dairy Customers,0
+3420,14,87.12,2775,Fresh Food,1,Regular Fresh Food Customers,0
+3758,12,89.01,2776,Dairy,4,Occasional Dairy Buyers,0
+3496,8,81.5,2777,Dairy,1,Regular Dairy Customers,0
+3612,7,57.5,2778,Fresh Food,0,Loyal Fresh Food Buyers,0
+3651,7,30.1,2779,Dairy,0,Loyal Dairy Buyers,0
+3557,6,75.7,2780,Fresh Food,3,New Fresh Food Customers,0
+3664,7,37.62,2781,Dairy,0,Loyal Dairy Buyers,0
+3406,18,193.5,2782,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3650,13,154.6,2783,Fresh Food,4,Occasional Fresh Food Buyers,0
+3434,14,87.4,2784,Fresh Food,1,Regular Fresh Food Customers,0
+3656,2,4.0,2785,Fresh Food,0,Loyal Fresh Food Buyers,0
+3469,4,58.3,2786,Fresh Food,3,New Fresh Food Customers,0
+3617,7,51.27,2787,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3554,9,57.85,2788,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3420,21,168.55,2789,Dairy,2,Lost Dairy Customers,0
+3578,14,122.92,2790,Fresh Food,4,Occasional Fresh Food Buyers,0
+3396,15,110.5,2791,Fresh Food,1,Regular Fresh Food Customers,0
+3554,10,75.7,2792,Fresh Food,4,Occasional Fresh Food Buyers,0
+3511,5,82.35,2794,Dairy,3,New Dairy Customers,0
+3529,8,62.4,2795,Beverages,3,New Beverages Customers,0
+3662,4,20.2,2796,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3530,7,34.1,2797,Fresh Food,3,New Fresh Food Customers,0
+3415,30,301.33,2798,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3907,2,7.8,2799,Fresh Food,0,Loyal Fresh Food Buyers,0
+3466,6,33.5,2800,Fresh Food,3,New Fresh Food Customers,0
+3482,16,187.4,2801,Fresh Food,2,Lost Fresh Food Customers,0
+3533,16,133.0,2802,Dairy,2,Lost Dairy Customers,0
+3405,17,191.05,2803,Dairy,2,Lost Dairy Customers,0
+3645,13,132.05,2804,Beverages,4,Occasional Beverages Buyers,0
+3450,12,94.85,2805,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3464,4,19.5,2806,Beverages,3,New Beverages Customers,0
+3645,5,69.8,2807,Dairy,0,Loyal Dairy Buyers,0
+3454,5,32.4,2808,Fresh Food,3,New Fresh Food Customers,0
+3420,10,50.0,2809,Fresh Food,1,Regular Fresh Food Customers,0
+3840,3,18.44,2810,Fresh Food,0,Loyal Fresh Food Buyers,0
+3395,4,38.42,2811,Fresh Food,3,New Fresh Food Customers,0
+3750,5,13.8,2812,Dairy,0,Loyal Dairy Buyers,0
+3443,9,31.1,2813,Fresh Food,3,New Fresh Food Customers,0
+3416,13,119.49,2814,Fresh Food,1,Regular Fresh Food Customers,0
+3541,5,46.0,2815,Fresh Food,3,New Fresh Food Customers,0
+3637,11,56.34,2816,Fresh Food,4,Occasional Fresh Food Buyers,0
+3395,12,92.9,2817,Beverages,1,Regular Beverages Customers,0
+3942,10,63.45,2818,Fresh Food,0,Loyal Fresh Food Buyers,0
+3507,13,52.5,2820,Fresh Food,1,Regular Fresh Food Customers,0
+3384,16,80.2,2822,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3388,14,122.64,2823,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3773,4,34.7,2824,Fresh Food,0,Loyal Fresh Food Buyers,0
+3409,7,80.4,2825,Fresh Food,1,Regular Fresh Food Customers,0
+3463,19,125.4,2826,Fresh Food,2,Lost Fresh Food Customers,0
+3611,8,137.0,2827,Fresh Food,4,Occasional Fresh Food Buyers,0
+3572,16,74.59,2828,Dairy,1,Regular Dairy Customers,0
+3575,4,21.6,2829,Fresh Food,3,New Fresh Food Customers,0
+3444,8,87.7,2830,Fresh Food,1,Regular Fresh Food Customers,0
+3551,4,32.3,2831,Beverages,3,New Beverages Customers,0
+3702,16,180.86,2832,Fresh Food,4,Occasional Fresh Food Buyers,0
+3390,13,122.74,2833,Fresh Food,1,Regular Fresh Food Customers,0
+3507,16,122.04,2834,Dairy,2,Lost Dairy Customers,0
+3736,7,60.6,2835,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3662,12,90.42,2836,Dairy,4,Occasional Dairy Buyers,0
+3734,6,33.82,2837,Beverages,0,Loyal Beverages Buyers,0
+3469,31,192.63,2838,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3465,6,49.5,2839,Fresh Food,3,New Fresh Food Customers,0
+3486,13,102.14,2840,Dairy,1,Regular Dairy Customers,0
+3569,13,232.92,2841,Frozen & Processed Food,2,Lost Frozen & Processed Food Customers,0
+3462,10,99.2,2842,Fresh Food,1,Regular Fresh Food Customers,0
+3612,11,170.9,2843,Fresh Food,1,Regular Fresh Food Customers,0
+3797,8,60.4,2844,Fresh Food,0,Loyal Fresh Food Buyers,0
+3502,17,200.25,2845,Dairy,2,Lost Dairy Customers,0
+3715,8,48.74,2846,Frozen & Processed Food,0,Loyal Frozen & Processed Food Buyers,0
+3440,14,85.4,2847,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3658,8,63.72,2848,Fresh Food,0,Loyal Fresh Food Buyers,0
+3510,18,159.42,2849,Fresh Food,2,Lost Fresh Food Customers,0
+3399,9,61.5,2850,Fresh Food,1,Regular Fresh Food Customers,0
+3473,10,72.12,2851,Beverages,1,Regular Beverages Customers,0
+3432,9,37.74,2852,Fresh Food,3,New Fresh Food Customers,0
+3549,8,76.0,2853,Fresh Food,3,New Fresh Food Customers,0
+3675,13,118.1,2854,Fresh Food,4,Occasional Fresh Food Buyers,0
+3980,2,12.1,2855,Fresh Food,0,Loyal Fresh Food Buyers,0
+3771,4,19.62,2856,Fresh Food,0,Loyal Fresh Food Buyers,0
+3621,11,63.36,2857,Fresh Food,4,Occasional Fresh Food Buyers,0
+3559,8,86.2,2858,Fresh Food,4,Occasional Fresh Food Buyers,0
+3889,4,57.15,2859,Fresh Food,0,Loyal Fresh Food Buyers,0
+3419,10,101.1,2860,Fresh Food,1,Regular Fresh Food Customers,0
+3530,16,189.62,2861,Dairy,2,Lost Dairy Customers,0
+3701,5,48.89,2862,Beverages,0,Loyal Beverages Buyers,0
+3674,4,48.2,2863,Fresh Food,0,Loyal Fresh Food Buyers,0
+3793,3,52.34,2864,Fresh Food,0,Loyal Fresh Food Buyers,0
+3428,23,134.61,2865,Fresh Food,2,Lost Fresh Food Customers,0
+4014,2,12.3,2866,Dairy,0,Loyal Dairy Buyers,0
+3739,3,9.4,2867,Fresh Food,0,Loyal Fresh Food Buyers,0
+3465,6,31.4,2868,Fresh Food,3,New Fresh Food Customers,0
+3419,13,201.7,2869,Dairy,2,Lost Dairy Customers,0
+3578,10,119.0,2870,Fresh Food,4,Occasional Fresh Food Buyers,0
+3576,15,147.02,2871,Fresh Food,4,Occasional Fresh Food Buyers,0
+3651,2,2.1,2872,Fresh Food,0,Loyal Fresh Food Buyers,0
+3403,15,200.0,2873,Dairy,2,Lost Dairy Customers,0
+3439,9,62.16,2874,Fresh Food,1,Regular Fresh Food Customers,0
+3609,9,66.3,2875,Dairy,4,Occasional Dairy Buyers,0
+3701,7,126.5,2876,Fresh Food,4,Occasional Fresh Food Buyers,0
+3415,6,35.4,2877,Fresh Food,3,New Fresh Food Customers,0
+3754,16,154.44,2878,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3607,24,248.11,2879,Dairy,2,Lost Dairy Customers,0
+3434,6,21.6,2880,Fresh Food,3,New Fresh Food Customers,0
+3464,14,162.5,2881,Dairy,1,Regular Dairy Customers,0
+3448,22,210.1,2882,Fresh Food,2,Lost Fresh Food Customers,0
+3384,10,61.9,2883,Fresh Food,1,Regular Fresh Food Customers,0
+3479,14,119.65,2884,Fresh Food,1,Regular Fresh Food Customers,0
+3482,13,131.85,2885,Fresh Food,1,Regular Fresh Food Customers,0
+4037,5,32.7,2886,Dairy,0,Loyal Dairy Buyers,0
+3743,8,45.15,2887,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3590,11,45.52,2888,Fresh Food,4,Occasional Fresh Food Buyers,0
+3415,16,119.99,2889,Fresh Food,1,Regular Fresh Food Customers,0
+3426,5,16.4,2890,Beverages,3,New Beverages Customers,0
+3678,5,51.8,2891,Fresh Food,0,Loyal Fresh Food Buyers,0
+3801,2,17.2,2892,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3378,15,171.03,2893,Fresh Food,2,Lost Fresh Food Customers,0
+3583,14,95.0,2894,Dairy,4,Occasional Dairy Buyers,0
+3497,16,205.9,2895,Dairy,2,Lost Dairy Customers,0
+3684,4,55.8,2897,Dairy,0,Loyal Dairy Buyers,0
+3479,13,99.88,2898,Beverages,1,Regular Beverages Customers,0
+3636,6,42.4,2899,Fresh Food,0,Loyal Fresh Food Buyers,0
+3538,4,62.3,2900,Dairy,3,New Dairy Customers,0
+3483,4,51.0,2901,Fresh Food,3,New Fresh Food Customers,0
+3483,10,44.7,2902,Fresh Food,3,New Fresh Food Customers,0
+3383,4,13.7,2903,Fresh Food,3,New Fresh Food Customers,0
+3470,15,82.79,2904,Fresh Food,1,Regular Fresh Food Customers,0
+3490,11,191.1,2905,Fresh Food,1,Regular Fresh Food Customers,0
+3708,6,63.4,2906,Dairy,0,Loyal Dairy Buyers,0
+3446,15,69.6,2907,Fresh Food,1,Regular Fresh Food Customers,0
+3420,12,69.6,2908,Fresh Food,1,Regular Fresh Food Customers,0
+3511,11,61.05,2909,Dairy,1,Regular Dairy Customers,0
+3816,6,48.1,2910,Dairy,0,Loyal Dairy Buyers,0
+3971,2,3.7,2911,Fresh Food,0,Loyal Fresh Food Buyers,0
+3923,2,20.16,2912,Dairy,0,Loyal Dairy Buyers,0
+3788,4,31.75,2913,Fresh Food,0,Loyal Fresh Food Buyers,0
+3693,3,13.9,2914,Fresh Food,0,Loyal Fresh Food Buyers,0
+3771,2,15.7,2915,Fresh Food,0,Loyal Fresh Food Buyers,0
+3565,4,13.0,2916,Fresh Food,3,New Fresh Food Customers,0
+3499,6,93.4,2917,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3457,10,106.9,2918,Fresh Food,1,Regular Fresh Food Customers,0
+3394,17,110.8,2919,Fresh Food,1,Regular Fresh Food Customers,0
+3422,13,75.2,2920,Fresh Food,1,Regular Fresh Food Customers,0
+3570,7,38.1,2921,Dairy,0,Loyal Dairy Buyers,0
+3496,14,151.55,2922,Beverages,1,Regular Beverages Customers,0
+3385,9,69.04,2923,Dairy,1,Regular Dairy Customers,0
+3612,10,76.8,2924,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3974,4,24.5,2925,Fresh Food,0,Loyal Fresh Food Buyers,0
+3390,12,132.81,2926,Dairy,1,Regular Dairy Customers,0
+3385,11,87.2,2927,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3603,9,92.62,2928,Fresh Food,4,Occasional Fresh Food Buyers,0
+3547,11,57.6,2929,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3379,6,19.4,2930,Beverages,3,New Beverages Customers,0
+3867,2,11.0,2931,Fresh Food,0,Loyal Fresh Food Buyers,0
+3606,13,97.0,2932,Dairy,4,Occasional Dairy Buyers,0
+3665,9,70.38,2933,Fresh Food,4,Occasional Fresh Food Buyers,0
+3423,8,38.66,2934,Dairy,3,New Dairy Customers,0
+3656,17,108.04,2935,Dairy,4,Occasional Dairy Buyers,0
+3631,6,60.4,2936,Fresh Food,0,Loyal Fresh Food Buyers,0
+3434,8,47.3,2937,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3421,17,152.1,2938,Dairy,2,Lost Dairy Customers,0
+3502,17,119.9,2939,Fresh Food,2,Lost Fresh Food Customers,0
+3641,5,39.4,2940,Dairy,0,Loyal Dairy Buyers,0
+3803,6,41.8,2941,Fresh Food,0,Loyal Fresh Food Buyers,0
+3530,8,86.0,2942,Fresh Food,4,Occasional Fresh Food Buyers,0
+3721,2,3.4,2943,Fresh Food,0,Loyal Fresh Food Buyers,0
+3453,14,142.9,2944,Fresh Food,1,Regular Fresh Food Customers,0
+3434,12,73.82,2945,Fresh Food,1,Regular Fresh Food Customers,0
+3562,4,25.8,2946,Fresh Food,3,New Fresh Food Customers,0
+3553,10,156.5,2947,Fresh Food,1,Regular Fresh Food Customers,0
+3807,1,1.6,2948,Dairy,0,Loyal Dairy Buyers,0
+3386,20,145.05,2949,Fresh Food,2,Lost Fresh Food Customers,0
+3451,7,23.0,2950,Beverages,3,New Beverages Customers,0
+3520,4,16.6,2951,Dairy,3,New Dairy Customers,0
+3585,6,33.7,2952,Dairy,0,Loyal Dairy Buyers,0
+3425,6,44.7,2953,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3527,12,57.4,2954,Beverages,1,Regular Beverages Customers,0
+3596,12,94.35,2955,Fresh Food,4,Occasional Fresh Food Buyers,0
+3379,10,76.9,2956,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3432,14,91.6,2957,Beverages,1,Regular Beverages Customers,0
+3381,12,88.2,2958,Fresh Food,1,Regular Fresh Food Customers,0
+3453,10,70.3,2960,Fresh Food,1,Regular Fresh Food Customers,0
+3391,16,102.35,2961,Fresh Food,1,Regular Fresh Food Customers,0
+3721,2,12.6,2962,Fresh Food,0,Loyal Fresh Food Buyers,0
+3407,10,148.4,2963,Fresh Food,1,Regular Fresh Food Customers,0
+3386,11,149.9,2964,Dairy,1,Regular Dairy Customers,0
+3744,9,42.42,2965,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3677,4,32.44,2966,Dairy,0,Loyal Dairy Buyers,0
+3614,8,42.65,2967,Dairy,0,Loyal Dairy Buyers,0
+3529,12,174.9,2968,Beverages,2,Lost Beverages Customers,0
+3555,9,93.5,2969,Fresh Food,4,Occasional Fresh Food Buyers,0
+3714,6,37.1,2970,Fresh Food,0,Loyal Fresh Food Buyers,0
+3631,5,24.82,2971,Beverages,0,Loyal Beverages Buyers,0
+3661,6,59.5,2972,Dairy,0,Loyal Dairy Buyers,0
+3616,5,91.2,2973,Dairy,0,Loyal Dairy Buyers,0
+4023,3,47.4,2974,Fresh Food,0,Loyal Fresh Food Buyers,0
+3449,16,134.45,2975,Fresh Food,1,Regular Fresh Food Customers,0
+3378,7,78.99,2976,Fresh Food,3,New Fresh Food Customers,0
+3615,9,92.7,2977,Fresh Food,4,Occasional Fresh Food Buyers,0
+3397,7,101.9,2978,Fresh Food,1,Regular Fresh Food Customers,0
+3613,6,66.8,2979,Fresh Food,0,Loyal Fresh Food Buyers,0
+3776,2,4.6,2980,Dairy,0,Loyal Dairy Buyers,0
+3426,9,37.8,2981,Dairy,3,New Dairy Customers,0
+3482,6,83.9,2982,Fresh Food,3,New Fresh Food Customers,0
+3554,13,58.04,2983,Fresh Food,4,Occasional Fresh Food Buyers,0
+3771,8,75.9,2984,Beverages,0,Loyal Beverages Buyers,0
+3453,6,80.4,2985,Fresh Food,3,New Fresh Food Customers,0
+3397,12,97.3,2986,Fresh Food,1,Regular Fresh Food Customers,0
+3619,11,45.7,2987,Beverages,4,Occasional Beverages Buyers,0
+3534,6,43.1,2988,Dairy,3,New Dairy Customers,0
+3454,9,115.26,2989,Fresh Food,1,Regular Fresh Food Customers,0
+3516,2,9.4,2990,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3436,13,120.75,2991,Dairy,1,Regular Dairy Customers,0
+3489,9,70.2,2992,Fresh Food,1,Regular Fresh Food Customers,0
+3737,8,66.0,2993,Fresh Food,0,Loyal Fresh Food Buyers,0
+3600,12,84.6,2994,Dairy,4,Occasional Dairy Buyers,0
+3526,14,110.7,2995,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3424,16,253.12,2996,Fresh Food,2,Lost Fresh Food Customers,0
+3479,6,37.0,2997,Fresh Food,3,New Fresh Food Customers,0
+3558,8,54.9,2998,Dairy,3,New Dairy Customers,0
+3449,6,31.44,2999,Fresh Food,3,New Fresh Food Customers,0
+3621,11,135.7,3000,Beverages,4,Occasional Beverages Buyers,0
+3880,2,40.9,3001,Fresh Food,0,Loyal Fresh Food Buyers,0
+3435,11,89.8,3002,Fresh Food,1,Regular Fresh Food Customers,0
+3470,9,49.1,3003,Dairy,3,New Dairy Customers,0
+3788,13,176.95,3004,Beverages,4,Occasional Beverages Buyers,0
+3504,5,35.3,3005,Beverages,3,New Beverages Customers,0
+3476,10,69.23,3006,Fresh Food,1,Regular Fresh Food Customers,0
+3465,6,56.65,3007,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3685,6,44.12,3008,Fresh Food,0,Loyal Fresh Food Buyers,0
+3380,14,118.95,3009,Fresh Food,1,Regular Fresh Food Customers,0
+3469,10,137.5,3010,Fresh Food,1,Regular Fresh Food Customers,0
+3856,4,22.3,3011,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3653,10,48.1,3012,Fresh Food,0,Loyal Fresh Food Buyers,0
+3379,6,128.9,3013,Fresh Food,1,Regular Fresh Food Customers,0
+3562,10,173.0,3014,Fresh Food,1,Regular Fresh Food Customers,0
+3410,14,77.8,3015,Fresh Food,1,Regular Fresh Food Customers,0
+3705,11,90.1,3016,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3715,5,8.5,3017,Dairy,0,Loyal Dairy Buyers,0
+3630,8,65.35,3018,Fresh Food,4,Occasional Fresh Food Buyers,0
+3622,8,98.3,3019,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3435,19,289.4,3020,Beverages,2,Lost Beverages Customers,0
+3535,9,68.5,3021,Fresh Food,1,Regular Fresh Food Customers,0
+3408,16,132.35,3022,Dairy,1,Regular Dairy Customers,0
+3405,10,96.5,3023,Fresh Food,1,Regular Fresh Food Customers,0
+3505,13,89.8,3024,Fresh Food,1,Regular Fresh Food Customers,0
+3423,12,126.65,3025,Fresh Food,1,Regular Fresh Food Customers,0
+3472,14,135.35,3026,Fresh Food,1,Regular Fresh Food Customers,0
+3465,13,87.95,3027,Fresh Food,1,Regular Fresh Food Customers,0
+3410,16,124.95,3028,Fresh Food,1,Regular Fresh Food Customers,0
+3625,18,170.0,3029,Fresh Food,4,Occasional Fresh Food Buyers,0
+3517,12,86.2,3030,Dairy,1,Regular Dairy Customers,0
+3523,10,72.1,3031,Fresh Food,1,Regular Fresh Food Customers,0
+3600,11,52.22,3032,Fresh Food,4,Occasional Fresh Food Buyers,0
+3621,8,60.0,3033,Fresh Food,4,Occasional Fresh Food Buyers,0
+3398,15,124.64,3034,Fresh Food,1,Regular Fresh Food Customers,0
+3384,2,19.4,3035,Dairy,3,New Dairy Customers,0
+3613,9,91.8,3036,Dairy,4,Occasional Dairy Buyers,0
+3397,11,108.6,3037,Fresh Food,1,Regular Fresh Food Customers,0
+3437,15,76.52,3038,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3446,9,70.25,3039,Dairy,1,Regular Dairy Customers,0
+3394,4,24.0,3040,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3490,17,130.05,3041,Fresh Food,2,Lost Fresh Food Customers,0
+3577,11,57.6,3042,Dairy,4,Occasional Dairy Buyers,0
+3797,7,82.4,3043,Fresh Food,0,Loyal Fresh Food Buyers,0
+3426,11,89.35,3044,Beverages,1,Regular Beverages Customers,0
+3431,17,129.64,3045,Fresh Food,2,Lost Fresh Food Customers,0
+3432,16,180.2,3046,Fresh Food,2,Lost Fresh Food Customers,0
+3654,11,136.8,3047,Dairy,4,Occasional Dairy Buyers,0
+3771,9,56.16,3048,Fresh Food,0,Loyal Fresh Food Buyers,0
+3534,13,79.8,3049,Dairy,1,Regular Dairy Customers,0
+3410,14,104.95,3050,Fresh Food,1,Regular Fresh Food Customers,0
+3976,4,19.4,3051,Fresh Food,0,Loyal Fresh Food Buyers,0
+3519,6,28.6,3052,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3382,26,254.04,3053,Fresh Food,2,Lost Fresh Food Customers,0
+3459,12,133.39,3054,Fresh Food,1,Regular Fresh Food Customers,0
+3412,6,36.9,3055,Fresh Food,3,New Fresh Food Customers,0
+4056,6,50.2,3056,Fresh Food,0,Loyal Fresh Food Buyers,0
+3426,3,25.1,3057,Beverages,3,New Beverages Customers,0
+3421,2,4.9,3058,Fresh Food,3,New Fresh Food Customers,0
+4041,4,24.7,3059,Fresh Food,0,Loyal Fresh Food Buyers,0
+3432,8,78.8,3060,Beverages,3,New Beverages Customers,0
+3641,6,31.84,3061,Fresh Food,0,Loyal Fresh Food Buyers,0
+3702,15,85.9,3062,Beverages,4,Occasional Beverages Buyers,0
+3483,12,119.1,3063,Dairy,1,Regular Dairy Customers,0
+3643,12,83.05,3064,Fresh Food,4,Occasional Fresh Food Buyers,0
+3663,9,52.8,3065,Dairy,0,Loyal Dairy Buyers,0
+3504,12,113.7,3066,Fresh Food,1,Regular Fresh Food Customers,0
+3436,1,3.6,3067,Dairy,3,New Dairy Customers,0
+3573,16,115.0,3068,Dairy,4,Occasional Dairy Buyers,0
+3534,22,163.0,3069,Fresh Food,2,Lost Fresh Food Customers,0
+3475,17,157.5,3071,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3527,13,131.64,3072,Fresh Food,1,Regular Fresh Food Customers,0
+3738,6,61.7,3073,Beverages,0,Loyal Beverages Buyers,0
+3382,4,16.85,3074,Dairy,3,New Dairy Customers,0
+3380,6,66.2,3075,Fresh Food,3,New Fresh Food Customers,0
+3518,13,126.92,3076,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3475,5,57.6,3077,Fresh Food,3,New Fresh Food Customers,0
+3386,14,114.0,3078,Fresh Food,1,Regular Fresh Food Customers,0
+3592,15,130.5,3079,Fresh Food,4,Occasional Fresh Food Buyers,0
+3839,10,127.05,3080,Dairy,0,Loyal Dairy Buyers,0
+3512,20,163.15,3081,Fresh Food,2,Lost Fresh Food Customers,0
+3432,14,58.26,3082,Fresh Food,1,Regular Fresh Food Customers,0
+3493,6,38.75,3083,Fresh Food,3,New Fresh Food Customers,0
+3770,4,39.7,3084,Fresh Food,0,Loyal Fresh Food Buyers,0
+3414,15,128.2,3085,Dairy,1,Regular Dairy Customers,0
+3550,15,119.65,3086,Dairy,4,Occasional Dairy Buyers,0
+3588,8,47.9,3087,Dairy,3,New Dairy Customers,0
+3461,9,50.15,3088,Dairy,3,New Dairy Customers,0
+3611,4,56.2,3089,Fresh Food,3,New Fresh Food Customers,0
+3816,4,37.5,3090,Fresh Food,0,Loyal Fresh Food Buyers,0
+3617,7,37.66,3092,Fresh Food,0,Loyal Fresh Food Buyers,0
+3576,10,70.3,3093,Dairy,4,Occasional Dairy Buyers,0
+3425,20,113.15,3094,Fresh Food,2,Lost Fresh Food Customers,0
+3662,9,121.1,3095,Fresh Food,4,Occasional Fresh Food Buyers,0
+3427,13,92.11,3096,Beverages,1,Regular Beverages Customers,0
+3857,3,20.0,3097,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3509,14,126.1,3098,Fresh Food,1,Regular Fresh Food Customers,0
+3727,17,70.39,3099,Dairy,4,Occasional Dairy Buyers,0
+3393,8,22.5,3100,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3726,6,47.0,3101,Fresh Food,0,Loyal Fresh Food Buyers,0
+3444,3,25.3,3102,Fresh Food,3,New Fresh Food Customers,0
+3441,21,189.73,3103,Dairy,2,Lost Dairy Customers,0
+3875,2,6.72,3104,Beverages,0,Loyal Beverages Buyers,0
+3488,6,27.1,3105,Dairy,3,New Dairy Customers,0
+3381,21,120.49,3106,Fresh Food,2,Lost Fresh Food Customers,0
+3435,13,122.8,3107,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3392,15,68.7,3108,Beverages,1,Regular Beverages Customers,0
+3500,8,62.54,3109,Fresh Food,3,New Fresh Food Customers,0
+3611,14,127.2,3110,Fresh Food,4,Occasional Fresh Food Buyers,0
+3468,10,74.76,3111,Fresh Food,1,Regular Fresh Food Customers,0
+3431,10,39.9,3112,Fresh Food,1,Regular Fresh Food Customers,0
+3435,17,183.1,3113,Fresh Food,2,Lost Fresh Food Customers,0
+3379,11,76.94,3115,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3933,3,53.76,3116,Fresh Food,0,Loyal Fresh Food Buyers,0
+3455,12,101.65,3117,Fresh Food,1,Regular Fresh Food Customers,0
+3406,13,138.4,3118,Fresh Food,1,Regular Fresh Food Customers,0
+3453,10,89.84,3119,Fresh Food,1,Regular Fresh Food Customers,0
+3689,4,51.5,3120,Fresh Food,0,Loyal Fresh Food Buyers,0
+3502,15,105.55,3122,Fresh Food,1,Regular Fresh Food Customers,0
+4073,2,18.0,3123,Beverages,0,Loyal Beverages Buyers,0
+3897,4,35.8,3124,Dairy,0,Loyal Dairy Buyers,0
+3523,4,50.44,3125,Fresh Food,3,New Fresh Food Customers,0
+3848,12,130.0,3126,Dairy,0,Loyal Dairy Buyers,0
+3621,11,79.75,3127,Fresh Food,4,Occasional Fresh Food Buyers,0
+3507,8,111.9,3128,Dairy,4,Occasional Dairy Buyers,0
+3462,13,94.6,3129,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3561,18,150.7,3130,Beverages,4,Occasional Beverages Buyers,0
+3624,11,48.9,3131,Dairy,4,Occasional Dairy Buyers,0
+3390,25,104.25,3132,Dairy,2,Lost Dairy Customers,0
+3466,12,191.35,3133,Dairy,1,Regular Dairy Customers,0
+3453,8,57.5,3134,Fresh Food,3,New Fresh Food Customers,0
+3417,16,165.5,3135,Fresh Food,2,Lost Fresh Food Customers,0
+3684,8,83.96,3136,Pantry Staples,4,Occasional Pantry Staples Buyers,0
+3381,13,135.99,3137,Dairy,1,Regular Dairy Customers,0
+3462,17,124.2,3138,Fresh Food,2,Lost Fresh Food Customers,0
+3402,12,109.6,3139,Fresh Food,1,Regular Fresh Food Customers,0
+3614,6,24.4,3140,Dairy,0,Loyal Dairy Buyers,0
+3402,9,89.45,3141,Fresh Food,1,Regular Fresh Food Customers,0
+3510,7,106.1,3142,Fresh Food,4,Occasional Fresh Food Buyers,0
+3634,13,83.36,3143,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3510,8,48.8,3144,Fresh Food,3,New Fresh Food Customers,0
+3433,9,97.6,3145,Fresh Food,1,Regular Fresh Food Customers,0
+3731,5,68.9,3146,Fresh Food,0,Loyal Fresh Food Buyers,0
+3389,12,94.45,3147,Fresh Food,1,Regular Fresh Food Customers,0
+3575,11,83.3,3148,Fresh Food,1,Regular Fresh Food Customers,0
+3528,20,237.4,3149,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3389,19,211.84,3150,Fresh Food,2,Lost Fresh Food Customers,0
+3413,14,193.4,3151,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3967,2,24.7,3152,Dairy,0,Loyal Dairy Buyers,0
+3396,8,65.5,3153,Fresh Food,1,Regular Fresh Food Customers,0
+3700,4,101.8,3154,Fresh Food,0,Loyal Fresh Food Buyers,0
+3404,15,76.17,3155,Fresh Food,1,Regular Fresh Food Customers,0
+3832,6,27.1,3156,Fresh Food,0,Loyal Fresh Food Buyers,0
+3399,7,27.76,3157,Dairy,3,New Dairy Customers,0
+3508,16,213.34,3158,Beverages,2,Lost Beverages Customers,0
+3438,10,62.7,3159,Dairy,1,Regular Dairy Customers,0
+3587,9,54.6,3160,Dairy,3,New Dairy Customers,0
+3407,8,71.3,3161,Fresh Food,1,Regular Fresh Food Customers,0
+4105,2,5.6,3162,Beverages,0,Loyal Beverages Buyers,0
+3825,2,11.7,3163,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3404,11,87.28,3164,Fresh Food,1,Regular Fresh Food Customers,0
+3809,4,39.76,3165,Fresh Food,0,Loyal Fresh Food Buyers,0
+3387,21,161.99,3166,Fresh Food,2,Lost Fresh Food Customers,0
+3642,9,131.16,3167,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3516,6,58.42,3168,Fresh Food,3,New Fresh Food Customers,0
+3497,11,99.36,3169,Fresh Food,1,Regular Fresh Food Customers,0
+3968,6,59.2,3170,Fresh Food,0,Loyal Fresh Food Buyers,0
+3509,13,191.75,3171,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3397,13,130.7,3172,Dairy,1,Regular Dairy Customers,0
+3567,12,46.37,3173,Fresh Food,4,Occasional Fresh Food Buyers,0
+3422,12,64.2,3174,Dairy,1,Regular Dairy Customers,0
+3695,12,157.25,3175,Fresh Food,4,Occasional Fresh Food Buyers,0
+3453,17,137.1,3176,Fresh Food,2,Lost Fresh Food Customers,0
+3611,9,60.9,3177,Dairy,4,Occasional Dairy Buyers,0
+3396,10,49.9,3178,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3530,19,130.5,3179,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3459,14,143.7,3180,Fresh Food,1,Regular Fresh Food Customers,0
+3627,12,75.75,3181,Fresh Food,4,Occasional Fresh Food Buyers,0
+3651,9,94.2,3182,Dairy,4,Occasional Dairy Buyers,0
+3703,6,44.72,3183,Fresh Food,0,Loyal Fresh Food Buyers,0
+3754,5,52.04,3184,Fresh Food,0,Loyal Fresh Food Buyers,0
+3585,26,240.4,3185,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3577,8,49.1,3186,Fresh Food,3,New Fresh Food Customers,0
+3488,15,144.6,3188,Fresh Food,1,Regular Fresh Food Customers,0
+3402,23,129.66,3189,Household & Hygiene,2,Lost Household & Hygiene Customers,0
+3923,4,43.8,3190,Dairy,0,Loyal Dairy Buyers,0
+4080,2,16.9,3191,Fresh Food,0,Loyal Fresh Food Buyers,0
+3451,13,108.96,3193,Dairy,1,Regular Dairy Customers,0
+3568,4,41.2,3194,Fresh Food,3,New Fresh Food Customers,0
+3936,7,91.9,3195,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3455,10,62.3,3196,Fresh Food,1,Regular Fresh Food Customers,0
+3379,8,60.65,3197,Pantry Staples,1,Regular Pantry Staples Customers,0
+3487,13,79.8,3198,Fresh Food,1,Regular Fresh Food Customers,0
+3524,6,39.5,3199,Fresh Food,3,New Fresh Food Customers,0
+3425,12,131.0,3200,Dairy,1,Regular Dairy Customers,0
+3461,9,115.3,3201,Dairy,1,Regular Dairy Customers,0
+3860,7,42.85,3202,Fresh Food,0,Loyal Fresh Food Buyers,0
+3399,14,86.36,3203,Fresh Food,1,Regular Fresh Food Customers,0
+3403,20,189.7,3204,Fresh Food,2,Lost Fresh Food Customers,0
+3469,22,265.7,3205,Fresh Food,2,Lost Fresh Food Customers,0
+3405,14,66.6,3206,Fresh Food,1,Regular Fresh Food Customers,0
+3443,11,98.7,3207,Beverages,1,Regular Beverages Customers,0
+3504,10,86.4,3208,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3442,23,145.52,3209,Fresh Food,2,Lost Fresh Food Customers,0
+3536,8,45.45,3210,Fresh Food,3,New Fresh Food Customers,0
+3516,15,135.69,3211,Fresh Food,1,Regular Fresh Food Customers,0
+3648,7,41.1,3212,Beverages,0,Loyal Beverages Buyers,0
+3388,15,138.26,3213,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3433,20,254.7,3214,Dairy,2,Lost Dairy Customers,0
+3383,25,245.36,3215,Dairy,2,Lost Dairy Customers,0
+3697,8,50.36,3216,Dairy,0,Loyal Dairy Buyers,0
+3537,15,117.66,3217,Dairy,4,Occasional Dairy Buyers,0
+3380,12,81.15,3218,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3921,2,21.96,3219,Fresh Food,0,Loyal Fresh Food Buyers,0
+3403,19,92.12,3220,Fresh Food,1,Regular Fresh Food Customers,0
+3484,4,11.7,3221,Beverages,3,New Beverages Customers,0
+3684,7,68.7,3222,Dairy,0,Loyal Dairy Buyers,0
+3767,5,39.8,3223,Fresh Food,0,Loyal Fresh Food Buyers,0
+3394,17,151.06,3224,Fresh Food,2,Lost Fresh Food Customers,0
+3533,10,97.42,3225,Fresh Food,1,Regular Fresh Food Customers,0
+3620,17,76.9,3226,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3626,7,25.2,3227,Beverages,0,Loyal Beverages Buyers,0
+3731,20,186.46,3228,Fresh Food,4,Occasional Fresh Food Buyers,0
+4021,4,37.1,3229,Beverages,0,Loyal Beverages Buyers,0
+3867,6,39.95,3230,Fresh Food,0,Loyal Fresh Food Buyers,0
+3430,14,77.56,3231,Fresh Food,1,Regular Fresh Food Customers,0
+3397,15,79.8,3232,Dairy,1,Regular Dairy Customers,0
+3442,18,159.6,3233,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3405,11,77.7,3234,Fresh Food,1,Regular Fresh Food Customers,0
+3391,12,111.7,3235,Fresh Food,1,Regular Fresh Food Customers,0
+3737,13,155.8,3236,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3455,9,142.7,3237,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3432,12,111.36,3238,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3626,5,32.76,3239,Fresh Food,0,Loyal Fresh Food Buyers,0
+3501,12,236.0,3240,Beverages,2,Lost Beverages Customers,0
+3811,7,43.75,3241,Fresh Food,0,Loyal Fresh Food Buyers,0
+3569,18,188.9,3242,Dairy,2,Lost Dairy Customers,0
+3489,6,50.0,3243,Dairy,3,New Dairy Customers,0
+3414,4,30.25,3244,Fresh Food,3,New Fresh Food Customers,0
+3560,2,22.8,3245,Fresh Food,3,New Fresh Food Customers,0
+3428,15,78.05,3246,Beverages,1,Regular Beverages Customers,0
+3403,17,135.32,3247,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3459,15,122.5,3248,Fresh Food,1,Regular Fresh Food Customers,0
+3443,9,129.34,3249,Beverages,1,Regular Beverages Customers,0
+3458,28,239.75,3250,Fresh Food,2,Lost Fresh Food Customers,0
+3783,6,43.76,3251,Dairy,0,Loyal Dairy Buyers,0
+3383,13,128.5,3252,Fresh Food,1,Regular Fresh Food Customers,0
+3808,7,53.23,3253,Dairy,0,Loyal Dairy Buyers,0
+3665,10,49.3,3254,Fresh Food,0,Loyal Fresh Food Buyers,0
+3387,7,55.78,3255,Fresh Food,3,New Fresh Food Customers,0
+3616,9,87.8,3256,Dairy,4,Occasional Dairy Buyers,0
+3714,6,93.06,3257,Fresh Food,0,Loyal Fresh Food Buyers,0
+3676,4,22.5,3258,Beverages,0,Loyal Beverages Buyers,0
+3641,12,65.0,3259,Fresh Food,4,Occasional Fresh Food Buyers,0
+3669,7,48.1,3260,Dairy,0,Loyal Dairy Buyers,0
+3379,13,114.75,3262,Fresh Food,1,Regular Fresh Food Customers,0
+3506,16,169.0,3263,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3726,4,34.7,3264,Dairy,0,Loyal Dairy Buyers,0
+3417,9,50.0,3265,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3407,9,134.5,3266,Fresh Food,1,Regular Fresh Food Customers,0
+3459,9,72.8,3267,Fresh Food,1,Regular Fresh Food Customers,0
+3432,6,107.3,3268,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3475,9,60.85,3269,Dairy,3,New Dairy Customers,0
+3688,6,66.25,3270,Dairy,0,Loyal Dairy Buyers,0
+3494,8,46.25,3271,Fresh Food,3,New Fresh Food Customers,0
+3550,15,123.55,3272,Dairy,4,Occasional Dairy Buyers,0
+3560,6,76.9,3273,Fresh Food,3,New Fresh Food Customers,0
+3691,3,6.5,3275,Dairy,0,Loyal Dairy Buyers,0
+3517,2,5.7,3276,Fresh Food,3,New Fresh Food Customers,0
+3423,12,81.31,3277,Fresh Food,1,Regular Fresh Food Customers,0
+3457,8,36.4,3278,Beverages,3,New Beverages Customers,0
+3505,10,58.3,3279,Fresh Food,1,Regular Fresh Food Customers,0
+3950,8,64.35,3280,Fresh Food,0,Loyal Fresh Food Buyers,0
+3570,9,75.45,3281,Fresh Food,4,Occasional Fresh Food Buyers,0
+3531,16,76.65,3282,Fresh Food,1,Regular Fresh Food Customers,0
+3518,7,104.6,3283,Dairy,4,Occasional Dairy Buyers,0
+3845,4,47.7,3284,Dairy,0,Loyal Dairy Buyers,0
+3464,12,82.6,3285,Fresh Food,1,Regular Fresh Food Customers,0
+3416,26,160.32,3286,Dairy,2,Lost Dairy Customers,0
+3688,11,58.5,3287,Fresh Food,4,Occasional Fresh Food Buyers,0
+3618,4,14.5,3288,Fresh Food,0,Loyal Fresh Food Buyers,0
+3468,4,17.6,3289,Fresh Food,3,New Fresh Food Customers,0
+3435,11,175.9,3290,Fresh Food,1,Regular Fresh Food Customers,0
+3469,6,64.3,3291,Fresh Food,3,New Fresh Food Customers,0
+3425,4,85.8,3292,Fresh Food,3,New Fresh Food Customers,0
+3771,4,23.7,3293,Beverages,0,Loyal Beverages Buyers,0
+3477,14,99.6,3294,Fresh Food,1,Regular Fresh Food Customers,0
+3421,5,53.38,3295,Fresh Food,3,New Fresh Food Customers,0
+3491,2,4.5,3296,Fresh Food,3,New Fresh Food Customers,0
+3483,17,115.2,3297,Fresh Food,2,Lost Fresh Food Customers,0
+3663,14,146.25,3298,Fresh Food,4,Occasional Fresh Food Buyers,0
+3391,17,231.44,3299,Fresh Food,2,Lost Fresh Food Customers,0
+3722,5,63.4,3300,Fresh Food,0,Loyal Fresh Food Buyers,0
+3657,14,143.84,3301,Beverages,4,Occasional Beverages Buyers,0
+3410,12,86.42,3302,Dairy,1,Regular Dairy Customers,0
+3414,5,51.4,3303,Dairy,3,New Dairy Customers,0
+3790,9,79.9,3304,Fresh Food,0,Loyal Fresh Food Buyers,0
+3566,8,98.5,3305,Household & Hygiene,4,Occasional Household & Hygiene Buyers,0
+3579,4,82.22,3306,Beverages,0,Loyal Beverages Buyers,0
+3564,11,43.84,3307,Fresh Food,4,Occasional Fresh Food Buyers,0
+3429,10,81.9,3308,Dairy,1,Regular Dairy Customers,0
+3397,6,33.02,3309,Fresh Food,3,New Fresh Food Customers,0
+3825,9,40.2,3310,Fresh Food,0,Loyal Fresh Food Buyers,0
+3825,5,97.9,3311,Dairy,0,Loyal Dairy Buyers,0
+3479,11,65.45,3312,Fresh Food,1,Regular Fresh Food Customers,0
+3824,7,63.6,3313,Fresh Food,0,Loyal Fresh Food Buyers,0
+3539,10,72.7,3314,Frozen & Processed Food,1,Regular Frozen & Processed Food Customers,0
+3595,17,91.42,3315,Dairy,4,Occasional Dairy Buyers,0
+3692,6,41.85,3316,Dairy,0,Loyal Dairy Buyers,0
+3632,9,45.92,3317,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3727,7,27.34,3318,Fresh Food,0,Loyal Fresh Food Buyers,0
+3457,11,61.55,3319,Beverages,1,Regular Beverages Customers,0
+3539,6,76.8,3320,Dairy,3,New Dairy Customers,0
+3388,13,171.56,3321,Beverages,2,Lost Beverages Customers,0
+3458,7,49.5,3322,Fresh Food,3,New Fresh Food Customers,0
+3719,7,69.26,3323,Fresh Food,0,Loyal Fresh Food Buyers,0
+3715,8,44.2,3324,Dairy,0,Loyal Dairy Buyers,0
+3385,16,72.3,3325,Dairy,1,Regular Dairy Customers,0
+3604,15,217.2,3326,Dairy,2,Lost Dairy Customers,0
+3465,8,134.6,3327,Fresh Food,1,Regular Fresh Food Customers,0
+3385,2,4.6,3328,Dairy,3,New Dairy Customers,0
+3686,6,54.2,3329,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3815,6,53.32,3330,Fresh Food,0,Loyal Fresh Food Buyers,0
+4051,2,11.4,3331,Dairy,0,Loyal Dairy Buyers,0
+3453,8,143.65,3332,Fresh Food,1,Regular Fresh Food Customers,0
+3452,2,23.7,3333,Fresh Food,3,New Fresh Food Customers,0
+3585,15,114.5,3334,Fresh Food,4,Occasional Fresh Food Buyers,0
+3711,12,128.7,3335,Beverages,4,Occasional Beverages Buyers,0
+3507,6,39.7,3336,Fresh Food,3,New Fresh Food Customers,0
+3540,3,23.5,3337,Fresh Food,3,New Fresh Food Customers,0
+3406,14,170.7,3338,Fresh Food,2,Lost Fresh Food Customers,0
+3422,14,72.8,3339,Dairy,1,Regular Dairy Customers,0
+3597,17,165.2,3341,Fresh Food,4,Occasional Fresh Food Buyers,0
+3478,15,235.11,3342,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3767,8,15.7,3343,Dairy,0,Loyal Dairy Buyers,0
+3385,2,24.1,3344,Dairy,3,New Dairy Customers,0
+3409,23,285.6,3345,Dairy,2,Lost Dairy Customers,0
+3509,8,54.3,3346,Fresh Food,3,New Fresh Food Customers,0
+3407,12,118.2,3347,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3429,16,133.3,3348,Fresh Food,1,Regular Fresh Food Customers,0
+3410,14,143.7,3349,Fresh Food,1,Regular Fresh Food Customers,0
+3793,7,56.5,3350,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3463,15,110.8,3351,Fresh Food,1,Regular Fresh Food Customers,0
+3407,15,141.2,3352,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3621,2,6.8,3353,Dairy,0,Loyal Dairy Buyers,0
+3736,12,121.7,3354,Fresh Food,4,Occasional Fresh Food Buyers,0
+3653,10,78.0,3355,Fresh Food,4,Occasional Fresh Food Buyers,0
+3531,7,60.8,3356,Fresh Food,3,New Fresh Food Customers,0
+3780,2,18.9,3357,Fresh Food,0,Loyal Fresh Food Buyers,0
+3415,4,44.6,3358,Dairy,3,New Dairy Customers,0
+3507,16,154.6,3359,Beverages,2,Lost Beverages Customers,0
+3385,3,14.1,3360,Dairy,3,New Dairy Customers,0
+3382,16,105.66,3361,Fresh Food,1,Regular Fresh Food Customers,0
+3522,17,91.55,3362,Fresh Food,1,Regular Fresh Food Customers,0
+3496,10,63.8,3363,Fresh Food,1,Regular Fresh Food Customers,0
+4027,6,38.2,3364,Fresh Food,0,Loyal Fresh Food Buyers,0
+3390,12,76.1,3365,Fresh Food,1,Regular Fresh Food Customers,0
+3549,8,49.15,3366,Beverages,3,New Beverages Customers,0
+3698,9,81.0,3367,Fresh Food,4,Occasional Fresh Food Buyers,0
+3584,11,43.3,3368,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3435,10,111.3,3369,Fresh Food,1,Regular Fresh Food Customers,0
+3448,17,89.6,3370,Fresh Food,1,Regular Fresh Food Customers,0
+3496,9,54.0,3372,Fresh Food,3,New Fresh Food Customers,0
+3416,11,95.4,3373,Fresh Food,1,Regular Fresh Food Customers,0
+3576,16,152.8,3374,Fresh Food,4,Occasional Fresh Food Buyers,0
+3451,7,111.2,3375,Fresh Food,1,Regular Fresh Food Customers,0
+3385,14,117.0,3376,Fresh Food,1,Regular Fresh Food Customers,0
+3683,9,81.0,3377,Fresh Food,4,Occasional Fresh Food Buyers,0
+3823,2,9.0,3378,Fresh Food,0,Loyal Fresh Food Buyers,0
+3492,14,177.5,3379,Dairy,2,Lost Dairy Customers,0
+3398,11,72.5,3380,Fresh Food,1,Regular Fresh Food Customers,0
+3649,5,62.1,3381,Dairy,0,Loyal Dairy Buyers,0
+3696,7,58.95,3382,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3404,9,72.05,3383,Beverages,1,Regular Beverages Customers,0
+3701,9,29.1,3384,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3944,5,46.06,3385,Fresh Food,0,Loyal Fresh Food Buyers,0
+3845,3,28.1,3386,Fresh Food,0,Loyal Fresh Food Buyers,0
+3408,11,98.2,3387,Dairy,1,Regular Dairy Customers,0
+3411,6,41.92,3389,Dairy,3,New Dairy Customers,0
+3536,12,128.55,3390,Beverages,1,Regular Beverages Customers,0
+3406,26,206.66,3391,Fresh Food,2,Lost Fresh Food Customers,0
+3757,6,44.0,3393,Dairy,0,Loyal Dairy Buyers,0
+3419,8,67.94,3394,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+4086,4,17.6,3395,Dairy,0,Loyal Dairy Buyers,0
+3846,2,17.1,3396,Dairy,0,Loyal Dairy Buyers,0
+3577,9,85.0,3397,Dairy,4,Occasional Dairy Buyers,0
+3440,9,50.1,3398,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3436,21,277.9,3399,Fresh Food,2,Lost Fresh Food Customers,0
+3392,23,160.55,3400,Dairy,2,Lost Dairy Customers,0
+3719,2,13.0,3401,Fresh Food,0,Loyal Fresh Food Buyers,0
+3584,4,21.2,3402,Dairy,3,New Dairy Customers,0
+3633,11,88.2,3403,Beverages,4,Occasional Beverages Buyers,0
+3440,15,203.26,3404,Dairy,2,Lost Dairy Customers,0
+3583,10,75.6,3405,Dairy,4,Occasional Dairy Buyers,0
+3576,13,73.22,3406,Dairy,4,Occasional Dairy Buyers,0
+3416,9,42.04,3407,Beverages,3,New Beverages Customers,0
+3389,11,130.3,3408,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3495,14,76.3,3409,Fresh Food,1,Regular Fresh Food Customers,0
+3635,13,118.75,3410,Dairy,4,Occasional Dairy Buyers,0
+3519,2,8.7,3411,Dairy,3,New Dairy Customers,0
+3515,6,59.7,3412,Fresh Food,3,New Fresh Food Customers,0
+3462,13,61.4,3413,Fresh Food,1,Regular Fresh Food Customers,0
+3409,20,290.74,3414,Dairy,2,Lost Dairy Customers,0
+3496,17,189.76,3415,Dairy,2,Lost Dairy Customers,0
+3562,7,70.7,3416,Fresh Food,3,New Fresh Food Customers,0
+3387,15,193.2,3417,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3434,5,53.49,3418,Dairy,3,New Dairy Customers,0
+3909,2,14.6,3419,Fresh Food,0,Loyal Fresh Food Buyers,0
+3576,19,128.5,3420,Fresh Food,2,Lost Fresh Food Customers,0
+3401,7,45.2,3421,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3808,2,26.0,3422,Fresh Food,0,Loyal Fresh Food Buyers,0
+3541,5,32.8,3423,Beverages,3,New Beverages Customers,0
+3435,5,101.6,3424,Fresh Food,1,Regular Fresh Food Customers,0
+4025,6,21.0,3425,Fresh Food,0,Loyal Fresh Food Buyers,0
+3484,2,10.0,3426,Dairy,3,New Dairy Customers,0
+3604,8,21.9,3427,Beverages,0,Loyal Beverages Buyers,0
+3441,12,203.95,3428,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3382,22,153.0,3429,Fresh Food,2,Lost Fresh Food Customers,0
+3462,15,129.4,3430,Fresh Food,1,Regular Fresh Food Customers,0
+3506,20,153.76,3431,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3451,11,76.5,3432,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3456,4,15.4,3433,Fresh Food,3,New Fresh Food Customers,0
+3598,10,71.36,3434,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3487,4,10.6,3435,Fresh Food,3,New Fresh Food Customers,0
+3453,17,109.07,3436,Fresh Food,1,Regular Fresh Food Customers,0
+3409,6,65.1,3437,Fresh Food,3,New Fresh Food Customers,0
+3601,6,32.4,3438,Fresh Food,0,Loyal Fresh Food Buyers,0
+3819,4,37.5,3439,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3403,7,23.4,3440,Fresh Food,3,New Fresh Food Customers,0
+3486,11,80.0,3441,Fresh Food,1,Regular Fresh Food Customers,0
+3388,13,116.5,3442,Fresh Food,1,Regular Fresh Food Customers,0
+3410,8,84.8,3443,Fresh Food,1,Regular Fresh Food Customers,0
+3674,9,47.3,3444,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3449,12,179.76,3445,Fresh Food,1,Regular Fresh Food Customers,0
+3724,6,47.7,3447,Beverages,0,Loyal Beverages Buyers,0
+3446,6,83.5,3448,Fresh Food,3,New Fresh Food Customers,0
+3721,12,65.65,3449,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3496,11,127.7,3450,Fresh Food,1,Regular Fresh Food Customers,0
+3724,6,57.3,3451,Dairy,0,Loyal Dairy Buyers,0
+3531,15,150.7,3452,Fresh Food,1,Regular Fresh Food Customers,0
+3429,15,118.6,3453,Beverages,1,Regular Beverages Customers,0
+3533,4,38.4,3454,Fresh Food,3,New Fresh Food Customers,0
+3452,8,28.5,3455,Fresh Food,3,New Fresh Food Customers,0
+3578,7,44.7,3456,Fresh Food,3,New Fresh Food Customers,0
+3503,9,102.6,3457,Beverages,4,Occasional Beverages Buyers,0
+3431,14,77.7,3458,Fresh Food,1,Regular Fresh Food Customers,0
+3513,9,118.2,3459,Dairy,4,Occasional Dairy Buyers,0
+3450,8,143.0,3460,Fresh Food,1,Regular Fresh Food Customers,0
+3647,6,73.9,3461,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3610,10,54.2,3462,Fresh Food,4,Occasional Fresh Food Buyers,0
+3558,4,23.2,3463,Fresh Food,3,New Fresh Food Customers,0
+3860,9,66.4,3464,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3797,4,11.4,3465,Fresh Food,0,Loyal Fresh Food Buyers,0
+3564,12,116.8,3466,Dairy,1,Regular Dairy Customers,0
+3434,17,142.26,3467,Fresh Food,2,Lost Fresh Food Customers,0
+3378,1,1.1,3468,Dairy,3,New Dairy Customers,0
+3500,13,153.96,3469,Dairy,1,Regular Dairy Customers,0
+3467,12,134.0,3470,Beverages,1,Regular Beverages Customers,0
+3534,12,125.14,3471,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3508,6,32.5,3472,Fresh Food,3,New Fresh Food Customers,0
+3647,6,59.5,3473,Dairy,0,Loyal Dairy Buyers,0
+3440,18,134.8,3474,Fresh Food,2,Lost Fresh Food Customers,0
+3385,16,112.5,3475,Dairy,1,Regular Dairy Customers,0
+3408,21,135.9,3476,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3398,7,29.94,3477,Fresh Food,3,New Fresh Food Customers,0
+3482,14,159.4,3478,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3434,6,86.25,3479,Fresh Food,3,New Fresh Food Customers,0
+3856,9,62.44,3480,Fresh Food,0,Loyal Fresh Food Buyers,0
+3440,16,111.15,3481,Fresh Food,1,Regular Fresh Food Customers,0
+3409,8,124.02,3482,Fresh Food,1,Regular Fresh Food Customers,0
+3649,6,34.0,3483,Fresh Food,0,Loyal Fresh Food Buyers,0
+3425,9,63.7,3484,Fresh Food,1,Regular Fresh Food Customers,0
+3688,10,62.05,3485,Fresh Food,4,Occasional Fresh Food Buyers,0
+3406,10,174.3,3486,Fresh Food,1,Regular Fresh Food Customers,0
+3471,21,156.55,3487,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3838,7,59.1,3488,Fresh Food,0,Loyal Fresh Food Buyers,0
+3964,2,17.6,3489,Fresh Food,0,Loyal Fresh Food Buyers,0
+3430,21,176.2,3490,Beverages,2,Lost Beverages Customers,0
+3400,16,179.9,3491,Fresh Food,2,Lost Fresh Food Customers,0
+3578,9,68.0,3493,Fresh Food,4,Occasional Fresh Food Buyers,0
+3400,16,142.9,3494,Fresh Food,1,Regular Fresh Food Customers,0
+3512,10,59.0,3495,Dairy,1,Regular Dairy Customers,0
+3568,18,160.6,3496,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3523,4,28.1,3497,Fresh Food,3,New Fresh Food Customers,0
+3586,10,92.0,3498,Fresh Food,4,Occasional Fresh Food Buyers,0
+3548,6,61.9,3499,Dairy,3,New Dairy Customers,0
+3420,18,114.7,3500,Fresh Food,1,Regular Fresh Food Customers,0
+3994,4,49.4,3501,Dairy,0,Loyal Dairy Buyers,0
+3547,11,98.65,3502,Beverages,1,Regular Beverages Customers,0
+3393,15,166.65,3503,Fresh Food,2,Lost Fresh Food Customers,0
+3504,3,63.5,3504,Fresh Food,3,New Fresh Food Customers,0
+3721,10,85.12,3505,Beverages,4,Occasional Beverages Buyers,0
+3446,6,49.9,3507,Fresh Food,3,New Fresh Food Customers,0
+3607,13,109.2,3508,Fresh Food,4,Occasional Fresh Food Buyers,0
+3393,8,66.6,3509,Fresh Food,1,Regular Fresh Food Customers,0
+3413,12,114.0,3510,Dairy,1,Regular Dairy Customers,0
+3431,4,71.0,3511,Fresh Food,3,New Fresh Food Customers,0
+3542,12,97.05,3512,Fresh Food,1,Regular Fresh Food Customers,0
+3503,5,28.3,3513,Fresh Food,3,New Fresh Food Customers,0
+3622,4,23.1,3514,Dairy,0,Loyal Dairy Buyers,0
+3605,12,82.82,3515,Fresh Food,4,Occasional Fresh Food Buyers,0
+3445,10,36.6,3516,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3805,5,53.3,3517,Dairy,0,Loyal Dairy Buyers,0
+3514,13,72.2,3518,Fresh Food,1,Regular Fresh Food Customers,0
+3779,9,87.3,3519,Fresh Food,0,Loyal Fresh Food Buyers,0
+3392,12,108.5,3520,Dairy,1,Regular Dairy Customers,0
+3575,5,56.1,3521,Dairy,3,New Dairy Customers,0
+3672,9,60.36,3522,Fresh Food,0,Loyal Fresh Food Buyers,0
+4020,2,23.7,3523,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3853,8,60.94,3524,Dairy,0,Loyal Dairy Buyers,0
+3553,14,121.4,3525,Fresh Food,4,Occasional Fresh Food Buyers,0
+3411,22,260.94,3526,Fresh Food,2,Lost Fresh Food Customers,0
+3645,5,30.5,3527,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3384,7,44.7,3528,Fresh Food,3,New Fresh Food Customers,0
+3390,4,108.5,3529,Fresh Food,1,Regular Fresh Food Customers,0
+3398,19,260.6,3530,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3422,10,61.42,3531,Fresh Food,1,Regular Fresh Food Customers,0
+3927,2,15.7,3532,Fresh Food,0,Loyal Fresh Food Buyers,0
+4051,2,6.8,3533,Fresh Food,0,Loyal Fresh Food Buyers,0
+3465,10,80.0,3534,Fresh Food,1,Regular Fresh Food Customers,0
+3513,14,133.8,3535,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3607,8,92.2,3536,Dairy,4,Occasional Dairy Buyers,0
+3453,8,35.5,3537,Beverages,3,New Beverages Customers,0
+3642,17,213.55,3538,Fresh Food,2,Lost Fresh Food Customers,0
+3608,11,128.9,3539,Beverages,4,Occasional Beverages Buyers,0
+3800,8,81.52,3540,Dairy,0,Loyal Dairy Buyers,0
+3781,2,28.6,3541,Fresh Food,0,Loyal Fresh Food Buyers,0
+3474,9,37.69,3542,Fresh Food,3,New Fresh Food Customers,0
+3409,10,89.3,3543,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3405,4,19.57,3544,Dairy,3,New Dairy Customers,0
+3406,16,122.15,3545,Dairy,1,Regular Dairy Customers,0
+3505,6,47.4,3546,Fresh Food,3,New Fresh Food Customers,0
+3379,20,101.9,3547,Fresh Food,1,Regular Fresh Food Customers,0
+3530,12,98.14,3548,Dairy,1,Regular Dairy Customers,0
+3694,4,42.4,3549,Fresh Food,0,Loyal Fresh Food Buyers,0
+3461,9,73.1,3550,Dairy,1,Regular Dairy Customers,0
+3829,11,53.86,3551,Fresh Food,0,Loyal Fresh Food Buyers,0
+3759,11,71.32,3552,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3570,7,47.5,3553,Fresh Food,3,New Fresh Food Customers,0
+3644,13,114.3,3554,Fresh Food,4,Occasional Fresh Food Buyers,0
+3794,4,13.4,3555,Dairy,0,Loyal Dairy Buyers,0
+3850,7,65.06,3556,Dairy,0,Loyal Dairy Buyers,0
+3528,10,54.5,3557,Fresh Food,1,Regular Fresh Food Customers,0
+3383,21,200.3,3558,Dairy,2,Lost Dairy Customers,0
+3515,20,166.8,3559,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3547,8,21.9,3560,Fresh Food,3,New Fresh Food Customers,0
+3747,8,76.6,3561,Fresh Food,0,Loyal Fresh Food Buyers,0
+3551,8,104.7,3562,Fresh Food,4,Occasional Fresh Food Buyers,0
+3612,17,139.1,3563,Dairy,4,Occasional Dairy Buyers,0
+3421,15,82.54,3564,Fresh Food,1,Regular Fresh Food Customers,0
+3999,6,36.65,3565,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3596,8,59.6,3566,Fresh Food,4,Occasional Fresh Food Buyers,0
+3685,8,59.42,3567,Fresh Food,0,Loyal Fresh Food Buyers,0
+3406,20,210.57,3568,Beverages,2,Lost Beverages Customers,0
+3505,17,159.0,3569,Fresh Food,2,Lost Fresh Food Customers,0
+3710,6,43.2,3570,Fresh Food,0,Loyal Fresh Food Buyers,0
+3566,10,116.48,3571,Fresh Food,4,Occasional Fresh Food Buyers,0
+3458,7,32.9,3572,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3529,22,182.45,3573,Dairy,2,Lost Dairy Customers,0
+3433,7,68.6,3574,Fresh Food,3,New Fresh Food Customers,0
+3763,7,107.4,3575,Dairy,0,Loyal Dairy Buyers,0
+3956,6,31.2,3576,Household & Hygiene,0,Loyal Household & Hygiene Buyers,0
+3438,10,70.6,3577,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3727,12,95.5,3578,Fresh Food,4,Occasional Fresh Food Buyers,0
+3454,7,38.2,3579,Fresh Food,3,New Fresh Food Customers,0
+3391,12,94.2,3580,Dairy,1,Regular Dairy Customers,0
+3428,22,277.18,3581,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3503,9,107.39,3582,Dairy,4,Occasional Dairy Buyers,0
+3488,14,143.62,3583,Fresh Food,1,Regular Fresh Food Customers,0
+3605,6,34.2,3584,Fresh Food,0,Loyal Fresh Food Buyers,0
+3476,20,244.05,3585,Fresh Food,2,Lost Fresh Food Customers,0
+3782,10,67.1,3586,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3434,15,145.5,3587,Beverages,1,Regular Beverages Customers,0
+3426,13,68.3,3588,Fresh Food,1,Regular Fresh Food Customers,0
+3476,10,63.6,3589,Fresh Food,1,Regular Fresh Food Customers,0
+3467,16,95.6,3590,Fresh Food,1,Regular Fresh Food Customers,0
+3492,7,20.9,3591,Fresh Food,3,New Fresh Food Customers,0
+3753,9,81.7,3592,Fresh Food,0,Loyal Fresh Food Buyers,0
+3457,8,97.26,3593,Fresh Food,1,Regular Fresh Food Customers,0
+3442,15,129.0,3594,Fresh Food,1,Regular Fresh Food Customers,0
+3512,18,105.39,3595,Fresh Food,1,Regular Fresh Food Customers,0
+3420,20,152.54,3596,Dairy,2,Lost Dairy Customers,0
+3456,26,225.41,3597,Fresh Food,2,Lost Fresh Food Customers,0
+3512,7,37.2,3598,Fresh Food,3,New Fresh Food Customers,0
+3488,12,69.32,3599,Fresh Food,1,Regular Fresh Food Customers,0
+3444,7,99.8,3600,Fresh Food,1,Regular Fresh Food Customers,0
+3529,18,162.93,3601,Fresh Food,2,Lost Fresh Food Customers,0
+3564,16,98.45,3602,Dairy,4,Occasional Dairy Buyers,0
+3622,8,37.95,3603,Fresh Food,0,Loyal Fresh Food Buyers,0
+3430,7,48.39,3604,Fresh Food,3,New Fresh Food Customers,0
+3814,2,8.2,3605,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3509,11,106.6,3606,Fresh Food,1,Regular Fresh Food Customers,0
+3600,10,55.8,3607,Pantry Staples,4,Occasional Pantry Staples Buyers,0
+3415,6,73.9,3608,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3700,4,10.7,3609,Fresh Food,0,Loyal Fresh Food Buyers,0
+3467,14,157.8,3610,Dairy,1,Regular Dairy Customers,0
+3887,6,55.3,3611,Fresh Food,0,Loyal Fresh Food Buyers,0
+3613,9,87.9,3612,Fresh Food,4,Occasional Fresh Food Buyers,0
+3482,8,53.55,3613,Fresh Food,3,New Fresh Food Customers,0
+3759,10,107.9,3614,Fresh Food,0,Loyal Fresh Food Buyers,0
+3714,6,46.8,3615,Dairy,0,Loyal Dairy Buyers,0
+3500,4,28.4,3616,Beverages,3,New Beverages Customers,0
+3763,12,96.3,3617,Beverages,4,Occasional Beverages Buyers,0
+3682,4,64.6,3618,Fresh Food,0,Loyal Fresh Food Buyers,0
+3606,15,97.72,3619,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3495,13,125.49,3620,Fresh Food,1,Regular Fresh Food Customers,0
+3380,16,124.1,3621,Fresh Food,1,Regular Fresh Food Customers,0
+3689,13,113.4,3622,Beverages,4,Occasional Beverages Buyers,0
+3555,19,156.9,3623,Fresh Food,4,Occasional Fresh Food Buyers,0
+3392,10,117.9,3624,Fresh Food,1,Regular Fresh Food Customers,0
+3600,6,64.0,3625,Dairy,0,Loyal Dairy Buyers,0
+3496,4,38.9,3626,Beverages,3,New Beverages Customers,0
+3406,10,72.22,3627,Dairy,1,Regular Dairy Customers,0
+3553,8,62.4,3628,Dairy,3,New Dairy Customers,0
+3417,10,39.5,3629,Fresh Food,1,Regular Fresh Food Customers,0
+3493,10,74.49,3630,Dairy,1,Regular Dairy Customers,0
+3644,6,28.74,3631,Fresh Food,0,Loyal Fresh Food Buyers,0
+3777,4,15.6,3632,Fresh Food,0,Loyal Fresh Food Buyers,0
+3648,5,44.4,3633,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3770,2,66.2,3634,Fresh Food,0,Loyal Fresh Food Buyers,0
+3674,9,73.14,3635,Fresh Food,4,Occasional Fresh Food Buyers,0
+3416,10,147.1,3636,Dairy,1,Regular Dairy Customers,0
+3651,12,162.1,3637,Dairy,4,Occasional Dairy Buyers,0
+3540,11,122.6,3638,Fresh Food,1,Regular Fresh Food Customers,0
+3480,2,18.0,3639,Fresh Food,3,New Fresh Food Customers,0
+3515,6,46.5,3640,Beverages,3,New Beverages Customers,0
+3769,4,13.2,3641,Beverages,0,Loyal Beverages Buyers,0
+3467,10,78.7,3642,Fresh Food,1,Regular Fresh Food Customers,0
+3474,16,109.4,3643,Beverages,1,Regular Beverages Customers,0
+3423,15,179.1,3644,Dairy,2,Lost Dairy Customers,0
+3557,13,118.64,3645,Fresh Food,4,Occasional Fresh Food Buyers,0
+3441,15,61.4,3646,Fresh Food,1,Regular Fresh Food Customers,0
+3384,17,155.98,3647,Dairy,2,Lost Dairy Customers,0
+3399,14,137.8,3648,Beverages,1,Regular Beverages Customers,0
+3506,16,175.42,3649,Fresh Food,4,Occasional Fresh Food Buyers,0
+3393,12,66.2,3650,Fresh Food,1,Regular Fresh Food Customers,0
+3696,9,82.75,3651,Fresh Food,4,Occasional Fresh Food Buyers,0
+3478,11,94.52,3652,Frozen & Processed Food,1,Regular Frozen & Processed Food Customers,0
+3419,6,50.8,3653,Fresh Food,3,New Fresh Food Customers,0
+3604,8,55.45,3654,Fresh Food,4,Occasional Fresh Food Buyers,0
+3430,23,301.1,3655,Fresh Food,2,Lost Fresh Food Customers,0
+3381,3,9.9,3656,Fresh Food,3,New Fresh Food Customers,0
+3481,14,198.5,3657,Fresh Food,2,Lost Fresh Food Customers,0
+3575,12,101.4,3658,Dairy,1,Regular Dairy Customers,0
+3767,9,39.7,3659,Fresh Food,0,Loyal Fresh Food Buyers,0
+3691,11,148.85,3660,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3650,18,122.7,3661,Dairy,4,Occasional Dairy Buyers,0
+3491,12,81.55,3662,Beverages,1,Regular Beverages Customers,0
+3439,13,73.98,3663,Fresh Food,1,Regular Fresh Food Customers,0
+3441,8,36.8,3664,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3472,8,53.95,3665,Beverages,3,New Beverages Customers,0
+3556,8,97.35,3666,Dairy,4,Occasional Dairy Buyers,0
+3470,17,119.26,3667,Beverages,2,Lost Beverages Customers,0
+3670,4,57.0,3668,Fresh Food,0,Loyal Fresh Food Buyers,0
+3479,12,107.85,3669,Fresh Food,1,Regular Fresh Food Customers,0
+3972,7,63.5,3670,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3747,7,53.2,3671,Dairy,0,Loyal Dairy Buyers,0
+3754,10,81.85,3672,Fresh Food,4,Occasional Fresh Food Buyers,0
+3429,17,147.1,3673,Fresh Food,2,Lost Fresh Food Customers,0
+3545,4,44.5,3674,Dairy,3,New Dairy Customers,0
+4019,3,17.6,3675,Dairy,0,Loyal Dairy Buyers,0
+3444,17,125.7,3676,Fresh Food,2,Lost Fresh Food Customers,0
+3506,15,146.4,3677,Fresh Food,1,Regular Fresh Food Customers,0
+3429,16,117.9,3678,Dairy,1,Regular Dairy Customers,0
+3480,20,127.22,3679,Fresh Food,2,Lost Fresh Food Customers,0
+3416,6,67.1,3680,Dairy,3,New Dairy Customers,0
+3514,10,88.05,3681,Dairy,1,Regular Dairy Customers,0
+3447,21,190.16,3682,Dairy,2,Lost Dairy Customers,0
+3488,5,114.0,3683,Fresh Food,1,Regular Fresh Food Customers,0
+3486,12,109.42,3684,Fresh Food,1,Regular Fresh Food Customers,0
+3773,7,76.1,3685,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3518,12,117.9,3686,Fresh Food,1,Regular Fresh Food Customers,0
+3624,13,152.02,3687,Fresh Food,4,Occasional Fresh Food Buyers,0
+3488,11,207.05,3688,Dairy,1,Regular Dairy Customers,0
+3515,11,53.39,3689,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+4049,4,24.4,3690,Fresh Food,0,Loyal Fresh Food Buyers,0
+3541,4,18.7,3691,Fresh Food,3,New Fresh Food Customers,0
+3414,10,107.4,3692,Fresh Food,1,Regular Fresh Food Customers,0
+3442,11,68.8,3693,Fresh Food,1,Regular Fresh Food Customers,0
+3531,2,13.5,3694,Fresh Food,3,New Fresh Food Customers,0
+3505,14,95.6,3695,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3557,11,141.6,3696,Fresh Food,1,Regular Fresh Food Customers,0
+3417,8,45.84,3697,Dairy,3,New Dairy Customers,0
+3630,19,171.85,3698,Dairy,4,Occasional Dairy Buyers,0
+3384,15,205.6,3699,Fresh Food,2,Lost Fresh Food Customers,0
+3526,5,29.2,3700,Dairy,3,New Dairy Customers,0
+3885,2,30.0,3701,Household & Hygiene,0,Loyal Household & Hygiene Buyers,0
+3381,17,167.54,3703,Dairy,2,Lost Dairy Customers,0
+3456,4,12.0,3704,Dairy,3,New Dairy Customers,0
+3414,11,87.0,3705,Beverages,1,Regular Beverages Customers,0
+3573,13,144.0,3706,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3510,11,91.08,3707,Fresh Food,1,Regular Fresh Food Customers,0
+3471,12,99.26,3708,Dairy,1,Regular Dairy Customers,0
+3515,4,37.4,3709,Fresh Food,3,New Fresh Food Customers,0
+3436,7,32.9,3710,Dairy,3,New Dairy Customers,0
+3595,15,105.3,3711,Fresh Food,4,Occasional Fresh Food Buyers,0
+3526,7,73.9,3712,Dairy,3,New Dairy Customers,0
+3486,14,110.7,3713,Fresh Food,1,Regular Fresh Food Customers,0
+4083,2,47.9,3714,Fresh Food,0,Loyal Fresh Food Buyers,0
+3530,2,3.2,3715,Dairy,3,New Dairy Customers,0
+3388,12,102.0,3716,Fresh Food,1,Regular Fresh Food Customers,0
+3663,8,43.5,3717,Fresh Food,0,Loyal Fresh Food Buyers,0
+3468,12,71.05,3718,Fresh Food,1,Regular Fresh Food Customers,0
+3401,18,133.8,3719,Dairy,2,Lost Dairy Customers,0
+3410,14,97.59,3720,Fresh Food,1,Regular Fresh Food Customers,0
+3557,12,50.8,3721,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3848,8,67.46,3722,Dairy,0,Loyal Dairy Buyers,0
+3937,2,11.6,3723,Fresh Food,0,Loyal Fresh Food Buyers,0
+3423,14,160.0,3724,Fresh Food,1,Regular Fresh Food Customers,0
+3576,13,180.3,3725,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3411,14,108.7,3726,Fresh Food,1,Regular Fresh Food Customers,0
+3458,23,201.41,3727,Fresh Food,2,Lost Fresh Food Customers,0
+3435,4,25.2,3728,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3750,8,36.7,3729,Fresh Food,0,Loyal Fresh Food Buyers,0
+3425,26,242.65,3730,Fresh Food,2,Lost Fresh Food Customers,0
+3405,13,140.02,3731,Fresh Food,1,Regular Fresh Food Customers,0
+3673,7,57.95,3732,Fresh Food,0,Loyal Fresh Food Buyers,0
+3625,2,7.8,3733,Dairy,0,Loyal Dairy Buyers,0
+3399,13,77.84,3734,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3425,19,242.0,3735,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3406,10,86.8,3736,Fresh Food,1,Regular Fresh Food Customers,0
+3711,8,75.3,3737,Fresh Food,4,Occasional Fresh Food Buyers,0
+3389,8,45.34,3738,Dairy,3,New Dairy Customers,0
+3586,10,79.4,3739,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3391,11,46.9,3740,Fresh Food,1,Regular Fresh Food Customers,0
+3400,12,79.89,3741,Fresh Food,1,Regular Fresh Food Customers,0
+3609,11,104.85,3742,Fresh Food,4,Occasional Fresh Food Buyers,0
+3688,2,23.4,3743,Fresh Food,0,Loyal Fresh Food Buyers,0
+3457,8,102.2,3744,Dairy,1,Regular Dairy Customers,0
+3769,5,15.0,3745,Fresh Food,0,Loyal Fresh Food Buyers,0
+3708,9,46.42,3746,Fresh Food,0,Loyal Fresh Food Buyers,0
+3455,6,48.5,3747,Fresh Food,3,New Fresh Food Customers,0
+3605,7,48.64,3748,Fresh Food,0,Loyal Fresh Food Buyers,0
+3546,4,41.9,3749,Fresh Food,3,New Fresh Food Customers,0
+3388,14,145.2,3750,Dairy,1,Regular Dairy Customers,0
+3509,20,108.8,3751,Dairy,2,Lost Dairy Customers,0
+3465,12,123.6,3752,Fresh Food,1,Regular Fresh Food Customers,0
+3750,8,44.35,3753,Fresh Food,0,Loyal Fresh Food Buyers,0
+3621,10,108.8,3754,Dairy,4,Occasional Dairy Buyers,0
+3724,8,51.85,3755,Dairy,0,Loyal Dairy Buyers,0
+3533,4,35.1,3756,Fresh Food,3,New Fresh Food Customers,0
+3696,6,50.6,3757,Dairy,0,Loyal Dairy Buyers,0
+3490,8,112.0,3758,Dairy,4,Occasional Dairy Buyers,0
+3789,13,69.76,3759,Dairy,4,Occasional Dairy Buyers,0
+3486,6,34.4,3760,Dairy,3,New Dairy Customers,0
+3607,12,95.3,3761,Fresh Food,4,Occasional Fresh Food Buyers,0
+3378,4,36.1,3762,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3404,25,150.58,3763,Fresh Food,2,Lost Fresh Food Customers,0
+3786,5,71.5,3764,Fresh Food,0,Loyal Fresh Food Buyers,0
+3509,6,27.1,3765,Dairy,3,New Dairy Customers,0
+3440,11,180.0,3766,Fresh Food,1,Regular Fresh Food Customers,0
+3620,13,51.7,3767,Beverages,4,Occasional Beverages Buyers,0
+3649,10,82.3,3768,Fresh Food,4,Occasional Fresh Food Buyers,0
+3925,6,24.4,3769,Fresh Food,0,Loyal Fresh Food Buyers,0
+3423,7,100.12,3770,Fresh Food,1,Regular Fresh Food Customers,0
+3810,12,111.62,3771,Beverages,0,Loyal Beverages Buyers,0
+3496,7,61.7,3772,Fresh Food,3,New Fresh Food Customers,0
+3385,5,43.95,3773,Pantry Staples,3,New Pantry Staples Customers,0
+3443,28,221.4,3774,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3690,8,61.9,3775,Dairy,0,Loyal Dairy Buyers,0
+3432,21,147.41,3776,Dairy,2,Lost Dairy Customers,0
+3478,7,71.8,3777,Dairy,3,New Dairy Customers,0
+3457,9,99.15,3778,Fresh Food,1,Regular Fresh Food Customers,0
+3853,6,127.1,3779,Fresh Food,0,Loyal Fresh Food Buyers,0
+3533,8,59.94,3780,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3438,4,36.6,3781,Fresh Food,3,New Fresh Food Customers,0
+3502,10,99.52,3782,Fresh Food,1,Regular Fresh Food Customers,0
+4077,2,26.3,3783,Beverages,0,Loyal Beverages Buyers,0
+3453,2,16.4,3784,Fresh Food,3,New Fresh Food Customers,0
+3716,10,121.31,3785,Fresh Food,4,Occasional Fresh Food Buyers,0
+3791,6,47.9,3786,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3698,6,39.55,3787,Fresh Food,0,Loyal Fresh Food Buyers,0
+3708,3,6.4,3788,Fresh Food,0,Loyal Fresh Food Buyers,0
+3485,12,93.6,3789,Household & Hygiene,1,Regular Household & Hygiene Customers,0
+3463,13,111.1,3790,Fresh Food,1,Regular Fresh Food Customers,0
+3639,12,96.2,3791,Dairy,4,Occasional Dairy Buyers,0
+3682,8,109.9,3792,Dairy,4,Occasional Dairy Buyers,0
+3385,8,81.0,3793,Dairy,1,Regular Dairy Customers,0
+3492,10,41.35,3794,Fresh Food,3,New Fresh Food Customers,0
+3445,8,71.3,3795,Dairy,3,New Dairy Customers,0
+3778,8,79.6,3796,Beverages,0,Loyal Beverages Buyers,0
+3535,6,57.2,3797,Dairy,3,New Dairy Customers,0
+3670,9,67.7,3798,Dairy,4,Occasional Dairy Buyers,0
+3833,4,26.1,3799,Fresh Food,0,Loyal Fresh Food Buyers,0
+3697,8,70.0,3800,Fresh Food,4,Occasional Fresh Food Buyers,0
+3636,6,25.0,3801,Fresh Food,0,Loyal Fresh Food Buyers,0
+3400,8,48.1,3802,Fresh Food,3,New Fresh Food Customers,0
+3767,2,14.5,3803,Fresh Food,0,Loyal Fresh Food Buyers,0
+3413,2,33.2,3804,Fresh Food,3,New Fresh Food Customers,0
+3469,11,107.34,3805,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3631,5,29.7,3806,Fresh Food,0,Loyal Fresh Food Buyers,0
+3602,7,74.19,3807,Fresh Food,0,Loyal Fresh Food Buyers,0
+3443,6,55.7,3808,Dairy,3,New Dairy Customers,0
+3413,6,74.9,3809,Beverages,3,New Beverages Customers,0
+3735,10,50.75,3810,Fresh Food,0,Loyal Fresh Food Buyers,0
+3529,7,31.4,3811,Beverages,3,New Beverages Customers,0
+3409,9,95.16,3812,Fresh Food,1,Regular Fresh Food Customers,0
+3481,16,88.4,3813,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3682,13,141.5,3814,Beverages,4,Occasional Beverages Buyers,0
+3771,6,45.4,3815,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3715,5,17.7,3816,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3653,8,58.9,3817,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3690,4,19.0,3818,Fresh Food,0,Loyal Fresh Food Buyers,0
+3391,10,106.0,3819,Fresh Food,1,Regular Fresh Food Customers,0
+3476,13,93.07,3820,Beverages,1,Regular Beverages Customers,0
+3485,14,87.4,3821,Fresh Food,1,Regular Fresh Food Customers,0
+3755,11,87.89,3822,Fresh Food,4,Occasional Fresh Food Buyers,0
+3783,2,2.9,3823,Dairy,0,Loyal Dairy Buyers,0
+3450,5,29.2,3824,Dairy,3,New Dairy Customers,0
+3512,3,68.4,3825,Dairy,3,New Dairy Customers,0
+3534,14,86.95,3826,Beverages,1,Regular Beverages Customers,0
+3882,3,18.7,3827,Fresh Food,0,Loyal Fresh Food Buyers,0
+3618,14,68.1,3828,Dairy,4,Occasional Dairy Buyers,0
+3418,14,95.9,3829,Fresh Food,1,Regular Fresh Food Customers,0
+3684,21,113.05,3830,Fresh Food,4,Occasional Fresh Food Buyers,0
+3438,8,37.0,3831,Beverages,3,New Beverages Customers,0
+3650,8,62.4,3832,Fresh Food,0,Loyal Fresh Food Buyers,0
+3563,16,172.04,3834,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3398,16,124.87,3835,Beverages,1,Regular Beverages Customers,0
+3455,16,110.7,3836,Fresh Food,1,Regular Fresh Food Customers,0
+3509,8,82.75,3837,Fresh Food,1,Regular Fresh Food Customers,0
+3697,26,194.04,3838,Dairy,2,Lost Dairy Customers,0
+3415,10,98.1,3839,Dairy,1,Regular Dairy Customers,0
+3533,6,34.1,3840,Dairy,3,New Dairy Customers,0
+3466,9,53.05,3841,Fresh Food,3,New Fresh Food Customers,0
+3528,2,12.0,3842,Fresh Food,3,New Fresh Food Customers,0
+3434,18,162.5,3843,Fresh Food,2,Lost Fresh Food Customers,0
+3420,14,154.25,3844,Fresh Food,1,Regular Fresh Food Customers,0
+3964,4,27.6,3845,Fresh Food,0,Loyal Fresh Food Buyers,0
+3512,2,15.2,3846,Fresh Food,3,New Fresh Food Customers,0
+3630,9,52.72,3847,Fresh Food,0,Loyal Fresh Food Buyers,0
+3414,13,137.6,3848,Dairy,1,Regular Dairy Customers,0
+3447,15,172.5,3849,Fresh Food,2,Lost Fresh Food Customers,0
+3459,16,144.9,3850,Beverages,2,Lost Beverages Customers,0
+3475,8,60.0,3851,Dairy,3,New Dairy Customers,0
+3763,6,39.8,3852,Fresh Food,0,Loyal Fresh Food Buyers,0
+3783,8,45.3,3853,Fresh Food,0,Loyal Fresh Food Buyers,0
+3893,6,63.4,3854,Beverages,0,Loyal Beverages Buyers,0
+3550,13,189.7,3855,Fresh Food,2,Lost Fresh Food Customers,0
+3561,12,98.1,3856,Fresh Food,1,Regular Fresh Food Customers,0
+3511,9,36.0,3857,Fresh Food,3,New Fresh Food Customers,0
+3801,2,16.2,3858,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3654,11,118.8,3859,Beverages,4,Occasional Beverages Buyers,0
+3744,8,69.1,3860,Dairy,0,Loyal Dairy Buyers,0
+3408,4,23.15,3861,Bakery & Sweets,3,New Bakery & Sweets Customers,0
+3458,4,59.9,3862,Dairy,3,New Dairy Customers,0
+3717,6,55.6,3863,Beverages,0,Loyal Beverages Buyers,0
+3476,12,151.4,3864,Bakery & Sweets,1,Regular Bakery & Sweets Customers,0
+3596,13,94.36,3866,Beverages,4,Occasional Beverages Buyers,0
+3522,7,70.5,3867,Fresh Food,3,New Fresh Food Customers,0
+3605,6,41.4,3868,Fresh Food,0,Loyal Fresh Food Buyers,0
+3705,13,138.7,3869,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3959,3,16.4,3870,Dairy,0,Loyal Dairy Buyers,0
+3798,4,34.24,3871,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3436,13,110.7,3872,Fresh Food,1,Regular Fresh Food Customers,0
+3510,9,72.85,3874,Beverages,1,Regular Beverages Customers,0
+3628,7,28.6,3876,Fresh Food,0,Loyal Fresh Food Buyers,0
+3870,2,20.75,3877,Fresh Food,0,Loyal Fresh Food Buyers,0
+3732,9,98.1,3878,Fresh Food,0,Loyal Fresh Food Buyers,0
+3529,3,9.6,3879,Fresh Food,3,New Fresh Food Customers,0
+3626,7,22.15,3881,Fresh Food,0,Loyal Fresh Food Buyers,0
+3382,8,25.97,3882,Dairy,3,New Dairy Customers,0
+3710,12,86.95,3883,Dairy,4,Occasional Dairy Buyers,0
+3735,7,26.4,3884,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3388,17,134.2,3885,Bakery & Sweets,2,Lost Bakery & Sweets Customers,0
+3572,10,86.2,3886,Fresh Food,4,Occasional Fresh Food Buyers,0
+3394,8,99.4,3887,Beverages,1,Regular Beverages Customers,0
+3751,10,61.34,3888,Fresh Food,0,Loyal Fresh Food Buyers,0
+3571,11,133.9,3889,Fresh Food,1,Regular Fresh Food Customers,0
+3702,10,96.78,3890,Bakery & Sweets,4,Occasional Bakery & Sweets Buyers,0
+3703,2,13.5,3891,Bakery & Sweets,0,Loyal Bakery & Sweets Buyers,0
+3954,4,29.0,3892,Fresh Food,0,Loyal Fresh Food Buyers,0
+3414,10,28.5,3893,Fresh Food,1,Regular Fresh Food Customers,0
+3381,6,93.0,3894,Fresh Food,1,Regular Fresh Food Customers,0
+3455,2,33.0,3895,Fresh Food,3,New Fresh Food Customers,0
+3382,16,164.86,3896,Fresh Food,2,Lost Fresh Food Customers,0
+3701,7,21.8,3897,Beverages,0,Loyal Beverages Buyers,0
