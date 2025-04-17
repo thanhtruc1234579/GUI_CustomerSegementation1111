@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 seaborn
 Pillow
+scipy==1.10.1
